@@ -161,6 +161,86 @@
  },
  {
   "date": "2026-09-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:baidu/ernie-4.5-vl-424b-a47b",
+  "source": "openrouter",
+  "model": "baidu/ernie-4.5-vl-424b-a47b",
+  "name": "Baidu: ERNIE 4.5 VL 424B A47B ",
+  "detail": "retires in 15 days (2026-10-08)"
+ },
+ {
+  "date": "2026-09-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:deepseek/deepseek-r1-distill-llama-70b",
+  "source": "openrouter",
+  "model": "deepseek/deepseek-r1-distill-llama-70b",
+  "name": "DeepSeek: R1 Distill Llama 70B",
+  "detail": "retires in 5 days (2026-09-28)"
+ },
+ {
+  "date": "2026-09-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:deepseek/deepseek-v3.1-terminus",
+  "source": "openrouter",
+  "model": "deepseek/deepseek-v3.1-terminus",
+  "name": "DeepSeek: DeepSeek V3.1 Terminus",
+  "detail": "retires in 5 days (2026-09-28)"
+ },
+ {
+  "date": "2026-09-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:deepseek/deepseek-v3.2",
+  "source": "openrouter",
+  "model": "deepseek/deepseek-v3.2",
+  "name": "DeepSeek: DeepSeek V3.2",
+  "detail": "retires in 5 days (2026-09-28)"
+ },
+ {
+  "date": "2026-09-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:deepseek/deepseek-v3.2-exp",
+  "source": "openrouter",
+  "model": "deepseek/deepseek-v3.2-exp",
+  "name": "DeepSeek: DeepSeek V3.2 Exp",
+  "detail": "retires in 5 days (2026-09-28)"
+ },
+ {
+  "date": "2026-09-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:minimax/minimax-m2.1",
+  "source": "openrouter",
+  "model": "minimax/minimax-m2.1",
+  "name": "MiniMax: MiniMax M2.1",
+  "detail": "retires in 15 days (2026-10-08)"
+ },
+ {
+  "date": "2026-09-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:nex-agi/nex-n2.5-mini:free",
+  "source": "openrouter",
+  "model": "nex-agi/nex-n2.5-mini:free",
+  "name": "Nex AGI: Nex-N2.5-Mini (free)",
+  "detail": "retires in 2 days (2026-09-25)"
+ },
+ {
+  "date": "2026-09-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:nex-agi/nex-n2.5-pro:free",
+  "source": "openrouter",
+  "model": "nex-agi/nex-n2.5-pro:free",
+  "name": "Nex AGI: Nex-N2.5-Pro (free)",
+  "detail": "retires in 2 days (2026-09-25)"
+ },
+ {
+  "date": "2026-09-23",
   "kind": "price_change",
   "weight": 2,
   "key": "modelsdev:kilo/tencent/hy3",

@@ -72,6 +72,8 @@ def normalise_openrouter(payload: dict) -> dict:
         if not mid:
             continue
         pricing = m.get("pricing") or {}
+        arch = m.get("architecture") or {}
+        params = m.get("supported_parameters") or []
         out[f"openrouter:{mid}"] = {
             "source": "openrouter",
             "id": mid,
@@ -80,6 +82,11 @@ def normalise_openrouter(payload: dict) -> dict:
             "in_price": _price(pricing, "prompt"),
             "out_price": _price(pricing, "completion"),
             "expires": m.get("expiration_date") or None,
+            # Carried for selection, not for diffing: a catalog entry can be free,
+            # roomy and alive and still be a music model. Without these, a resolver
+            # picking on price and context alone will hand a text job to Lyria.
+            "out_text": "text" in (arch.get("output_modalities") or []),
+            "tools": "tools" in params,
         }
     return out
 
