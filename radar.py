@@ -42,6 +42,10 @@ ROLLING_EVENTS = 400
 EXPIRY_SOON_DAYS = 21
 # Dates past this are placeholders (z-ai ships 2098-12-31), not real deprecations.
 EXPIRY_SANE_YEARS = 5
+# Catalogs jitter: FX conversion and rounding move published prices by fractions of
+# a percent with nothing behind them. Below this, it is noise, and noise buries the
+# 60% rise sitting next to it.
+MIN_PRICE_PCT = 2.0
 
 
 def fetch(url: str, timeout: int = 60) -> object:
@@ -153,8 +157,10 @@ def diff(old: dict, new: dict, today: dt.date) -> list[dict]:
         else:
             for field, label in (("in_price", "input"), ("out_price", "output")):
                 a, b = prev.get(field), rec.get(field)
-                if a is None or b is None or a == b:
+                if a is None or b is None or a == b or not a:
                     continue
+                if abs((b - a) / a * 100) < MIN_PRICE_PCT:
+                    continue  # rounding / FX jitter, not a price change
                 ev("price_change", key, rec, f"{label} ${a}/M → ${b}/M ({pct(a, b)})", 2)
 
         if prev.get("context") != rec.get("context") and prev.get("context") and rec.get("context"):
@@ -189,7 +195,33 @@ def diff(old: dict, new: dict, today: dt.date) -> list[dict]:
             ev("expiring_soon", key, rec, f"retires in {days} day{'s' if days != 1 else ''} ({when})", 3)
 
     events.sort(key=lambda e: (-e["weight"], e["kind"], e["key"]))
-    return events
+    return collapse_duplicates(events)
+
+
+def collapse_duplicates(events: list[dict]) -> list[dict]:
+    """One model listed by three aggregators is one change, not three.
+
+    models.dev carries the same underlying model under several provider prefixes
+    (`kilo/~z-ai/glm-latest`, `openrouter/~z-ai/glm-latest`, `~z-ai/glm-latest`).
+    Identical change, identical numbers — report it once and say where else it landed.
+    """
+    seen: dict[tuple, dict] = {}
+    out: list[dict] = []
+    for e in events:
+        tail = "/".join(e["model"].split("/")[-2:])
+        sig = (e["kind"], tail, e["detail"])
+        first = seen.get(sig)
+        if first is None:
+            seen[sig] = e
+            e["_dupes"] = 0
+            out.append(e)
+        else:
+            first["_dupes"] += 1
+    for e in out:
+        n = e.pop("_dupes", 0)
+        if n:
+            e["detail"] += f" — also on {n} other listing{'s' if n > 1 else ''}"
+    return out
 
 
 # ---------------------------------------------------------------- rendering
