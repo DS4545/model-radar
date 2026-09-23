@@ -25964,6 +25964,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:kilo/cohere/command-a-plus": {
+  "context": 192000,
+  "expires": null,
+  "id": "kilo/cohere/command-a-plus",
+  "in_price": 0.3,
+  "name": "Cohere: Command A+",
+  "out_price": 1.5,
+  "source": "models.dev"
+ },
  "modelsdev:kilo/cohere/command-r-08-2024": {
   "context": 128000,
   "expires": null,
@@ -28596,9 +28605,9 @@
   "context": 262144,
   "expires": null,
   "id": "kilo/tencent/hy3",
-  "in_price": 0.0825,
+  "in_price": 0.13,
   "name": "Hy3",
-  "out_price": 0.33,
+  "out_price": 0.53,
   "source": "models.dev"
  },
  "modelsdev:kilo/tencent/hy3-preview": {
@@ -29019,9 +29028,9 @@
   "context": 1048576,
   "expires": null,
   "id": "kilo/~deepseek/deepseek-pro-latest",
-  "in_price": 0.39996,
+  "in_price": 0.4,
   "name": "DeepSeek: DeepSeek Pro Latest",
-  "out_price": 1.19988,
+  "out_price": 4.3,
   "source": "models.dev"
  },
  "modelsdev:kilo/~deepseek/deepseek-v4-flash-latest": {
@@ -29055,9 +29064,9 @@
   "context": 1048576,
   "expires": null,
   "id": "kilo/~moonshotai/kimi-latest",
-  "in_price": 1.5,
+  "in_price": 1.35,
   "name": "MoonshotAI: Kimi Latest",
-  "out_price": 7.5,
+  "out_price": 14.33,
   "source": "models.dev"
  },
  "modelsdev:kilo/~openai/gpt-astra-latest": {
@@ -50696,6 +50705,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:openrouter/cohere/command-a-plus": {
+  "context": 192000,
+  "expires": null,
+  "id": "openrouter/cohere/command-a-plus",
+  "in_price": 0.3,
+  "name": "Command A+",
+  "out_price": 1.5,
+  "source": "models.dev"
+ },
  "modelsdev:openrouter/cohere/command-r-08-2024": {
   "context": 128000,
   "expires": null,
@@ -50817,9 +50835,9 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/deepseek/deepseek-v4-flash",
-  "in_price": 0.049,
+  "in_price": 0.088606,
   "name": "DeepSeek V4 Flash",
-  "out_price": 0.098,
+  "out_price": 0.177212,
   "source": "models.dev"
  },
  "modelsdev:openrouter/deepseek/deepseek-v4-flash-0731": {
@@ -50844,9 +50862,9 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/deepseek/deepseek-v4-pro",
-  "in_price": 0.865302,
+  "in_price": 0.95526,
   "name": "DeepSeek V4 Pro",
-  "out_price": 1.730604,
+  "out_price": 1.91052,
   "source": "models.dev"
  },
  "modelsdev:openrouter/deepseek/deepseek-v4-pro-0813": {
@@ -53256,9 +53274,9 @@
   "context": 262144,
   "expires": null,
   "id": "openrouter/tencent/hy3",
-  "in_price": 0.0825,
+  "in_price": 0.132,
   "name": "Hy3",
-  "out_price": 0.33,
+  "out_price": 0.528,
   "source": "models.dev"
  },
  "modelsdev:openrouter/tencent/hy3-preview": {
@@ -53607,9 +53625,9 @@
   "context": 1310720,
   "expires": null,
   "id": "openrouter/z-ai/glm-5.3",
-  "in_price": 0.6538,
+  "in_price": 0.84,
   "name": "GLM-5.3",
-  "out_price": 2.0548,
+  "out_price": 2.64,
   "source": "models.dev"
  },
  "modelsdev:openrouter/z-ai/glm-5.3-flash": {
@@ -53688,9 +53706,9 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/~deepseek/deepseek-pro-latest",
-  "in_price": 0.39996,
+  "in_price": 0.4,
   "name": "DeepSeek Pro Latest",
-  "out_price": 1.19988,
+  "out_price": 4.3,
   "source": "models.dev"
  },
  "modelsdev:openrouter/~deepseek/deepseek-v4-flash-latest": {
@@ -53724,9 +53742,9 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/~moonshotai/kimi-latest",
-  "in_price": 1.5,
+  "in_price": 1.35,
   "name": "Kimi Latest",
-  "out_price": 7.5,
+  "out_price": 14.33,
   "source": "models.dev"
  },
  "modelsdev:openrouter/~openai/gpt-astra-latest": {
@@ -73272,9 +73290,9 @@
   "context": 1048576,
   "expires": null,
   "id": "deepseek/deepseek-v4-flash",
-  "in_price": 0.049,
+  "in_price": 0.088606,
   "name": "DeepSeek: DeepSeek V4 Flash 0423",
-  "out_price": 0.098,
+  "out_price": 0.177212,
   "source": "openrouter"
  },
  "openrouter:deepseek/deepseek-v4-flash-0731": {
@@ -73299,18 +73317,18 @@
   "context": 1048576,
   "expires": null,
   "id": "deepseek/deepseek-v4-pro",
-  "in_price": 0.856776,
+  "in_price": 0.95526,
   "name": "DeepSeek: DeepSeek V4 Pro 0423",
-  "out_price": 1.713552,
+  "out_price": 1.91052,
   "source": "openrouter"
  },
  "openrouter:deepseek/deepseek-v4-pro-0813": {
   "context": 1048576,
   "expires": null,
   "id": "deepseek/deepseek-v4-pro-0813",
-  "in_price": 0.66,
+  "in_price": 1.32,
   "name": "DeepSeek: DeepSeek V4 Pro 0813",
-  "out_price": 1.98,
+  "out_price": 3.96,
   "source": "openrouter"
  },
  "openrouter:deepseek/deepseek-v4.1-flash": {
@@ -76215,9 +76233,9 @@
   "context": 262144,
   "expires": null,
   "id": "tencent/hy3",
-  "in_price": 0.0825,
+  "in_price": 0.132,
   "name": "Tencent: Hy3",
-  "out_price": 0.33,
+  "out_price": 0.528,
   "source": "openrouter"
  },
  "openrouter:tencent/hy3-preview": {
@@ -76575,9 +76593,9 @@
   "context": 1310720,
   "expires": null,
   "id": "z-ai/glm-5.3",
-  "in_price": 0.5614,
+  "in_price": 0.84,
   "name": "Z.ai: GLM 5.3",
-  "out_price": 1.7644,
+  "out_price": 2.64,
   "source": "openrouter"
  },
  "openrouter:z-ai/glm-5.3-flash": {
@@ -76674,9 +76692,9 @@
   "context": 1048576,
   "expires": null,
   "id": "~deepseek/deepseek-pro-latest",
-  "in_price": 0.39996,
+  "in_price": 0.4,
   "name": "DeepSeek: DeepSeek Pro Latest",
-  "out_price": 1.19988,
+  "out_price": 4.3,
   "source": "openrouter"
  },
  "openrouter:~deepseek/deepseek-v4-flash-latest": {
@@ -76710,9 +76728,9 @@
   "context": 1048576,
   "expires": null,
   "id": "~moonshotai/kimi-latest",
-  "in_price": 1.35,
+  "in_price": 1.45,
   "name": "MoonshotAI: Kimi Latest",
-  "out_price": 14.33,
+  "out_price": 11.7,
   "source": "openrouter"
  },
  "openrouter:~openai/gpt-astra-latest": {
@@ -76782,9 +76800,9 @@
   "context": 1310720,
   "expires": null,
   "id": "~z-ai/glm-latest",
-  "in_price": 0.5614,
+  "in_price": 0.5625,
   "name": "Z.ai: GLM Latest",
-  "out_price": 1.7644,
+  "out_price": 2.5,
   "source": "openrouter"
  }
 }
