@@ -19,20 +19,28 @@ log() { echo "$(ts) $*" >> "$LOG"; }
 
 cd "$SITE" || { log "FATAL no site dir"; exit 1; }
 
+BEAT=/srv/qh/beat.sh
+
 OUT=$(timeout 600 python3 "$SITE/radar.py" --out "$SITE" --link "$LINK" 2>&1)
 RC=$?
 log "radar rc=$RC :: $(echo "$OUT" | tail -1)"
 # rc=2 is a deliberate refusal on a partial fetch — not an error worth pushing.
-[ "$RC" -ne 0 ] && exit "$RC"
+if [ "$RC" -ne 0 ]; then
+  "$BEAT" model-radar fail "collector rc=$RC: $(echo "$OUT" | tail -1)" 2>/dev/null
+  exit "$RC"
+fi
 
 if [ ! -d "$SITE/.git" ]; then
   log "no git repo yet — built locally, nothing pushed"
+  "$BEAT" model-radar fail "built but unpublished — no git repo" 2>/dev/null
   exit 0
 fi
 
 git add -A
 if git diff --cached --quiet; then
   log "no file changes, nothing to commit"
+  # Nothing changed upstream is a legitimate outcome, not a failure.
+  "$BEAT" model-radar ok "catalog unchanged, nothing to publish" '{"events":0,"pushed":0}' 2>/dev/null
   exit 0
 fi
 
@@ -53,7 +61,10 @@ git -c user.name="Hex (Model Radar)" -c user.email="hex@qh.foundation" \
 
 if git push -q origin HEAD:main 2>>"$LOG"; then
   log "pushed $COUNT event(s)"
+  "$BEAT" model-radar ok "published $COUNT event(s)" "{\"events\":$COUNT,\"pushed\":1}" 2>/dev/null
 else
   log "PUSH FAILED — built but not published"
+  # The whole point of this project is that building without publishing is failure.
+  "$BEAT" model-radar fail "built $COUNT event(s) but push failed" "{\"events\":$COUNT,\"pushed\":0}" 2>/dev/null
   exit 1
 fi
