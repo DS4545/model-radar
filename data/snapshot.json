@@ -72725,8 +72725,11 @@
   "id": "aion-labs/aion-2.0",
   "in_price": 0.8,
   "name": "AionLabs: Aion-2.0",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.6,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72736,8 +72739,11 @@
   "id": "aion-labs/aion-3.0",
   "in_price": 3.0,
   "name": "AionLabs: Aion-3.0",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 6.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72747,8 +72753,11 @@
   "id": "aion-labs/aion-3.0-mini",
   "in_price": 0.7,
   "name": "AionLabs: Aion-3.0-Mini",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72758,8 +72767,11 @@
   "id": "aion-labs/aion-rp-llama-3.1-8b",
   "in_price": 0.8,
   "name": "AionLabs: Aion-RP 1.0 (8B)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.6,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -72769,8 +72781,11 @@
   "id": "amazon/nova-2-lite-v1",
   "in_price": 0.3,
   "name": "Amazon: Nova 2 Lite",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72780,8 +72795,11 @@
   "id": "amazon/nova-lite-v1",
   "in_price": 0.06,
   "name": "Amazon: Nova Lite 1.0",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.24,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72791,8 +72809,11 @@
   "id": "amazon/nova-micro-v1",
   "in_price": 0.035,
   "name": "Amazon: Nova Micro 1.0",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.14,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72802,8 +72823,11 @@
   "id": "amazon/nova-premier-v1",
   "in_price": 2.5,
   "name": "Amazon: Nova Premier 1.0",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 12.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72813,8 +72837,11 @@
   "id": "amazon/nova-pro-v1",
   "in_price": 0.8,
   "name": "Amazon: Nova Pro 1.0",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72824,8 +72851,11 @@
   "id": "anthracite-org/magnum-v4-72b",
   "in_price": 2.5,
   "name": "Magnum v4 72B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 5.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -72835,8 +72865,11 @@
   "id": "anthropic/claude-3-haiku",
   "in_price": 0.25,
   "name": "Anthropic: Claude 3 Haiku",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72846,8 +72879,11 @@
   "id": "anthropic/claude-fable-5",
   "in_price": 10.0,
   "name": "Anthropic: Claude Fable 5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 50.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72857,8 +72893,11 @@
   "id": "anthropic/claude-fable-5.1",
   "in_price": 10.0,
   "name": "Anthropic: Claude Fable 5.1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 50.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72868,8 +72907,11 @@
   "id": "anthropic/claude-fable-5.1:batch",
   "in_price": 5.0,
   "name": "Anthropic: Claude Fable 5.1 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 25.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72879,8 +72921,11 @@
   "id": "anthropic/claude-fable-5:batch",
   "in_price": 5.0,
   "name": "Anthropic: Claude Fable 5 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 25.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72890,8 +72935,11 @@
   "id": "anthropic/claude-haiku-4.5",
   "in_price": 1.0,
   "name": "Anthropic: Claude Haiku 4.5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 5.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72901,8 +72949,11 @@
   "id": "anthropic/claude-haiku-4.5:batch",
   "in_price": 0.5,
   "name": "Anthropic: Claude Haiku 4.5 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72912,8 +72963,11 @@
   "id": "anthropic/claude-opus-4.1",
   "in_price": 15.0,
   "name": "Anthropic: Claude Opus 4.1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 75.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72923,8 +72977,11 @@
   "id": "anthropic/claude-opus-4.1:batch",
   "in_price": 7.5,
   "name": "Anthropic: Claude Opus 4.1 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 37.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72934,8 +72991,11 @@
   "id": "anthropic/claude-opus-4.5",
   "in_price": 5.0,
   "name": "Anthropic: Claude Opus 4.5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 25.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72945,8 +73005,11 @@
   "id": "anthropic/claude-opus-4.5:batch",
   "in_price": 2.5,
   "name": "Anthropic: Claude Opus 4.5 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 12.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72956,8 +73019,11 @@
   "id": "anthropic/claude-opus-4.6",
   "in_price": 5.0,
   "name": "Anthropic: Claude Opus 4.6",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 25.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72967,8 +73033,11 @@
   "id": "anthropic/claude-opus-4.6:batch",
   "in_price": 2.5,
   "name": "Anthropic: Claude Opus 4.6 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 12.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72978,8 +73047,11 @@
   "id": "anthropic/claude-opus-4.7",
   "in_price": 5.0,
   "name": "Anthropic: Claude Opus 4.7",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 25.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -72989,8 +73061,11 @@
   "id": "anthropic/claude-opus-4.7:batch",
   "in_price": 2.5,
   "name": "Anthropic: Claude Opus 4.7 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 12.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73000,8 +73075,11 @@
   "id": "anthropic/claude-opus-4.8",
   "in_price": 5.0,
   "name": "Anthropic: Claude Opus 4.8",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 25.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73011,8 +73089,11 @@
   "id": "anthropic/claude-opus-4.8:batch",
   "in_price": 2.5,
   "name": "Anthropic: Claude Opus 4.8 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 12.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73022,8 +73103,11 @@
   "id": "anthropic/claude-opus-5",
   "in_price": 5.0,
   "name": "Anthropic: Claude Opus 5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 25.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73033,8 +73117,11 @@
   "id": "anthropic/claude-opus-5.5",
   "in_price": 4.0,
   "name": "Anthropic: Claude Opus 5.5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 20.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73044,8 +73131,11 @@
   "id": "anthropic/claude-opus-5.5:batch",
   "in_price": 2.0,
   "name": "Anthropic: Claude Opus 5.5 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73055,8 +73145,11 @@
   "id": "anthropic/claude-opus-5:batch",
   "in_price": 2.5,
   "name": "Anthropic: Claude Opus 5 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 12.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73066,8 +73159,11 @@
   "id": "anthropic/claude-sonnet-4",
   "in_price": 3.0,
   "name": "Anthropic: Claude Sonnet 4",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 15.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73077,8 +73173,11 @@
   "id": "anthropic/claude-sonnet-4.5",
   "in_price": 3.0,
   "name": "Anthropic: Claude Sonnet 4.5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 15.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73088,8 +73187,11 @@
   "id": "anthropic/claude-sonnet-4.5:batch",
   "in_price": 1.5,
   "name": "Anthropic: Claude Sonnet 4.5 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 7.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73099,8 +73201,11 @@
   "id": "anthropic/claude-sonnet-4.6",
   "in_price": 3.0,
   "name": "Anthropic: Claude Sonnet 4.6",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 15.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73110,8 +73215,11 @@
   "id": "anthropic/claude-sonnet-4.6:batch",
   "in_price": 1.5,
   "name": "Anthropic: Claude Sonnet 4.6 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 7.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73121,8 +73229,11 @@
   "id": "anthropic/claude-sonnet-5",
   "in_price": 2.0,
   "name": "Anthropic: Claude Sonnet 5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73132,8 +73243,11 @@
   "id": "anthropic/claude-sonnet-5:batch",
   "in_price": 1.0,
   "name": "Anthropic: Claude Sonnet 5 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 5.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73143,8 +73257,11 @@
   "id": "arcee-ai/trinity-large-thinking",
   "in_price": 0.25,
   "name": "Arcee AI: Trinity Large Thinking",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.8,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73154,8 +73271,11 @@
   "id": "baidu/ernie-4.5-vl-424b-a47b",
   "in_price": 0.42,
   "name": "Baidu: ERNIE 4.5 VL 424B A47B ",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -73165,8 +73285,11 @@
   "id": "bytedance-seed/seed-1.6",
   "in_price": 0.25,
   "name": "ByteDance Seed: Seed 1.6",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73176,8 +73299,11 @@
   "id": "bytedance-seed/seed-1.6-flash",
   "in_price": 0.075,
   "name": "ByteDance Seed: Seed 1.6 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.3,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73187,8 +73313,11 @@
   "id": "bytedance-seed/seed-2-1-turbo",
   "in_price": 0.5,
   "name": "ByteDance Seed: Seed 2.1 Turbo",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73198,8 +73327,11 @@
   "id": "bytedance-seed/seed-2.0-code",
   "in_price": 0.5,
   "name": "ByteDance Seed: Seed-2.0-Code",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73209,8 +73341,11 @@
   "id": "bytedance-seed/seed-2.0-lite",
   "in_price": 0.25,
   "name": "ByteDance Seed: Seed-2.0-Lite",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73220,8 +73355,11 @@
   "id": "bytedance-seed/seed-2.0-mini",
   "in_price": 0.1,
   "name": "ByteDance Seed: Seed-2.0-Mini",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73231,8 +73369,11 @@
   "id": "bytedance/ui-tars-1.5-7b",
   "in_price": 0.1,
   "name": "ByteDance: UI-TARS 7B ",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -73242,8 +73383,11 @@
   "id": "cognitivecomputations/dolphin-mistral-24b-venice-edition",
   "in_price": 0.2,
   "name": "Venice: Uncensored",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.9,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -73253,8 +73397,11 @@
   "id": "cohere/command-a",
   "in_price": 2.5,
   "name": "Cohere: Command A",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -73264,8 +73411,11 @@
   "id": "cohere/command-a-plus",
   "in_price": 0.3,
   "name": "Cohere: Command A+",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73275,8 +73425,11 @@
   "id": "cohere/command-r-08-2024",
   "in_price": 0.15,
   "name": "Cohere: Command R (08-2024)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.6,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73286,8 +73439,11 @@
   "id": "cohere/command-r-plus-08-2024",
   "in_price": 2.5,
   "name": "Cohere: Command R+ (08-2024)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73297,8 +73453,11 @@
   "id": "cohere/command-r7b-12-2024",
   "in_price": 0.0375,
   "name": "Cohere: Command R7B (12-2024)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.15,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -73308,8 +73467,11 @@
   "id": "cohere/north-mini-code:free",
   "in_price": 0.0,
   "name": "Cohere: North Mini Code (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73319,8 +73481,11 @@
   "id": "deepseek/deepseek-chat",
   "in_price": 0.32,
   "name": "DeepSeek: DeepSeek V3",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.89,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73330,8 +73495,11 @@
   "id": "deepseek/deepseek-chat-v3-0324",
   "in_price": 0.25,
   "name": "DeepSeek: DeepSeek V3 0324",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73341,8 +73509,11 @@
   "id": "deepseek/deepseek-chat-v3.1",
   "in_price": 0.25,
   "name": "DeepSeek: DeepSeek V3.1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.95,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73352,8 +73523,11 @@
   "id": "deepseek/deepseek-r1",
   "in_price": 0.7,
   "name": "DeepSeek: R1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73363,8 +73537,11 @@
   "id": "deepseek/deepseek-r1-0528",
   "in_price": 0.5,
   "name": "DeepSeek: R1 0528",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.15,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73374,8 +73551,11 @@
   "id": "deepseek/deepseek-r1-distill-llama-70b",
   "in_price": 0.8,
   "name": "DeepSeek: R1 Distill Llama 70B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.8,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -73385,8 +73565,11 @@
   "id": "deepseek/deepseek-v3.1-terminus",
   "in_price": 0.27,
   "name": "DeepSeek: DeepSeek V3.1 Terminus",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73396,8 +73579,11 @@
   "id": "deepseek/deepseek-v3.2",
   "in_price": 0.269,
   "name": "DeepSeek: DeepSeek V3.2",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73407,8 +73593,11 @@
   "id": "deepseek/deepseek-v3.2-exp",
   "in_price": 0.27,
   "name": "DeepSeek: DeepSeek V3.2 Exp",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.41,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73418,8 +73607,11 @@
   "id": "deepseek/deepseek-v4-flash",
   "in_price": 0.088606,
   "name": "DeepSeek: DeepSeek V4 Flash 0423",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.177212,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73429,8 +73621,11 @@
   "id": "deepseek/deepseek-v4-flash-0731",
   "in_price": 0.04,
   "name": "DeepSeek: DeepSeek V4 Flash 0731",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.64,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73440,8 +73635,11 @@
   "id": "deepseek/deepseek-v4-flash-vision-exp",
   "in_price": 0.22,
   "name": "DeepSeek: DeepSeek V4 Flash Vision Exp",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.66,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73451,8 +73649,11 @@
   "id": "deepseek/deepseek-v4-pro",
   "in_price": 0.95526,
   "name": "DeepSeek: DeepSeek V4 Pro 0423",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.91052,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73462,8 +73663,11 @@
   "id": "deepseek/deepseek-v4-pro-0813",
   "in_price": 1.32,
   "name": "DeepSeek: DeepSeek V4 Pro 0813",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.96,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73473,8 +73677,11 @@
   "id": "deepseek/deepseek-v4.1-flash",
   "in_price": 0.1,
   "name": "DeepSeek: DeepSeek V4.1 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73484,8 +73691,11 @@
   "id": "deepseek/deepseek-v4.1-flash:batch",
   "in_price": 0.112,
   "name": "DeepSeek: DeepSeek V4.1 Flash (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.336,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73495,8 +73705,11 @@
   "id": "dots-studio/dots-3-note-preview:free",
   "in_price": 0.0,
   "name": "Dots Studio: Dots3-Note Preview (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73506,8 +73719,11 @@
   "id": "google/gemini-2.5-flash",
   "in_price": 0.3,
   "name": "Google: Gemini 2.5 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73517,8 +73733,12 @@
   "id": "google/gemini-2.5-flash-image",
   "in_price": 0.3,
   "name": "Google: Nano Banana (Gemini 2.5 Flash Image)",
+  "out_mods": [
+   "image",
+   "text"
+  ],
   "out_price": 2.5,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": false
  },
@@ -73528,8 +73748,11 @@
   "id": "google/gemini-2.5-flash-lite",
   "in_price": 0.1,
   "name": "Google: Gemini 2.5 Flash Lite",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73539,8 +73762,11 @@
   "id": "google/gemini-2.5-flash-lite:batch",
   "in_price": 0.05,
   "name": "Google: Gemini 2.5 Flash Lite (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73550,8 +73776,11 @@
   "id": "google/gemini-2.5-flash:batch",
   "in_price": 0.15,
   "name": "Google: Gemini 2.5 Flash (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73561,8 +73790,11 @@
   "id": "google/gemini-2.5-pro",
   "in_price": 1.25,
   "name": "Google: Gemini 2.5 Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73572,8 +73804,11 @@
   "id": "google/gemini-2.5-pro-preview",
   "in_price": 1.25,
   "name": "Google: Gemini 2.5 Pro Preview 06-05",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73583,8 +73818,11 @@
   "id": "google/gemini-2.5-pro:batch",
   "in_price": 0.625,
   "name": "Google: Gemini 2.5 Pro (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 5.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73594,8 +73832,11 @@
   "id": "google/gemini-3-flash-preview",
   "in_price": 0.5,
   "name": "Google: Gemini 3 Flash Preview",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73605,8 +73846,11 @@
   "id": "google/gemini-3-flash-preview:batch",
   "in_price": 0.25,
   "name": "Google: Gemini 3 Flash Preview (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73616,8 +73860,12 @@
   "id": "google/gemini-3-pro-image",
   "in_price": 2.0,
   "name": "Google: Nano Banana Pro (Gemini 3 Pro Image)",
+  "out_mods": [
+   "image",
+   "text"
+  ],
   "out_price": 12.0,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": true
  },
@@ -73627,8 +73875,12 @@
   "id": "google/gemini-3-pro-image-preview",
   "in_price": 2.0,
   "name": "Google: Nano Banana Pro (Gemini 3 Pro Image Preview)",
+  "out_mods": [
+   "image",
+   "text"
+  ],
   "out_price": 12.0,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": false
  },
@@ -73638,8 +73890,12 @@
   "id": "google/gemini-3.1-flash-image",
   "in_price": 0.5,
   "name": "Google: Nano Banana 2 (Gemini 3.1 Flash Image)",
+  "out_mods": [
+   "image",
+   "text"
+  ],
   "out_price": 3.0,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": false
  },
@@ -73649,8 +73905,12 @@
   "id": "google/gemini-3.1-flash-image-preview",
   "in_price": 0.5,
   "name": "Google: Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
+  "out_mods": [
+   "image",
+   "text"
+  ],
   "out_price": 3.0,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": false
  },
@@ -73660,8 +73920,11 @@
   "id": "google/gemini-3.1-flash-lite",
   "in_price": 0.25,
   "name": "Google: Gemini 3.1 Flash Lite",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73671,8 +73934,12 @@
   "id": "google/gemini-3.1-flash-lite-image",
   "in_price": 0.25,
   "name": "Google: Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
+  "out_mods": [
+   "image",
+   "text"
+  ],
   "out_price": 1.5,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": false
  },
@@ -73682,8 +73949,11 @@
   "id": "google/gemini-3.1-flash-lite-preview",
   "in_price": 0.25,
   "name": "Google: Gemini 3.1 Flash Lite Preview",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73693,8 +73963,11 @@
   "id": "google/gemini-3.1-flash-lite:batch",
   "in_price": 0.125,
   "name": "Google: Gemini 3.1 Flash Lite (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.75,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73704,8 +73977,11 @@
   "id": "google/gemini-3.1-pro-preview",
   "in_price": 2.0,
   "name": "Google: Gemini 3.1 Pro Preview",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 12.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73715,8 +73991,11 @@
   "id": "google/gemini-3.1-pro-preview-customtools",
   "in_price": 2.0,
   "name": "Google: Gemini 3.1 Pro Preview Custom Tools",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 12.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73726,8 +74005,11 @@
   "id": "google/gemini-3.1-pro-preview:batch",
   "in_price": 1.0,
   "name": "Google: Gemini 3.1 Pro Preview (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 6.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73737,8 +74019,11 @@
   "id": "google/gemini-3.5-flash",
   "in_price": 1.5,
   "name": "Google: Gemini 3.5 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 9.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73748,8 +74033,11 @@
   "id": "google/gemini-3.5-flash-lite",
   "in_price": 0.3,
   "name": "Google: Gemini 3.5 Flash Lite",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73759,8 +74047,11 @@
   "id": "google/gemini-3.5-flash-lite:batch",
   "in_price": 0.15,
   "name": "Google: Gemini 3.5 Flash Lite (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73770,8 +74061,11 @@
   "id": "google/gemini-3.5-flash:batch",
   "in_price": 0.75,
   "name": "Google: Gemini 3.5 Flash (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73781,8 +74075,11 @@
   "id": "google/gemini-3.6-flash",
   "in_price": 0.75,
   "name": "Google: Gemini 3.6 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.75,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73792,8 +74089,11 @@
   "id": "google/gemini-3.6-flash:batch",
   "in_price": 0.375,
   "name": "Google: Gemini 3.6 Flash (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.875,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73803,8 +74103,11 @@
   "id": "google/gemini-3.7-flash",
   "in_price": 0.75,
   "name": "Google: Gemini 3.7 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.75,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73814,8 +74117,11 @@
   "id": "google/gemini-3.7-flash:batch",
   "in_price": 0.375,
   "name": "Google: Gemini 3.7 Flash (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.875,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73825,8 +74131,11 @@
   "id": "google/gemini-3.8-flash",
   "in_price": 0.75,
   "name": "Google: Gemini 3.8 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.75,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73836,8 +74145,11 @@
   "id": "google/gemini-3.8-flash:batch",
   "in_price": 0.375,
   "name": "Google: Gemini 3.8 Flash (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.875,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73847,8 +74159,11 @@
   "id": "google/gemma-2-27b-it",
   "in_price": 0.65,
   "name": "Google: Gemma 2 27B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.65,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -73858,8 +74173,11 @@
   "id": "google/gemma-3-12b-it",
   "in_price": 0.05,
   "name": "Google: Gemma 3 12B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.15,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73869,8 +74187,11 @@
   "id": "google/gemma-3-27b-it",
   "in_price": 0.08,
   "name": "Google: Gemma 3 27B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.45,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73880,8 +74201,11 @@
   "id": "google/gemma-3-4b-it",
   "in_price": 0.05,
   "name": "Google: Gemma 3 4B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.1,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -73891,8 +74215,11 @@
   "id": "google/gemma-4-26b-a4b-it",
   "in_price": 0.09,
   "name": "Google: Gemma 4 26B A4B ",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.3,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73902,8 +74229,11 @@
   "id": "google/gemma-4-26b-a4b-it:free",
   "in_price": 0.0,
   "name": "Google: Gemma 4 26B A4B  (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73913,8 +74243,11 @@
   "id": "google/gemma-4-31b-it",
   "in_price": 0.09,
   "name": "Google: Gemma 4 31B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.34,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73924,8 +74257,11 @@
   "id": "google/gemma-4-31b-it:free",
   "in_price": 0.0,
   "name": "Google: Gemma 4 31B (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73935,8 +74271,12 @@
   "id": "google/lyria-3-clip-preview",
   "in_price": 0.0,
   "name": "Google: Lyria 3 Clip Preview",
+  "out_mods": [
+   "text",
+   "audio"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": false
  },
@@ -73946,8 +74286,12 @@
   "id": "google/lyria-3-pro-preview",
   "in_price": 0.0,
   "name": "Google: Lyria 3 Pro Preview",
+  "out_mods": [
+   "text",
+   "audio"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": false
  },
@@ -73957,8 +74301,11 @@
   "id": "gryphe/mythomax-l2-13b",
   "in_price": 0.08,
   "name": "MythoMax 13B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.11,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -73968,8 +74315,11 @@
   "id": "ibm-granite/granite-4.0-h-micro",
   "in_price": 0.017,
   "name": "IBM: Granite 4.0 Micro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.112,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -73979,8 +74329,11 @@
   "id": "ibm-granite/granite-4.2-8b",
   "in_price": 0.06,
   "name": "IBM: Granite 4.2 8B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -73990,8 +74343,11 @@
   "id": "inception/mercury-2",
   "in_price": 0.25,
   "name": "Inception: Mercury 2",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.75,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74001,8 +74357,11 @@
   "id": "inception/mercury-2.5",
   "in_price": 0.04,
   "name": "Inception: Mercury 2.5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.15,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74012,8 +74371,11 @@
   "id": "inclusionai/ling-3.0-flash",
   "in_price": 0.021,
   "name": "inclusionAI: Ling 3.0 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.063,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74023,8 +74385,11 @@
   "id": "inclusionai/ling-3.0-flash-fin",
   "in_price": 0.06,
   "name": "inclusionAI: Ling 3.0 Flash Fin",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.18,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74034,8 +74399,11 @@
   "id": "inclusionai/ling-3.0-flash-fin:free",
   "in_price": 0.0,
   "name": "inclusionAI: Ling 3.0 Flash Fin (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74045,8 +74413,11 @@
   "id": "inclusionai/ling-3.0-flash-sante:free",
   "in_price": 0.0,
   "name": "inclusionAI: Ling 3.0 Flash Sante (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74056,8 +74427,11 @@
   "id": "inclusionai/ling-3.0-flash-vl",
   "in_price": 0.06,
   "name": "inclusionAI: Ling 3.0 Flash VL",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.18,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74067,8 +74441,11 @@
   "id": "inclusionai/ling-3.0-flash-vl:free",
   "in_price": 0.0,
   "name": "inclusionAI: Ling 3.0 Flash VL (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74078,8 +74455,11 @@
   "id": "inference-net/schematron-v2-small",
   "in_price": 0.05,
   "name": "Inference.net: Schematron V2 Small",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.23,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74089,8 +74469,11 @@
   "id": "inference-net/schematron-v2-turbo",
   "in_price": 0.03,
   "name": "Inference.net: Schematron V2 Turbo",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.15,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74100,8 +74483,11 @@
   "id": "kwaipilot/kat-coder-pro-v2.5",
   "in_price": 0.74,
   "name": "Kwaipilot: KAT-Coder-Pro V2.5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.96,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74111,8 +74497,11 @@
   "id": "liquid/lfm-2.5-2.6b:free",
   "in_price": 0.0,
   "name": "LiquidAI: LFM2.5-2.6B (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74122,8 +74511,11 @@
   "id": "mancer/weaver",
   "in_price": 0.4,
   "name": "Mancer: Weaver (alpha)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.75,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74133,8 +74525,11 @@
   "id": "meituan/longcat-2.0",
   "in_price": 0.3,
   "name": "Meituan: LongCat 2.0",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74144,8 +74539,11 @@
   "id": "meta-llama/llama-3.1-70b-instruct",
   "in_price": 0.4,
   "name": "Meta: Llama 3.1 70B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74155,8 +74553,11 @@
   "id": "meta-llama/llama-3.1-8b-instruct",
   "in_price": 0.05,
   "name": "Meta: Llama 3.1 8B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.08,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74166,8 +74567,11 @@
   "id": "meta-llama/llama-3.2-1b-instruct",
   "in_price": 0.027,
   "name": "Meta: Llama 3.2 1B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.201,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74177,8 +74581,11 @@
   "id": "meta-llama/llama-3.2-3b-instruct",
   "in_price": 0.05,
   "name": "Meta: Llama 3.2 3B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.33,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74188,8 +74595,11 @@
   "id": "meta-llama/llama-3.3-70b-instruct",
   "in_price": 0.1,
   "name": "Meta: Llama 3.3 70B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.32,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74199,8 +74609,11 @@
   "id": "meta-llama/llama-4-maverick",
   "in_price": 0.1875,
   "name": "Meta: Llama 4 Maverick",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.6525,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74210,8 +74623,11 @@
   "id": "meta-llama/llama-4-scout",
   "in_price": 0.1,
   "name": "Meta: Llama 4 Scout",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.3,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74221,8 +74637,11 @@
   "id": "meta-llama/llama-guard-4-12b",
   "in_price": 0.18,
   "name": "Meta: Llama Guard 4 12B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.18,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74232,8 +74651,11 @@
   "id": "meta/muse-glimmer-30b",
   "in_price": 0.3,
   "name": "Meta: Muse Glimmer 30B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74243,8 +74665,11 @@
   "id": "meta/muse-spark-1.1",
   "in_price": 1.25,
   "name": "Meta: Muse Spark 1.1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74254,8 +74679,11 @@
   "id": "meta/muse-spark-1.2",
   "in_price": 1.25,
   "name": "Meta: Muse Spark 1.2",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74265,8 +74693,11 @@
   "id": "meta/muse-spark-1.2-contributor",
   "in_price": 0.1,
   "name": "Meta: Muse Spark 1.2 Contributor",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74276,8 +74707,11 @@
   "id": "meta/muse-spark-1.3",
   "in_price": 1.25,
   "name": "Meta: Muse Spark 1.3",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74287,8 +74721,11 @@
   "id": "meta/muse-spark-1.3-contributor",
   "in_price": 0.1,
   "name": "Meta: Muse Spark 1.3 Contributor",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74298,8 +74735,11 @@
   "id": "microsoft/phi-4",
   "in_price": 0.07,
   "name": "Microsoft: Phi 4",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.14,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74309,8 +74749,11 @@
   "id": "microsoft/wizardlm-2-8x22b",
   "in_price": 0.62,
   "name": "WizardLM-2 8x22B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.62,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74320,8 +74763,11 @@
   "id": "minimax/minimax-01",
   "in_price": 0.2,
   "name": "MiniMax: MiniMax-01",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.1,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74331,8 +74777,11 @@
   "id": "minimax/minimax-m1",
   "in_price": 0.4,
   "name": "MiniMax: MiniMax M1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74342,8 +74791,11 @@
   "id": "minimax/minimax-m2",
   "in_price": 0.255,
   "name": "MiniMax: MiniMax M2",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.02,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74353,8 +74805,11 @@
   "id": "minimax/minimax-m2-her",
   "in_price": 0.3,
   "name": "MiniMax: MiniMax M2-her",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74364,8 +74819,11 @@
   "id": "minimax/minimax-m2.1",
   "in_price": 0.3,
   "name": "MiniMax: MiniMax M2.1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74375,8 +74833,11 @@
   "id": "minimax/minimax-m2.5",
   "in_price": 0.27,
   "name": "MiniMax: MiniMax M2.5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.08,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74386,8 +74847,11 @@
   "id": "minimax/minimax-m2.7",
   "in_price": 0.3,
   "name": "MiniMax: MiniMax M2.7",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74397,8 +74861,11 @@
   "id": "minimax/minimax-m3",
   "in_price": 0.3,
   "name": "MiniMax: MiniMax M3",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74408,8 +74875,11 @@
   "id": "mistralai/codestral-2508",
   "in_price": 0.3,
   "name": "Mistral: Codestral 2508",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.9,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74419,8 +74889,11 @@
   "id": "mistralai/codestral-2508:batch",
   "in_price": 0.15,
   "name": "Mistral: Codestral 2508 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.45,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74430,8 +74903,11 @@
   "id": "mistralai/devstral-2512",
   "in_price": 0.4,
   "name": "Mistral: Devstral 2 2512",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74441,8 +74917,11 @@
   "id": "mistralai/ministral-14b-2512",
   "in_price": 0.2,
   "name": "Mistral: Ministral 3 14B 2512",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74452,8 +74931,11 @@
   "id": "mistralai/ministral-3b-2512",
   "in_price": 0.1,
   "name": "Mistral: Ministral 3 3B 2512",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.1,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74463,8 +74945,11 @@
   "id": "mistralai/ministral-8b-2512",
   "in_price": 0.15,
   "name": "Mistral: Ministral 3 8B 2512",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.15,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74474,8 +74959,11 @@
   "id": "mistralai/ministral-8b-2512:batch",
   "in_price": 0.075,
   "name": "Mistral: Ministral 3 8B 2512 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.075,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74485,8 +74973,11 @@
   "id": "mistralai/mistral-large",
   "in_price": 2.0,
   "name": "Mistral Large",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 6.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74496,8 +74987,11 @@
   "id": "mistralai/mistral-large-2407",
   "in_price": 2.0,
   "name": "Mistral Large 2407",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 6.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74507,8 +75001,11 @@
   "id": "mistralai/mistral-large-2512:batch",
   "in_price": 0.25,
   "name": "Mistral: Mistral Large 3 2512 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.75,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74518,8 +75015,11 @@
   "id": "mistralai/mistral-medium-3",
   "in_price": 0.4,
   "name": "Mistral: Mistral Medium 3",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74529,8 +75029,11 @@
   "id": "mistralai/mistral-medium-3-5",
   "in_price": 1.5,
   "name": "Mistral: Mistral Medium 3.5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 7.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74540,8 +75043,11 @@
   "id": "mistralai/mistral-medium-3-5:batch",
   "in_price": 0.75,
   "name": "Mistral: Mistral Medium 3.5 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.75,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74551,8 +75057,11 @@
   "id": "mistralai/mistral-medium-3.1",
   "in_price": 0.4,
   "name": "Mistral: Mistral Medium 3.1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74562,8 +75071,11 @@
   "id": "mistralai/mistral-medium-3.1:batch",
   "in_price": 0.2,
   "name": "Mistral: Mistral Medium 3.1 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74573,8 +75085,11 @@
   "id": "mistralai/mistral-nemo",
   "in_price": 0.019,
   "name": "Mistral: Mistral Nemo",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.03,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74584,8 +75099,11 @@
   "id": "mistralai/mistral-saba",
   "in_price": 0.2,
   "name": "Mistral: Saba",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.6,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74595,8 +75113,11 @@
   "id": "mistralai/mistral-small-24b-instruct-2501",
   "in_price": 0.05,
   "name": "Mistral: Mistral Small 3",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.08,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74606,8 +75127,11 @@
   "id": "mistralai/mistral-small-2603",
   "in_price": 0.15,
   "name": "Mistral: Mistral Small 4",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.6,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74617,8 +75141,11 @@
   "id": "mistralai/mistral-small-2603:batch",
   "in_price": 0.075,
   "name": "Mistral: Mistral Small 4 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.3,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74628,8 +75155,11 @@
   "id": "mistralai/mistral-small-3.1-24b-instruct",
   "in_price": 0.351,
   "name": "Mistral: Mistral Small 3.1 24B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.555,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74639,8 +75169,11 @@
   "id": "mistralai/mistral-small-3.2-24b-instruct",
   "in_price": 0.09375,
   "name": "Mistral: Mistral Small 3.2 24B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74650,8 +75183,11 @@
   "id": "mistralai/mixtral-8x22b-instruct",
   "in_price": 2.0,
   "name": "Mistral: Mixtral 8x22B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 6.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74661,8 +75197,11 @@
   "id": "mistralai/voxtral-small-24b-2507",
   "in_price": 0.1,
   "name": "Mistral: Voxtral Small 24B 2507",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.3,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74672,8 +75211,11 @@
   "id": "moonshotai/kimi-k2",
   "in_price": 0.57,
   "name": "MoonshotAI: Kimi K2 0711",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.3,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74683,8 +75225,11 @@
   "id": "moonshotai/kimi-k2-0905",
   "in_price": 0.6,
   "name": "MoonshotAI: Kimi K2 0905",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74694,8 +75239,11 @@
   "id": "moonshotai/kimi-k2-thinking",
   "in_price": 0.6,
   "name": "MoonshotAI: Kimi K2 Thinking",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74705,8 +75253,11 @@
   "id": "moonshotai/kimi-k2.5",
   "in_price": 0.45,
   "name": "MoonshotAI: Kimi K2.5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74716,8 +75267,11 @@
   "id": "moonshotai/kimi-k2.6",
   "in_price": 0.95,
   "name": "MoonshotAI: Kimi K2.6",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74727,8 +75281,11 @@
   "id": "moonshotai/kimi-k2.7-code",
   "in_price": 0.7062,
   "name": "MoonshotAI: Kimi K2.7 Code",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.3,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74738,8 +75295,11 @@
   "id": "moonshotai/kimi-k3",
   "in_price": 3.0,
   "name": "MoonshotAI: Kimi K3",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 15.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74749,8 +75309,11 @@
   "id": "moonshotai/kimi-k3:batch",
   "in_price": 2.28,
   "name": "MoonshotAI: Kimi K3 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 11.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74760,8 +75323,11 @@
   "id": "morph/morph-v3-fast",
   "in_price": 0.8,
   "name": "Morph: Morph V3 Fast",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74771,8 +75337,11 @@
   "id": "morph/morph-v3-large",
   "in_price": 0.9,
   "name": "Morph: Morph V3 Large",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.9,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74782,8 +75351,11 @@
   "id": "nex-agi/nex-n2.5-mini",
   "in_price": 0.025,
   "name": "Nex AGI: Nex-N2.5-Mini",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.1,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74793,8 +75365,11 @@
   "id": "nex-agi/nex-n2.5-mini:free",
   "in_price": 0.0,
   "name": "Nex AGI: Nex-N2.5-Mini (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74804,8 +75379,11 @@
   "id": "nex-agi/nex-n2.5-pro",
   "in_price": 0.075,
   "name": "Nex AGI: Nex-N2.5-Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74815,8 +75393,11 @@
   "id": "nex-agi/nex-n2.5-pro:free",
   "in_price": 0.0,
   "name": "Nex AGI: Nex-N2.5-Pro (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74826,8 +75407,11 @@
   "id": "nousresearch/hermes-3-llama-3.1-405b",
   "in_price": 1.0,
   "name": "Nous: Hermes 3 405B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74837,8 +75421,11 @@
   "id": "nousresearch/hermes-3-llama-3.1-70b",
   "in_price": 0.7,
   "name": "Nous: Hermes 3 70B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.7,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74848,8 +75435,11 @@
   "id": "nousresearch/hermes-4-405b",
   "in_price": 1.0,
   "name": "Nous: Hermes 4 405B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74859,8 +75449,11 @@
   "id": "nvidia/nemotron-3-nano-30b-a3b",
   "in_price": 0.05,
   "name": "NVIDIA: Nemotron 3 Nano 30B A3B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74870,8 +75463,11 @@
   "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
   "in_price": 0.0,
   "name": "NVIDIA: Nemotron 3 Nano Omni (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74881,8 +75477,11 @@
   "id": "nvidia/nemotron-3-super-120b-a12b",
   "in_price": 0.08,
   "name": "NVIDIA: Nemotron 3 Super",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.45,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74892,8 +75491,11 @@
   "id": "nvidia/nemotron-3-super-120b-a12b:free",
   "in_price": 0.0,
   "name": "NVIDIA: Nemotron 3 Super (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74903,8 +75505,11 @@
   "id": "nvidia/nemotron-3-ultra-550b-a55b",
   "in_price": 0.6,
   "name": "NVIDIA: Nemotron 3 Ultra",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74914,8 +75519,11 @@
   "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
   "in_price": 0.0,
   "name": "NVIDIA: Nemotron 3 Ultra (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74925,8 +75533,11 @@
   "id": "nvidia/nemotron-3.5-content-safety",
   "in_price": 0.2,
   "name": "NVIDIA: Nemotron 3.5 Content Safety",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74936,8 +75547,11 @@
   "id": "nvidia/nemotron-3.5-content-safety:free",
   "in_price": 0.0,
   "name": "NVIDIA: Nemotron 3.5 Content Safety (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -74947,8 +75561,11 @@
   "id": "nvidia/nemotron-3.5-lightning",
   "in_price": 0.07,
   "name": "NVIDIA: Nemotron 3.5 Lightning",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74958,8 +75575,11 @@
   "id": "nvidia/nemotron-3.5-lightning:free",
   "in_price": 0.0,
   "name": "NVIDIA: Nemotron 3.5 Lightning (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74969,8 +75589,11 @@
   "id": "openai/gpt-3.5-turbo",
   "in_price": 0.5,
   "name": "OpenAI: GPT-3.5 Turbo",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74980,8 +75603,11 @@
   "id": "openai/gpt-3.5-turbo-0613",
   "in_price": 1.0,
   "name": "OpenAI: GPT-3.5 Turbo (older v0613)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -74991,8 +75617,11 @@
   "id": "openai/gpt-3.5-turbo-16k",
   "in_price": 3.0,
   "name": "OpenAI: GPT-3.5 Turbo 16k",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75002,8 +75631,11 @@
   "id": "openai/gpt-3.5-turbo-instruct",
   "in_price": 1.5,
   "name": "OpenAI: GPT-3.5 Turbo Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -75013,8 +75645,11 @@
   "id": "openai/gpt-3.5-turbo:batch",
   "in_price": 0.25,
   "name": "OpenAI: GPT-3.5 Turbo (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.75,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75024,8 +75659,11 @@
   "id": "openai/gpt-4",
   "in_price": 30.0,
   "name": "OpenAI: GPT-4",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 60.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75035,8 +75673,11 @@
   "id": "openai/gpt-4-turbo",
   "in_price": 10.0,
   "name": "OpenAI: GPT-4 Turbo",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 30.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75046,8 +75687,11 @@
   "id": "openai/gpt-4-turbo:batch",
   "in_price": 5.0,
   "name": "OpenAI: GPT-4 Turbo (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 15.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75057,8 +75701,11 @@
   "id": "openai/gpt-4.1",
   "in_price": 2.0,
   "name": "OpenAI: GPT-4.1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 8.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75068,8 +75715,11 @@
   "id": "openai/gpt-4.1-mini",
   "in_price": 0.4,
   "name": "OpenAI: GPT-4.1 Mini",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.6,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75079,8 +75729,11 @@
   "id": "openai/gpt-4.1-mini:batch",
   "in_price": 0.2,
   "name": "OpenAI: GPT-4.1 Mini (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.8,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75090,8 +75743,11 @@
   "id": "openai/gpt-4.1-nano",
   "in_price": 0.1,
   "name": "OpenAI: GPT-4.1 Nano",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75101,8 +75757,11 @@
   "id": "openai/gpt-4.1-nano:batch",
   "in_price": 0.05,
   "name": "OpenAI: GPT-4.1 Nano (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75112,8 +75771,11 @@
   "id": "openai/gpt-4.1:batch",
   "in_price": 1.0,
   "name": "OpenAI: GPT-4.1 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75123,8 +75785,11 @@
   "id": "openai/gpt-4o",
   "in_price": 2.5,
   "name": "OpenAI: GPT-4o",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75134,8 +75799,11 @@
   "id": "openai/gpt-4o-2024-05-13",
   "in_price": 5.0,
   "name": "OpenAI: GPT-4o (2024-05-13)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 15.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75145,8 +75813,11 @@
   "id": "openai/gpt-4o-2024-08-06",
   "in_price": 2.5,
   "name": "OpenAI: GPT-4o (2024-08-06)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75156,8 +75827,11 @@
   "id": "openai/gpt-4o-2024-11-20",
   "in_price": 2.5,
   "name": "OpenAI: GPT-4o (2024-11-20)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75167,8 +75841,11 @@
   "id": "openai/gpt-4o-mini",
   "in_price": 0.15,
   "name": "OpenAI: GPT-4o-mini",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.6,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75178,8 +75855,11 @@
   "id": "openai/gpt-4o-mini-2024-07-18",
   "in_price": 0.15,
   "name": "OpenAI: GPT-4o-mini (2024-07-18)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.6,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75189,8 +75869,11 @@
   "id": "openai/gpt-4o-mini:batch",
   "in_price": 0.075,
   "name": "OpenAI: GPT-4o-mini (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.3,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75200,8 +75883,11 @@
   "id": "openai/gpt-4o:batch",
   "in_price": 1.25,
   "name": "OpenAI: GPT-4o (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 5.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75211,8 +75897,11 @@
   "id": "openai/gpt-5",
   "in_price": 1.25,
   "name": "OpenAI: GPT-5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75222,8 +75911,12 @@
   "id": "openai/gpt-5-image",
   "in_price": 10.0,
   "name": "OpenAI: GPT-5 Image",
+  "out_mods": [
+   "image",
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": false
  },
@@ -75233,8 +75926,12 @@
   "id": "openai/gpt-5-image-mini",
   "in_price": 2.5,
   "name": "OpenAI: GPT-5 Image Mini",
+  "out_mods": [
+   "image",
+   "text"
+  ],
   "out_price": 2.0,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": false
  },
@@ -75244,8 +75941,11 @@
   "id": "openai/gpt-5-mini",
   "in_price": 0.25,
   "name": "OpenAI: GPT-5 Mini",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75255,8 +75955,11 @@
   "id": "openai/gpt-5-mini:batch",
   "in_price": 0.125,
   "name": "OpenAI: GPT-5 Mini (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75266,8 +75969,11 @@
   "id": "openai/gpt-5-nano",
   "in_price": 0.05,
   "name": "OpenAI: GPT-5 Nano",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75277,8 +75983,11 @@
   "id": "openai/gpt-5-nano:batch",
   "in_price": 0.025,
   "name": "OpenAI: GPT-5 Nano (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75288,8 +75997,11 @@
   "id": "openai/gpt-5-pro",
   "in_price": 15.0,
   "name": "OpenAI: GPT-5 Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 120.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75299,8 +76011,11 @@
   "id": "openai/gpt-5-pro:batch",
   "in_price": 7.5,
   "name": "OpenAI: GPT-5 Pro (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 60.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75310,8 +76025,11 @@
   "id": "openai/gpt-5.1",
   "in_price": 1.25,
   "name": "OpenAI: GPT-5.1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75321,8 +76039,11 @@
   "id": "openai/gpt-5.1-codex",
   "in_price": 1.25,
   "name": "OpenAI: GPT-5.1-Codex",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75332,8 +76053,11 @@
   "id": "openai/gpt-5.1-codex-max",
   "in_price": 1.25,
   "name": "OpenAI: GPT-5.1-Codex-Max",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75343,8 +76067,11 @@
   "id": "openai/gpt-5.1-codex-mini",
   "in_price": 0.25,
   "name": "OpenAI: GPT-5.1-Codex-Mini",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75354,8 +76081,11 @@
   "id": "openai/gpt-5.1:batch",
   "in_price": 0.625,
   "name": "OpenAI: GPT-5.1 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 5.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75365,8 +76095,11 @@
   "id": "openai/gpt-5.2",
   "in_price": 1.75,
   "name": "OpenAI: GPT-5.2",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 14.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75376,8 +76109,11 @@
   "id": "openai/gpt-5.2-chat",
   "in_price": 1.75,
   "name": "OpenAI: GPT-5.2 Chat",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 14.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75387,8 +76123,11 @@
   "id": "openai/gpt-5.2-codex",
   "in_price": 1.75,
   "name": "OpenAI: GPT-5.2-Codex",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 14.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75398,8 +76137,11 @@
   "id": "openai/gpt-5.2-pro",
   "in_price": 21.0,
   "name": "OpenAI: GPT-5.2 Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 168.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75409,8 +76151,11 @@
   "id": "openai/gpt-5.2-pro:batch",
   "in_price": 10.5,
   "name": "OpenAI: GPT-5.2 Pro (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 84.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75420,8 +76165,11 @@
   "id": "openai/gpt-5.2:batch",
   "in_price": 0.875,
   "name": "OpenAI: GPT-5.2 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 7.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75431,8 +76179,11 @@
   "id": "openai/gpt-5.3-codex",
   "in_price": 1.75,
   "name": "OpenAI: GPT-5.3-Codex",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 14.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75442,8 +76193,11 @@
   "id": "openai/gpt-5.4",
   "in_price": 2.5,
   "name": "OpenAI: GPT-5.4",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 15.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75453,8 +76207,12 @@
   "id": "openai/gpt-5.4-image-2",
   "in_price": 8.0,
   "name": "OpenAI: GPT-5.4 Image 2",
+  "out_mods": [
+   "image",
+   "text"
+  ],
   "out_price": 15.0,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": false
  },
@@ -75464,8 +76222,11 @@
   "id": "openai/gpt-5.4-mini",
   "in_price": 0.75,
   "name": "OpenAI: GPT-5.4 Mini",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75475,8 +76236,11 @@
   "id": "openai/gpt-5.4-mini:batch",
   "in_price": 0.375,
   "name": "OpenAI: GPT-5.4 Mini (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75486,8 +76250,11 @@
   "id": "openai/gpt-5.4-nano",
   "in_price": 0.2,
   "name": "OpenAI: GPT-5.4 Nano",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75497,8 +76264,11 @@
   "id": "openai/gpt-5.4-nano:batch",
   "in_price": 0.1,
   "name": "OpenAI: GPT-5.4 Nano (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.625,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75508,8 +76278,11 @@
   "id": "openai/gpt-5.4-pro",
   "in_price": 30.0,
   "name": "OpenAI: GPT-5.4 Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 180.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75519,8 +76292,11 @@
   "id": "openai/gpt-5.4-pro:batch",
   "in_price": 15.0,
   "name": "OpenAI: GPT-5.4 Pro (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 90.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75530,8 +76306,11 @@
   "id": "openai/gpt-5.4:batch",
   "in_price": 1.25,
   "name": "OpenAI: GPT-5.4 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 7.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75541,8 +76320,11 @@
   "id": "openai/gpt-5.5",
   "in_price": 5.0,
   "name": "OpenAI: GPT-5.5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 30.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75552,8 +76334,11 @@
   "id": "openai/gpt-5.5-pro",
   "in_price": 30.0,
   "name": "OpenAI: GPT-5.5 Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 180.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75563,8 +76348,11 @@
   "id": "openai/gpt-5.5-pro:batch",
   "in_price": 15.0,
   "name": "OpenAI: GPT-5.5 Pro (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 90.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75574,8 +76362,11 @@
   "id": "openai/gpt-5.5:batch",
   "in_price": 2.5,
   "name": "OpenAI: GPT-5.5 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 15.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75585,8 +76376,11 @@
   "id": "openai/gpt-5.6-luna",
   "in_price": 0.2,
   "name": "OpenAI: GPT-5.6 Luna",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75596,8 +76390,11 @@
   "id": "openai/gpt-5.6-luna-pro",
   "in_price": 0.2,
   "name": "OpenAI: GPT-5.6 Luna Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75607,8 +76404,11 @@
   "id": "openai/gpt-5.6-luna-pro:batch",
   "in_price": 0.1,
   "name": "OpenAI: GPT-5.6 Luna Pro (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.6,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75618,8 +76418,11 @@
   "id": "openai/gpt-5.6-luna:batch",
   "in_price": 0.1,
   "name": "OpenAI: GPT-5.6 Luna (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.6,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75629,8 +76432,11 @@
   "id": "openai/gpt-5.6-sol",
   "in_price": 2.0,
   "name": "OpenAI: GPT-5.6 Sol",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75640,8 +76446,11 @@
   "id": "openai/gpt-5.6-sol-pro",
   "in_price": 2.0,
   "name": "OpenAI: GPT-5.6 Sol Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75651,8 +76460,11 @@
   "id": "openai/gpt-5.6-sol-pro:batch",
   "in_price": 1.0,
   "name": "OpenAI: GPT-5.6 Sol Pro (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 5.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75662,8 +76474,11 @@
   "id": "openai/gpt-5.6-sol:batch",
   "in_price": 1.0,
   "name": "OpenAI: GPT-5.6 Sol (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 5.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75673,8 +76488,11 @@
   "id": "openai/gpt-5.6-terra",
   "in_price": 2.0,
   "name": "OpenAI: GPT-5.6 Terra",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 12.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75684,8 +76502,11 @@
   "id": "openai/gpt-5.6-terra-pro",
   "in_price": 2.0,
   "name": "OpenAI: GPT-5.6 Terra Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 12.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75695,8 +76516,11 @@
   "id": "openai/gpt-5.6-terra-pro:batch",
   "in_price": 1.0,
   "name": "OpenAI: GPT-5.6 Terra Pro (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 6.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75706,8 +76530,11 @@
   "id": "openai/gpt-5.6-terra:batch",
   "in_price": 1.0,
   "name": "OpenAI: GPT-5.6 Terra (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 6.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75717,8 +76544,11 @@
   "id": "openai/gpt-5:batch",
   "in_price": 0.625,
   "name": "OpenAI: GPT-5 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 5.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75728,8 +76558,11 @@
   "id": "openai/gpt-6-astra",
   "in_price": 10.0,
   "name": "OpenAI: GPT-6 Astra",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 50.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75739,8 +76572,11 @@
   "id": "openai/gpt-6-astra-pro",
   "in_price": 10.0,
   "name": "OpenAI: GPT-6 Astra Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 50.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75750,8 +76586,11 @@
   "id": "openai/gpt-6-astra-pro:batch",
   "in_price": 5.0,
   "name": "OpenAI: GPT-6 Astra Pro (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 25.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75761,8 +76600,11 @@
   "id": "openai/gpt-6-astra:batch",
   "in_price": 5.0,
   "name": "OpenAI: GPT-6 Astra (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 25.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75772,8 +76614,11 @@
   "id": "openai/gpt-6-luna",
   "in_price": 0.1,
   "name": "OpenAI: GPT-6 Luna",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75783,8 +76628,11 @@
   "id": "openai/gpt-6-luna-pro",
   "in_price": 0.1,
   "name": "OpenAI: GPT-6 Luna Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75794,8 +76642,11 @@
   "id": "openai/gpt-6-luna-pro:batch",
   "in_price": 0.05,
   "name": "OpenAI: GPT-6 Luna Pro (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75805,8 +76656,11 @@
   "id": "openai/gpt-6-luna:batch",
   "in_price": 0.05,
   "name": "OpenAI: GPT-6 Luna (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75816,8 +76670,11 @@
   "id": "openai/gpt-6-sol",
   "in_price": 2.0,
   "name": "OpenAI: GPT-6 Sol",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75827,8 +76684,11 @@
   "id": "openai/gpt-6-sol-pro",
   "in_price": 2.0,
   "name": "OpenAI: GPT-6 Sol Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75838,8 +76698,11 @@
   "id": "openai/gpt-6-sol-pro:batch",
   "in_price": 1.0,
   "name": "OpenAI: GPT-6 Sol Pro (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 5.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75849,8 +76712,11 @@
   "id": "openai/gpt-6-sol:batch",
   "in_price": 1.0,
   "name": "OpenAI: GPT-6 Sol (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 5.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75860,8 +76726,12 @@
   "id": "openai/gpt-audio",
   "in_price": 2.5,
   "name": "OpenAI: GPT Audio",
+  "out_mods": [
+   "text",
+   "audio"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": true
  },
@@ -75871,8 +76741,12 @@
   "id": "openai/gpt-audio-mini",
   "in_price": 0.6,
   "name": "OpenAI: GPT Audio Mini",
+  "out_mods": [
+   "text",
+   "audio"
+  ],
   "out_price": 2.4,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": true
  },
@@ -75882,8 +76756,11 @@
   "id": "openai/gpt-chat-latest",
   "in_price": 5.0,
   "name": "OpenAI: GPT Chat Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 30.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75893,8 +76770,11 @@
   "id": "openai/gpt-oss-120b",
   "in_price": 0.15,
   "name": "OpenAI: gpt-oss-120b",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.6,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75904,8 +76784,11 @@
   "id": "openai/gpt-oss-20b",
   "in_price": 0.018,
   "name": "OpenAI: gpt-oss-20b",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.09,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75915,8 +76798,11 @@
   "id": "openai/gpt-oss-20b:batch",
   "in_price": 0.024,
   "name": "OpenAI: gpt-oss-20b (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.112,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75926,8 +76812,11 @@
   "id": "openai/gpt-oss-safeguard-20b",
   "in_price": 0.075,
   "name": "OpenAI: gpt-oss-safeguard-20b",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.3,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75937,8 +76826,11 @@
   "id": "openai/o1",
   "in_price": 15.0,
   "name": "OpenAI: o1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 60.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75948,8 +76840,11 @@
   "id": "openai/o1-pro",
   "in_price": 150.0,
   "name": "OpenAI: o1-pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 600.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -75959,8 +76854,11 @@
   "id": "openai/o3",
   "in_price": 2.0,
   "name": "OpenAI: o3",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 8.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75970,8 +76868,11 @@
   "id": "openai/o3-mini",
   "in_price": 1.1,
   "name": "OpenAI: o3 Mini",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75981,8 +76882,11 @@
   "id": "openai/o3-mini-high",
   "in_price": 1.1,
   "name": "OpenAI: o3 Mini High",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -75992,8 +76896,11 @@
   "id": "openai/o3-mini:batch",
   "in_price": 0.55,
   "name": "OpenAI: o3 Mini (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76003,8 +76910,11 @@
   "id": "openai/o3-pro",
   "in_price": 20.0,
   "name": "OpenAI: o3 Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 80.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76014,8 +76924,11 @@
   "id": "openai/o3:batch",
   "in_price": 1.0,
   "name": "OpenAI: o3 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76025,8 +76938,11 @@
   "id": "openai/o4-mini",
   "in_price": 1.1,
   "name": "OpenAI: o4 Mini",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76036,8 +76952,11 @@
   "id": "openai/o4-mini-high",
   "in_price": 1.1,
   "name": "OpenAI: o4 Mini High",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76047,8 +76966,11 @@
   "id": "openai/o4-mini:batch",
   "in_price": 0.55,
   "name": "OpenAI: o4 Mini (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76058,8 +76980,12 @@
   "id": "openrouter/auto",
   "in_price": -1000000.0,
   "name": "Auto Router",
+  "out_mods": [
+   "text",
+   "image"
+  ],
   "out_price": -1000000.0,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": true
  },
@@ -76069,8 +76995,12 @@
   "id": "openrouter/auto-beta",
   "in_price": -1000000.0,
   "name": "Auto Router (Beta)",
+  "out_mods": [
+   "text",
+   "image"
+  ],
   "out_price": -1000000.0,
-  "out_text": true,
+  "out_text_only": false,
   "source": "openrouter",
   "tools": true
  },
@@ -76080,8 +77010,11 @@
   "id": "openrouter/bodybuilder",
   "in_price": -1000000.0,
   "name": "Body Builder (beta)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": -1000000.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76091,8 +77024,11 @@
   "id": "openrouter/free",
   "in_price": 0.0,
   "name": "Free Models Router",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76102,8 +77038,11 @@
   "id": "openrouter/fusion",
   "in_price": -1000000.0,
   "name": "OpenRouter: Fusion",
+  "out_mods": [
+   "text"
+  ],
   "out_price": -1000000.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76113,8 +77052,11 @@
   "id": "openrouter/pareto-code",
   "in_price": -1000000.0,
   "name": "Pareto Code Router",
+  "out_mods": [
+   "text"
+  ],
   "out_price": -1000000.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76124,8 +77066,11 @@
   "id": "perceptron/perceptron-mk1",
   "in_price": 0.15,
   "name": "Perceptron: Perceptron Mk1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76135,8 +77080,11 @@
   "id": "perplexity/sonar",
   "in_price": 1.0,
   "name": "Perplexity: Sonar",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76146,8 +77094,11 @@
   "id": "perplexity/sonar-deep-research",
   "in_price": 2.0,
   "name": "Perplexity: Sonar Deep Research",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 8.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76157,8 +77108,11 @@
   "id": "perplexity/sonar-pro",
   "in_price": 3.0,
   "name": "Perplexity: Sonar Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 15.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76168,8 +77122,11 @@
   "id": "perplexity/sonar-pro-search",
   "in_price": 3.0,
   "name": "Perplexity: Sonar Pro Search",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 15.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76179,8 +77136,11 @@
   "id": "perplexity/sonar-reasoning-pro",
   "in_price": 2.0,
   "name": "Perplexity: Sonar Reasoning Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 8.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76190,8 +77150,11 @@
   "id": "poolside/laguna-s-2.1",
   "in_price": 0.09,
   "name": "Poolside: Laguna S 2.1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.18,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76201,8 +77164,11 @@
   "id": "poolside/laguna-s-2.1:free",
   "in_price": 0.0,
   "name": "Poolside: Laguna S 2.1 (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76212,8 +77178,11 @@
   "id": "poolside/laguna-xs-2.1",
   "in_price": 0.06,
   "name": "Poolside: Laguna XS 2.1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.12,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76223,8 +77192,11 @@
   "id": "poolside/laguna-xs-2.1:free",
   "in_price": 0.0,
   "name": "Poolside: Laguna XS 2.1 (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76234,8 +77206,11 @@
   "id": "prism-ml/ternary-bonsai-2-27b",
   "in_price": 0.075,
   "name": "PrismML: Ternary Bonsai 2 27B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76245,8 +77220,11 @@
   "id": "qwen/qwen-2.5-72b-instruct",
   "in_price": 0.36,
   "name": "Qwen2.5 72B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76256,8 +77234,11 @@
   "id": "qwen/qwen-2.5-7b-instruct",
   "in_price": 0.1,
   "name": "Qwen: Qwen2.5 7B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76267,8 +77248,11 @@
   "id": "qwen/qwen-2.5-coder-32b-instruct",
   "in_price": 0.66,
   "name": "Qwen2.5 Coder 32B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76278,8 +77262,11 @@
   "id": "qwen/qwen-plus",
   "in_price": 0.26,
   "name": "Qwen: Qwen-Plus",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.78,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76289,8 +77276,11 @@
   "id": "qwen/qwen-plus-2025-07-28",
   "in_price": 0.26,
   "name": "Qwen: Qwen Plus 0728",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.78,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76300,8 +77290,11 @@
   "id": "qwen/qwen2.5-vl-72b-instruct",
   "in_price": 0.8,
   "name": "Qwen: Qwen2.5 VL 72B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76311,8 +77304,11 @@
   "id": "qwen/qwen3-14b",
   "in_price": 0.12,
   "name": "Qwen: Qwen3 14B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.24,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76322,8 +77318,11 @@
   "id": "qwen/qwen3-235b-a22b",
   "in_price": 0.455,
   "name": "Qwen: Qwen3 235B A22B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.82,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76333,8 +77332,11 @@
   "id": "qwen/qwen3-235b-a22b-2507",
   "in_price": 0.0875,
   "name": "Qwen: Qwen3 235B A22B Instruct 2507",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.35,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76344,8 +77346,11 @@
   "id": "qwen/qwen3-235b-a22b-thinking-2507",
   "in_price": 0.23,
   "name": "Qwen: Qwen3 235B A22B Thinking 2507",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.3,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76355,8 +77360,11 @@
   "id": "qwen/qwen3-30b-a3b",
   "in_price": 0.12,
   "name": "Qwen: Qwen3 30B A3B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76366,8 +77374,11 @@
   "id": "qwen/qwen3-30b-a3b-instruct-2507",
   "in_price": 0.04815,
   "name": "Qwen: Qwen3 30B A3B Instruct 2507",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.19305,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76377,8 +77388,11 @@
   "id": "qwen/qwen3-30b-a3b-thinking-2507",
   "in_price": 0.2,
   "name": "Qwen: Qwen3 30B A3B Thinking 2507",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76388,8 +77402,11 @@
   "id": "qwen/qwen3-32b",
   "in_price": 0.08,
   "name": "Qwen: Qwen3 32B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.28,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76399,8 +77416,11 @@
   "id": "qwen/qwen3-8b",
   "in_price": 0.117,
   "name": "Qwen: Qwen3 8B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.455,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76410,8 +77430,11 @@
   "id": "qwen/qwen3-coder",
   "in_price": 0.3,
   "name": "Qwen: Qwen3 Coder 480B A35B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76421,8 +77444,11 @@
   "id": "qwen/qwen3-coder-30b-a3b-instruct",
   "in_price": 0.07,
   "name": "Qwen: Qwen3 Coder 30B A3B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.28,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76432,8 +77458,11 @@
   "id": "qwen/qwen3-coder-flash",
   "in_price": 0.195,
   "name": "Qwen: Qwen3 Coder Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.975,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76443,8 +77472,11 @@
   "id": "qwen/qwen3-coder-next",
   "in_price": 0.12,
   "name": "Qwen: Qwen3 Coder Next",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.8,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76454,8 +77486,11 @@
   "id": "qwen/qwen3-coder-plus",
   "in_price": 0.65,
   "name": "Qwen: Qwen3 Coder Plus",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76465,8 +77500,11 @@
   "id": "qwen/qwen3-max",
   "in_price": 0.78,
   "name": "Qwen: Qwen3 Max",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.9,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76476,8 +77514,11 @@
   "id": "qwen/qwen3-max-thinking",
   "in_price": 0.78,
   "name": "Qwen: Qwen3 Max Thinking",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.9,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76487,8 +77528,11 @@
   "id": "qwen/qwen3-next-80b-a3b-instruct",
   "in_price": 0.09,
   "name": "Qwen: Qwen3 Next 80B A3B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.1,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76498,8 +77542,11 @@
   "id": "qwen/qwen3-next-80b-a3b-thinking",
   "in_price": 0.15,
   "name": "Qwen: Qwen3 Next 80B A3B Thinking",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76509,8 +77556,11 @@
   "id": "qwen/qwen3-vl-235b-a22b-instruct",
   "in_price": 0.21,
   "name": "Qwen: Qwen3 VL 235B A22B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.9,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76520,8 +77570,11 @@
   "id": "qwen/qwen3-vl-235b-a22b-thinking",
   "in_price": 0.4,
   "name": "Qwen: Qwen3 VL 235B A22B Thinking",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76531,8 +77584,11 @@
   "id": "qwen/qwen3-vl-30b-a3b-instruct",
   "in_price": 0.13,
   "name": "Qwen: Qwen3 VL 30B A3B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.52,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76542,8 +77598,11 @@
   "id": "qwen/qwen3-vl-30b-a3b-thinking",
   "in_price": 0.2,
   "name": "Qwen: Qwen3 VL 30B A3B Thinking",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76553,8 +77612,11 @@
   "id": "qwen/qwen3-vl-32b-instruct",
   "in_price": 0.104,
   "name": "Qwen: Qwen3 VL 32B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.416,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76564,8 +77626,11 @@
   "id": "qwen/qwen3-vl-8b-instruct",
   "in_price": 0.117,
   "name": "Qwen: Qwen3 VL 8B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.455,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76575,8 +77640,11 @@
   "id": "qwen/qwen3-vl-8b-thinking",
   "in_price": 0.18,
   "name": "Qwen: Qwen3 VL 8B Thinking",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.1,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76586,8 +77654,11 @@
   "id": "qwen/qwen3.5-122b-a10b",
   "in_price": 0.26,
   "name": "Qwen: Qwen3.5-122B-A10B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.08,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76597,8 +77668,11 @@
   "id": "qwen/qwen3.5-27b",
   "in_price": 0.195,
   "name": "Qwen: Qwen3.5-27B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.56,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76608,8 +77682,11 @@
   "id": "qwen/qwen3.5-35b-a3b",
   "in_price": 0.3125,
   "name": "Qwen: Qwen3.5-35B-A3B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76619,8 +77696,11 @@
   "id": "qwen/qwen3.5-397b-a17b",
   "in_price": 0.55,
   "name": "Qwen: Qwen3.5 397B A17B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76630,8 +77710,11 @@
   "id": "qwen/qwen3.5-9b",
   "in_price": 0.1,
   "name": "Qwen: Qwen3.5-9B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.15,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76641,8 +77724,11 @@
   "id": "qwen/qwen3.5-flash-02-23",
   "in_price": 0.065,
   "name": "Qwen: Qwen3.5-Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.26,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76652,8 +77738,11 @@
   "id": "qwen/qwen3.5-plus-02-15",
   "in_price": 0.26,
   "name": "Qwen: Qwen3.5 Plus 2026-02-15",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.56,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76663,8 +77752,11 @@
   "id": "qwen/qwen3.5-plus-20260420",
   "in_price": 0.3,
   "name": "Qwen: Qwen3.5 Plus 2026-04-20",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.8,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76674,8 +77766,11 @@
   "id": "qwen/qwen3.6-27b",
   "in_price": 0.32,
   "name": "Qwen: Qwen3.6 27B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.7,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76685,8 +77780,11 @@
   "id": "qwen/qwen3.6-35b-a3b",
   "in_price": 0.15,
   "name": "Qwen: Qwen3.6 35B A3B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76696,8 +77794,11 @@
   "id": "qwen/qwen3.6-flash",
   "in_price": 0.1875,
   "name": "Qwen: Qwen3.6 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.125,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76707,8 +77808,11 @@
   "id": "qwen/qwen3.6-max-preview",
   "in_price": 1.027,
   "name": "Qwen: Qwen3.6 Max Preview",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 6.162,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76718,8 +77822,11 @@
   "id": "qwen/qwen3.6-plus",
   "in_price": 0.325,
   "name": "Qwen: Qwen3.6 Plus",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.95,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76729,8 +77836,11 @@
   "id": "qwen/qwen3.7-flash",
   "in_price": 0.03,
   "name": "Qwen: Qwen3.7 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.13,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76740,8 +77850,11 @@
   "id": "qwen/qwen3.7-max",
   "in_price": 1.475,
   "name": "Qwen: Qwen3.7 Max",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.425,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76751,8 +77864,11 @@
   "id": "qwen/qwen3.7-plus",
   "in_price": 0.32,
   "name": "Qwen: Qwen3.7 Plus",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.28,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76762,8 +77878,11 @@
   "id": "qwen/qwen3.8-2.4t-a95b",
   "in_price": 2.0,
   "name": "Qwen: Qwen3.8 2.4T A95B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 6.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76773,8 +77892,11 @@
   "id": "qwen/qwen3.8-27b",
   "in_price": 0.42,
   "name": "Qwen: Qwen3.8 27B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76784,8 +77906,11 @@
   "id": "qwen/qwen3.8-27b:free",
   "in_price": 0.0,
   "name": "Qwen: Qwen3.8 27B (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76795,8 +77920,11 @@
   "id": "qwen/qwen3.8-flash",
   "in_price": 0.15,
   "name": "Qwen: Qwen3.8 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.47,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76806,8 +77934,11 @@
   "id": "qwen/qwen3.8-max-0902",
   "in_price": 2.0,
   "name": "Qwen: Qwen3.8 Max (0902)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 6.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76817,8 +77948,11 @@
   "id": "qwen/qwen3.8-omni-flash",
   "in_price": 0.15,
   "name": "Qwen: Qwen3.8 Omni Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.47,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76828,8 +77962,11 @@
   "id": "rekaai/reka-edge",
   "in_price": 0.1,
   "name": "Reka Edge",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.1,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76839,8 +77976,11 @@
   "id": "rekaai/reka-flash-3",
   "in_price": 0.1,
   "name": "Reka Flash 3",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76850,8 +77990,11 @@
   "id": "relace/relace-apply-3",
   "in_price": 0.85,
   "name": "Relace: Relace Apply 3",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76861,8 +78004,11 @@
   "id": "relace/relace-search",
   "in_price": 1.0,
   "name": "Relace: Relace Search",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76872,8 +78018,11 @@
   "id": "sakana/fugu-max",
   "in_price": 2.0,
   "name": "Sakana: Fugu Max",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 6.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76883,8 +78032,11 @@
   "id": "sakana/fugu-ultra",
   "in_price": 5.0,
   "name": "Sakana: Fugu Ultra",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 30.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76894,8 +78046,11 @@
   "id": "sakana/fugu-ultra-v2",
   "in_price": 5.0,
   "name": "Sakana: Fugu Ultra v2",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 30.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76905,8 +78060,11 @@
   "id": "sakana/sakana-namazu",
   "in_price": 0.95,
   "name": "Sakana: Sakana Namazu",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76916,8 +78074,11 @@
   "id": "sao10k/l3-lunaris-8b",
   "in_price": 0.04,
   "name": "Sao10K: Llama 3 8B Lunaris",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.05,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76927,8 +78088,11 @@
   "id": "sao10k/l3.1-euryale-70b",
   "in_price": 0.85,
   "name": "Sao10K: Llama 3.1 Euryale 70B v2.2",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.85,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76938,8 +78102,11 @@
   "id": "sao10k/l3.3-euryale-70b",
   "in_price": 0.65,
   "name": "Sao10K: Llama 3.3 Euryale 70B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.75,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76949,8 +78116,11 @@
   "id": "stepfun/step-3.5-flash",
   "in_price": 0.1,
   "name": "StepFun: Step 3.5 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.3,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76960,8 +78130,11 @@
   "id": "stepfun/step-3.7-flash",
   "in_price": 0.2,
   "name": "StepFun: Step 3.7 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.15,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -76971,8 +78144,11 @@
   "id": "tencent/hunyuan-a13b-instruct",
   "in_price": 0.14,
   "name": "Tencent: Hunyuan A13B Instruct",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.57,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76982,8 +78158,11 @@
   "id": "tencent/hy-mt2-1.8b",
   "in_price": 0.044,
   "name": "Tencent: Hy-MT2-1.8B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.177,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -76993,8 +78172,11 @@
   "id": "tencent/hy-mt2-30b-a3b",
   "in_price": 0.074,
   "name": "Tencent: Hy-MT2-30B-A3B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.295,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -77004,8 +78186,11 @@
   "id": "tencent/hy-mt2-7b",
   "in_price": 0.074,
   "name": "Tencent: Hy-MT2-7B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.295,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -77015,8 +78200,11 @@
   "id": "tencent/hy3",
   "in_price": 0.132,
   "name": "Tencent: Hy3",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.528,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77026,8 +78214,11 @@
   "id": "tencent/hy3-preview",
   "in_price": 0.18,
   "name": "Tencent: Hy3 preview",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.6,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77037,8 +78228,11 @@
   "id": "tencent/hy4-preview",
   "in_price": 0.834,
   "name": "Tencent: Hy4 preview",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.501,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77048,8 +78242,11 @@
   "id": "thedrummer/cydonia-24b-v4.1",
   "in_price": 0.3,
   "name": "TheDrummer: Cydonia 24B V4.1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -77059,8 +78256,11 @@
   "id": "thedrummer/skyfall-36b-v2",
   "in_price": 0.55,
   "name": "TheDrummer: Skyfall 36B V2",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.8,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -77070,8 +78270,11 @@
   "id": "thedrummer/unslopnemo-12b",
   "in_price": 0.4,
   "name": "TheDrummer: UnslopNemo 12B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -77081,8 +78284,11 @@
   "id": "thinkingmachines/inkling",
   "in_price": 1.0,
   "name": "Thinking Machines: Inkling",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.05,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77092,8 +78298,11 @@
   "id": "thinkingmachines/inkling-small",
   "in_price": 0.45,
   "name": "Thinking Machines: Inkling Small",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77103,8 +78312,11 @@
   "id": "thinkingmachines/inkling-small:free",
   "in_price": 0.0,
   "name": "Thinking Machines: Inkling Small (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77114,8 +78326,11 @@
   "id": "thinkingmachines/inkling:free",
   "in_price": 0.0,
   "name": "Thinking Machines: Inkling (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77125,8 +78340,11 @@
   "id": "unbiased/pareto",
   "in_price": 2.5,
   "name": "Pareto",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 7.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77136,8 +78354,11 @@
   "id": "undi95/remm-slerp-l2-13b",
   "in_price": 0.35,
   "name": "ReMM SLERP 13B",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.65,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -77147,8 +78368,11 @@
   "id": "upstage/solar-pro-3",
   "in_price": 0.15,
   "name": "Upstage: Solar Pro 3",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.6,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77158,8 +78382,11 @@
   "id": "upstage/solar-pro4",
   "in_price": 0.09,
   "name": "Upstage: Solar Pro 4",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.36,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77169,8 +78396,11 @@
   "id": "writer/palmyra-x5",
   "in_price": 0.6,
   "name": "Writer: Palmyra X5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 6.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -77180,8 +78410,11 @@
   "id": "x-ai/grok-4.20",
   "in_price": 1.25,
   "name": "SpaceXAI: Grok 4.20",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77191,8 +78424,11 @@
   "id": "x-ai/grok-4.20-multi-agent",
   "in_price": 1.25,
   "name": "SpaceXAI: Grok 4.20 Multi-Agent",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -77202,8 +78438,11 @@
   "id": "x-ai/grok-4.3",
   "in_price": 1.25,
   "name": "SpaceXAI: Grok 4.3",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77213,8 +78452,11 @@
   "id": "x-ai/grok-4.3:batch",
   "in_price": 1.0,
   "name": "SpaceXAI: Grok 4.3 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77224,8 +78466,11 @@
   "id": "x-ai/grok-4.5",
   "in_price": 2.0,
   "name": "SpaceXAI: Grok 4.5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 6.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77235,8 +78480,11 @@
   "id": "x-ai/grok-4.6",
   "in_price": 2.0,
   "name": "SpaceXAI: Grok 4.6",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 6.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77246,8 +78494,11 @@
   "id": "x-ai/grok-4.7",
   "in_price": 1.6,
   "name": "SpaceXAI: Grok 4.7",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.8,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77257,8 +78508,11 @@
   "id": "x-ai/grok-build-0.1",
   "in_price": 1.0,
   "name": "SpaceXAI: Grok Build 0.1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77268,8 +78522,11 @@
   "id": "xiaomi/mimo-v2.5",
   "in_price": 0.14,
   "name": "Xiaomi: MiMo-V2.5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.28,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77279,8 +78536,11 @@
   "id": "xiaomi/mimo-v2.5-pro",
   "in_price": 0.435,
   "name": "Xiaomi: MiMo-V2.5-Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.87,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77290,8 +78550,11 @@
   "id": "xiaomi/mimo-v2.6-flash",
   "in_price": 0.14,
   "name": "Xiaomi: MiMo-V2.6-Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.28,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77301,8 +78564,11 @@
   "id": "xiaomi/mimo-v2.6-pro",
   "in_price": 0.435,
   "name": "Xiaomi: MiMo-V2.6-Pro",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.87,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77312,8 +78578,11 @@
   "id": "xiaomi/mimo-v2.6-pro-ultraspeed",
   "in_price": 4.35,
   "name": "Xiaomi: MiMo-V2.6-Pro-UltraSpeed",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 8.7,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77323,8 +78592,11 @@
   "id": "z-ai/glm-4.5",
   "in_price": 0.6,
   "name": "Z.ai: GLM 4.5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77334,8 +78606,11 @@
   "id": "z-ai/glm-4.5-air",
   "in_price": 0.13,
   "name": "Z.ai: GLM 4.5 Air",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.85,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77345,8 +78620,11 @@
   "id": "z-ai/glm-4.5v",
   "in_price": 0.6,
   "name": "Z.ai: GLM 4.5V",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.8,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77356,8 +78634,11 @@
   "id": "z-ai/glm-4.6",
   "in_price": 0.43,
   "name": "Z.ai: GLM 4.6",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.75,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77367,8 +78648,11 @@
   "id": "z-ai/glm-4.6v",
   "in_price": 0.3,
   "name": "Z.ai: GLM 4.6V",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.9,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77378,8 +78662,11 @@
   "id": "z-ai/glm-4.7",
   "in_price": 0.4,
   "name": "Z.ai: GLM 4.7",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.75,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77389,8 +78676,11 @@
   "id": "z-ai/glm-4.7-flash",
   "in_price": 0.0605,
   "name": "Z.ai: GLM 4.7 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77400,8 +78690,11 @@
   "id": "z-ai/glm-5",
   "in_price": 0.6,
   "name": "Z.ai: GLM 5",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.92,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77411,8 +78704,11 @@
   "id": "z-ai/glm-5-turbo",
   "in_price": 1.2,
   "name": "Z.ai: GLM 5 Turbo",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77422,8 +78718,11 @@
   "id": "z-ai/glm-5.1",
   "in_price": 0.966,
   "name": "Z.ai: GLM 5.1",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.036,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77433,8 +78732,11 @@
   "id": "z-ai/glm-5.2",
   "in_price": 0.6496,
   "name": "Z.ai: GLM 5.2",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.0416,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77444,8 +78746,11 @@
   "id": "z-ai/glm-5.2:free",
   "in_price": 0.0,
   "name": "Z.ai: GLM 5.2 (free)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": false
  },
@@ -77455,8 +78760,11 @@
   "id": "z-ai/glm-5.3",
   "in_price": 0.84,
   "name": "Z.ai: GLM 5.3",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.64,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77466,8 +78774,11 @@
   "id": "z-ai/glm-5.3-flash",
   "in_price": 0.15,
   "name": "Z.ai: GLM 5.3 Flash",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77477,8 +78788,11 @@
   "id": "z-ai/glm-5.3-flash:batch",
   "in_price": 0.06,
   "name": "Z.ai: GLM 5.3 Flash (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.2,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77488,8 +78802,11 @@
   "id": "z-ai/glm-5.3-flashx",
   "in_price": 0.37,
   "name": "Z.ai: GLM 5.3 FlashX",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 1.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77499,8 +78816,11 @@
   "id": "z-ai/glm-5.3:batch",
   "in_price": 0.72,
   "name": "Z.ai: GLM 5.3 (batch)",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.4,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77510,8 +78830,11 @@
   "id": "z-ai/glm-5v-turbo",
   "in_price": 1.2,
   "name": "Z.ai: GLM 5V Turbo",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77521,8 +78844,11 @@
   "id": "~anthropic/claude-fable-latest",
   "in_price": 10.0,
   "name": "Anthropic: Claude Fable Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 50.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77532,8 +78858,11 @@
   "id": "~anthropic/claude-haiku-latest",
   "in_price": 1.0,
   "name": "Anthropic: Claude Haiku Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 5.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77543,8 +78872,11 @@
   "id": "~anthropic/claude-opus-latest",
   "in_price": 4.0,
   "name": "Anthropic: Claude Opus Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 20.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77554,8 +78886,11 @@
   "id": "~anthropic/claude-sonnet-latest",
   "in_price": 2.0,
   "name": "Anthropic: Claude Sonnet Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77565,8 +78900,11 @@
   "id": "~deepseek/deepseek-flash-latest",
   "in_price": 0.1,
   "name": "DeepSeek: DeepSeek Flash Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77576,8 +78914,11 @@
   "id": "~deepseek/deepseek-pro-latest",
   "in_price": 0.4,
   "name": "DeepSeek: DeepSeek Pro Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.3,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77587,8 +78928,11 @@
   "id": "~deepseek/deepseek-v4-flash-latest",
   "in_price": 0.03,
   "name": "DeepSeek: DeepSeek V4 Flash Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.8,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77598,8 +78942,11 @@
   "id": "~google/gemini-flash-latest",
   "in_price": 0.75,
   "name": "Google: Gemini Flash Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 3.75,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77609,8 +78956,11 @@
   "id": "~google/gemini-pro-latest",
   "in_price": 2.0,
   "name": "Google: Gemini Pro Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 12.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77620,8 +78970,11 @@
   "id": "~moonshotai/kimi-latest",
   "in_price": 1.45,
   "name": "MoonshotAI: Kimi Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 11.7,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77631,8 +78984,11 @@
   "id": "~openai/gpt-astra-latest",
   "in_price": 10.0,
   "name": "OpenAI: GPT Astra Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 50.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77642,8 +78998,11 @@
   "id": "~openai/gpt-luna-latest",
   "in_price": 0.1,
   "name": "OpenAI: GPT Luna Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77653,8 +79012,11 @@
   "id": "~openai/gpt-mini-latest",
   "in_price": 0.75,
   "name": "OpenAI: GPT Mini Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77664,8 +79026,11 @@
   "id": "~openai/gpt-sol-latest",
   "in_price": 2.0,
   "name": "OpenAI: GPT Sol Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 10.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77675,8 +79040,11 @@
   "id": "~openai/gpt-terra-latest",
   "in_price": 2.0,
   "name": "OpenAI: GPT Terra Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 12.0,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77686,8 +79054,11 @@
   "id": "~x-ai/grok-latest",
   "in_price": 1.6,
   "name": "xAI: Grok Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 4.8,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77697,8 +79068,11 @@
   "id": "~z-ai/glm-flash-latest",
   "in_price": 0.075,
   "name": "Z.ai: GLM Flash Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 0.25,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  },
@@ -77708,8 +79082,11 @@
   "id": "~z-ai/glm-latest",
   "in_price": 0.5625,
   "name": "Z.ai: GLM Latest",
+  "out_mods": [
+   "text"
+  ],
   "out_price": 2.5,
-  "out_text": true,
+  "out_text_only": true,
   "source": "openrouter",
   "tools": true
  }

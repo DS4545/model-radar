@@ -83,9 +83,11 @@ def normalise_openrouter(payload: dict) -> dict:
             "out_price": _price(pricing, "completion"),
             "expires": m.get("expiration_date") or None,
             # Carried for selection, not for diffing: a catalog entry can be free,
-            # roomy and alive and still be a music model. Without these, a resolver
-            # picking on price and context alone will hand a text job to Lyria.
-            "out_text": "text" in (arch.get("output_modalities") or []),
+            # roomy and alive and still be a music model. google/lyria-3-clip-preview
+            # declares output_modalities ["text","audio"] — "has text" does not
+            # discriminate, "text and nothing else" does.
+            "out_mods": arch.get("output_modalities") or [],
+            "out_text_only": (arch.get("output_modalities") or []) == ["text"],
             "tools": "tools" in params,
         }
     return out
