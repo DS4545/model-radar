@@ -6344,6 +6344,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:amazon-bedrock/global.anthropic.claude-sonnet-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "amazon-bedrock/global.anthropic.claude-sonnet-5-5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5 (Global)",
+  "out_price": 10,
+  "source": "models.dev"
+ },
  "modelsdev:amazon-bedrock/global.moonshotai.kimi-k3": {
   "context": 1048576,
   "expires": null,
@@ -6413,6 +6422,15 @@
   "id": "amazon-bedrock/global.xai.grok-4.6",
   "in_price": 2,
   "name": "Grok 4.6 (Global)",
+  "out_price": 6,
+  "source": "models.dev"
+ },
+ "modelsdev:amazon-bedrock/global.xai.grok-4.7": {
+  "context": 500000,
+  "expires": null,
+  "id": "amazon-bedrock/global.xai.grok-4.7",
+  "in_price": 2,
+  "name": "Grok 4.7 (Global)",
   "out_price": 6,
   "source": "models.dev"
  },
@@ -7307,6 +7325,15 @@
   "out_price": 6.6,
   "source": "models.dev"
  },
+ "modelsdev:amazon-bedrock/us.xai.grok-4.7": {
+  "context": 500000,
+  "expires": null,
+  "id": "amazon-bedrock/us.xai.grok-4.7",
+  "in_price": 2.2,
+  "name": "Grok 4.7 (US)",
+  "out_price": 6.6,
+  "source": "models.dev"
+ },
  "modelsdev:amazon-bedrock/writer.palmyra-x4-v1:0": {
   "context": 122880,
   "expires": null,
@@ -7664,6 +7691,15 @@
   "id": "anthropic/claude-sonnet-5",
   "in_price": 2,
   "name": "Claude Sonnet 5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
+ "modelsdev:anthropic/claude-sonnet-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "anthropic/claude-sonnet-5-5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
   "out_price": 10,
   "source": "models.dev"
  },
@@ -8306,6 +8342,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:azure-cognitive-services/claude-sonnet-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "azure-cognitive-services/claude-sonnet-5-5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
  "modelsdev:azure-cognitive-services/codestral-2501": {
   "context": 256000,
   "expires": null,
@@ -8540,6 +8585,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:azure-cognitive-services/gpt-5.1-codex-max": {
+  "context": 400000,
+  "expires": null,
+  "id": "azure-cognitive-services/gpt-5.1-codex-max",
+  "in_price": 1.25,
+  "name": "GPT-5.1 Codex Max",
+  "out_price": 10,
+  "source": "models.dev"
+ },
  "modelsdev:azure-cognitive-services/gpt-5.1-codex-mini": {
   "context": 400000,
   "expires": null,
@@ -8648,6 +8702,24 @@
   "out_price": 15,
   "source": "models.dev"
  },
+ "modelsdev:azure-cognitive-services/gpt-6-astra": {
+  "context": 1050000,
+  "expires": null,
+  "id": "azure-cognitive-services/gpt-6-astra",
+  "in_price": 10,
+  "name": "GPT-6 Astra",
+  "out_price": 50,
+  "source": "models.dev"
+ },
+ "modelsdev:azure-cognitive-services/gpt-6-luna": {
+  "context": 1050000,
+  "expires": null,
+  "id": "azure-cognitive-services/gpt-6-luna",
+  "in_price": 0.1,
+  "name": "GPT-6 Luna",
+  "out_price": 0.5,
+  "source": "models.dev"
+ },
  "modelsdev:azure-cognitive-services/gpt-6-sol": {
   "context": 1050000,
   "expires": null,
@@ -8663,6 +8735,51 @@
   "id": "azure-cognitive-services/gpt-chat-latest",
   "in_price": 5,
   "name": "GPT Chat Latest",
+  "out_price": 30,
+  "source": "models.dev"
+ },
+ "modelsdev:azure-cognitive-services/gpt-image-1": {
+  "context": 0,
+  "expires": null,
+  "id": "azure-cognitive-services/gpt-image-1",
+  "in_price": 5,
+  "name": "GPT-Image-1",
+  "out_price": 40,
+  "source": "models.dev"
+ },
+ "modelsdev:azure-cognitive-services/gpt-image-1.5": {
+  "context": 0,
+  "expires": null,
+  "id": "azure-cognitive-services/gpt-image-1.5",
+  "in_price": 5,
+  "name": "GPT-Image-1.5",
+  "out_price": 32,
+  "source": "models.dev"
+ },
+ "modelsdev:azure-cognitive-services/gpt-image-2": {
+  "context": 0,
+  "expires": null,
+  "id": "azure-cognitive-services/gpt-image-2",
+  "in_price": 5,
+  "name": "GPT-Image-2",
+  "out_price": 30,
+  "source": "models.dev"
+ },
+ "modelsdev:azure-cognitive-services/gpt-image-2.5-flare": {
+  "context": 0,
+  "expires": null,
+  "id": "azure-cognitive-services/gpt-image-2.5-flare",
+  "in_price": 5,
+  "name": "GPT Image 2.5 Flare",
+  "out_price": 30,
+  "source": "models.dev"
+ },
+ "modelsdev:azure-cognitive-services/gpt-image-2.5-sunburst": {
+  "context": 0,
+  "expires": null,
+  "id": "azure-cognitive-services/gpt-image-2.5-sunburst",
+  "in_price": 5,
+  "name": "GPT Image 2.5 Sunburst",
   "out_price": 30,
   "source": "models.dev"
  },
@@ -8987,6 +9104,15 @@
   "id": "azure/claude-sonnet-5",
   "in_price": 2,
   "name": "Claude Sonnet 5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
+ "modelsdev:azure/claude-sonnet-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "azure/claude-sonnet-5-5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
   "out_price": 10,
   "source": "models.dev"
  },
@@ -10719,7 +10845,7 @@
   "source": "models.dev"
  },
  "modelsdev:cloudflare-ai-gateway/anthropic/claude-sonnet-4.5": {
-  "context": 1000000,
+  "context": 200000,
   "expires": null,
   "id": "cloudflare-ai-gateway/anthropic/claude-sonnet-4.5",
   "in_price": 3,
@@ -11061,7 +11187,7 @@
   "source": "models.dev"
  },
  "modelsdev:cloudflare-workers-ai/@cf/deepseek-ai/deepseek-v4-flash-0731": {
-  "context": 1310720,
+  "context": 1048576,
   "expires": null,
   "id": "cloudflare-workers-ai/@cf/deepseek-ai/deepseek-v4-flash-0731",
   "in_price": 0.44,
@@ -11268,7 +11394,7 @@
   "source": "models.dev"
  },
  "modelsdev:cloudflare-workers-ai/@cf/zai-org/glm-5.3": {
-  "context": 1310720,
+  "context": 1048576,
   "expires": null,
   "id": "cloudflare-workers-ai/@cf/zai-org/glm-5.3",
   "in_price": 1.4,
@@ -11277,7 +11403,7 @@
   "source": "models.dev"
  },
  "modelsdev:cloudflare-workers-ai/@cf/zai-org/glm-5.3-flash": {
-  "context": 1310720,
+  "context": 1048576,
   "expires": null,
   "id": "cloudflare-workers-ai/@cf/zai-org/glm-5.3-flash",
   "in_price": 0.15,
@@ -11604,9 +11730,9 @@
   "context": 1048576,
   "expires": null,
   "id": "cortecs/deepseek-v4.1-flash",
-  "in_price": 0.3,
+  "in_price": 0.201,
   "name": "DeepSeek V4.1 Flash",
-  "out_price": 1.2,
+  "out_price": 0.6,
   "source": "models.dev"
  },
  "modelsdev:cortecs/devstral-2512": {
@@ -12713,6 +12839,15 @@
   "id": "crossmodel/anthropic/claude-sonnet-5",
   "in_price": 2,
   "name": "Claude Sonnet 5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
+ "modelsdev:crossmodel/anthropic/claude-sonnet-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "crossmodel/anthropic/claude-sonnet-5-5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
   "out_price": 10,
   "source": "models.dev"
  },
@@ -14552,6 +14687,15 @@
   "out_price": 15,
   "source": "models.dev"
  },
+ "modelsdev:digitalocean/anthropic-claude-sonnet-5.5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "digitalocean/anthropic-claude-sonnet-5.5",
+  "in_price": 2,
+  "name": "Anthropic Claude Sonnet 5.5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
  "modelsdev:digitalocean/arcee-trinity-large-thinking": {
   "context": 128000,
   "expires": null,
@@ -15713,6 +15857,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:edenai/anthropic/claude-sonnet-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "edenai/anthropic/claude-sonnet-5-5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
  "modelsdev:edenai/anthropic/claude-sonnet-latest": {
   "context": 1000000,
   "expires": null,
@@ -16235,6 +16388,15 @@
   "out_price": 1.98,
   "source": "models.dev"
  },
+ "modelsdev:edenai/fireworks_ai/accounts/fireworks/models/gpt-oss-120b": {
+  "context": 131072,
+  "expires": null,
+  "id": "edenai/fireworks_ai/accounts/fireworks/models/gpt-oss-120b",
+  "in_price": 0.15,
+  "name": "GPT OSS 120B (Fireworks AI)",
+  "out_price": 0.6,
+  "source": "models.dev"
+ },
  "modelsdev:edenai/fireworks_ai/accounts/fireworks/models/inkling": {
   "context": 1048576,
   "expires": null,
@@ -16491,27 +16653,27 @@
   "context": 100000,
   "expires": null,
   "id": "edenai/infomaniak/mistralai/Ministral-3-14B-Instruct-2512",
-  "in_price": 0.34134,
+  "in_price": 0.34065,
   "name": "Ministral 3 14B (Infomaniak)",
-  "out_price": 0.45512,
+  "out_price": 0.4542,
   "source": "models.dev"
  },
  "modelsdev:edenai/ionos/meta-llama/Llama-3.3-70B-Instruct": {
   "context": 128000,
   "expires": null,
   "id": "edenai/ionos/meta-llama/Llama-3.3-70B-Instruct",
-  "in_price": 0.73957,
+  "in_price": 0.738075,
   "name": "Llama-3.3-70B-Instruct (IONOS)",
-  "out_price": 0.73957,
+  "out_price": 0.738075,
   "source": "models.dev"
  },
  "modelsdev:edenai/ionos/openai/gpt-oss-120b": {
   "context": 131072,
   "expires": null,
   "id": "edenai/ionos/openai/gpt-oss-120b",
-  "in_price": 0.17067,
+  "in_price": 0.170325,
   "name": "GPT OSS 120B (IONOS)",
-  "out_price": 0.73957,
+  "out_price": 0.738075,
   "source": "models.dev"
  },
  "modelsdev:edenai/minimax/MiniMax-M2": {
@@ -17409,9 +17571,9 @@
   "context": 256000,
   "expires": null,
   "id": "edenai/scaleway/deepseek-v4-flash-0731",
-  "in_price": 0.45512,
+  "in_price": 0.4542,
   "name": "DeepSeek V4 Flash 0731 (Scaleway)",
-  "out_price": 0.91024,
+  "out_price": 0.9084,
   "source": "models.dev"
  },
  "modelsdev:edenai/scaleway/gemma-3-27b-it": {
@@ -17427,18 +17589,18 @@
   "context": 128000,
   "expires": null,
   "id": "edenai/scaleway/gpt-oss-120b",
-  "in_price": 0.17067,
+  "in_price": 0.170325,
   "name": "GPT OSS 120B (Scaleway)",
-  "out_price": 0.68268,
+  "out_price": 0.6813,
   "source": "models.dev"
  },
  "modelsdev:edenai/scaleway/llama-3.3-70b-instruct": {
   "context": 128000,
   "expires": null,
   "id": "edenai/scaleway/llama-3.3-70b-instruct",
-  "in_price": 1.02402,
+  "in_price": 1.02195,
   "name": "Llama-3.3-70B-Instruct (Scaleway)",
-  "out_price": 1.02402,
+  "out_price": 1.02195,
   "source": "models.dev"
  },
  "modelsdev:edenai/tensorx/deepseek/deepseek-v4-flash-0731": {
@@ -19754,6 +19916,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:github-copilot/claude-sonnet-5.5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "github-copilot/claude-sonnet-5.5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
  "modelsdev:github-copilot/gemini-3.5-flash": {
   "context": 200000,
   "expires": null,
@@ -20474,6 +20645,15 @@
   "out_price": 15,
   "source": "models.dev"
  },
+ "modelsdev:google-vertex-anthropic/claude-sonnet-5-5@default": {
+  "context": 1000000,
+  "expires": null,
+  "id": "google-vertex-anthropic/claude-sonnet-5-5@default",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
  "modelsdev:google-vertex-anthropic/claude-sonnet-5@default": {
   "context": 1000000,
   "expires": null,
@@ -20607,6 +20787,15 @@
   "in_price": 3,
   "name": "Claude Sonnet 4",
   "out_price": 15,
+  "source": "models.dev"
+ },
+ "modelsdev:google-vertex/claude-sonnet-5-5@default": {
+  "context": 1000000,
+  "expires": null,
+  "id": "google-vertex/claude-sonnet-5-5@default",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
+  "out_price": 10,
   "source": "models.dev"
  },
  "modelsdev:google-vertex/claude-sonnet-5@default": {
@@ -26576,6 +26765,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:kilo/anthropic/claude-sonnet-5.5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "kilo/anthropic/claude-sonnet-5.5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
  "modelsdev:kilo/arcee-ai/trinity-large-thinking": {
   "context": 262144,
   "expires": null,
@@ -26766,10 +26964,10 @@
   "source": "models.dev"
  },
  "modelsdev:kilo/deepseek/deepseek-v3.1-terminus": {
-  "context": 163840,
+  "context": 131072,
   "expires": null,
   "id": "kilo/deepseek/deepseek-v3.1-terminus",
-  "in_price": 0.27,
+  "in_price": 0.3,
   "name": "DeepSeek: DeepSeek V3.1 Terminus",
   "out_price": 1,
   "source": "models.dev"
@@ -26811,7 +27009,7 @@
   "source": "models.dev"
  },
  "modelsdev:kilo/deepseek/deepseek-v4-flash-vision-exp": {
-  "context": 1048575,
+  "context": 1048576,
   "expires": null,
   "id": "kilo/deepseek/deepseek-v4-flash-vision-exp",
   "in_price": 0.44,
@@ -27174,9 +27372,9 @@
   "context": 262144,
   "expires": null,
   "id": "kilo/inclusionai/ling-3.0-flash-fin",
-  "in_price": 0.06,
+  "in_price": 0.075,
   "name": "inclusionAI: Ling 3.0 Flash Fin",
-  "out_price": 0.18,
+  "out_price": 0.22,
   "source": "models.dev"
  },
  "modelsdev:kilo/inclusionai/ling-3.0-flash-sante:free": {
@@ -27495,7 +27693,7 @@
   "source": "models.dev"
  },
  "modelsdev:kilo/minimax/minimax-m2.7": {
-  "context": 204800,
+  "context": 196608,
   "expires": null,
   "id": "kilo/minimax/minimax-m2.7",
   "in_price": 0.3,
@@ -28710,7 +28908,7 @@
   "source": "models.dev"
  },
  "modelsdev:kilo/qwen/qwen3-30b-a3b-instruct-2507": {
-  "context": 262144,
+  "context": 128000,
   "expires": null,
   "id": "kilo/qwen/qwen3-30b-a3b-instruct-2507",
   "in_price": 0.13,
@@ -29043,7 +29241,7 @@
   "source": "models.dev"
  },
  "modelsdev:kilo/qwen/qwen3.8-27b": {
-  "context": 1000000,
+  "context": 262144,
   "expires": null,
   "id": "kilo/qwen/qwen3.8-27b",
   "in_price": 0.425,
@@ -29496,9 +29694,9 @@
   "context": 500000,
   "expires": null,
   "id": "kilo/x-ai/grok-4.7",
-  "in_price": 1.6,
+  "in_price": 2,
   "name": "Grok 4.7",
-  "out_price": 4.8,
+  "out_price": 6,
   "source": "models.dev"
  },
  "modelsdev:kilo/x-ai/grok-build-0.1": {
@@ -29532,7 +29730,7 @@
   "context": 1048576,
   "expires": null,
   "id": "kilo/xiaomi/mimo-v2.6-flash",
-  "in_price": 0.12,
+  "in_price": 0.08,
   "name": "MiMo-V2.6-Flash",
   "out_price": 1.28,
   "source": "models.dev"
@@ -29541,7 +29739,7 @@
   "context": 1048576,
   "expires": null,
   "id": "kilo/xiaomi/mimo-v2.6-pro",
-  "in_price": 0.435,
+  "in_price": 0.43,
   "name": "MiMo-V2.6-Pro",
   "out_price": 0.87,
   "source": "models.dev"
@@ -29739,7 +29937,7 @@
   "context": 1048576,
   "expires": null,
   "id": "kilo/~deepseek/deepseek-flash-latest",
-  "in_price": 0.03,
+  "in_price": 0.02,
   "name": "DeepSeek: DeepSeek Flash Latest",
   "out_price": 0.6,
   "source": "models.dev"
@@ -29748,18 +29946,18 @@
   "context": 1048576,
   "expires": null,
   "id": "kilo/~deepseek/deepseek-pro-latest",
-  "in_price": 0.22592,
+  "in_price": 0.15,
   "name": "DeepSeek: DeepSeek Pro Latest",
-  "out_price": 1.9584,
+  "out_price": 3.5,
   "source": "models.dev"
  },
  "modelsdev:kilo/~deepseek/deepseek-v4-flash-latest": {
   "context": 1048576,
   "expires": null,
   "id": "kilo/~deepseek/deepseek-v4-flash-latest",
-  "in_price": 0.021,
+  "in_price": 0.012,
   "name": "DeepSeek: DeepSeek V4 Flash Latest",
-  "out_price": 0.32,
+  "out_price": 1.25,
   "source": "models.dev"
  },
  "modelsdev:kilo/~google/gemini-flash-latest": {
@@ -29784,9 +29982,9 @@
   "context": 1048576,
   "expires": null,
   "id": "kilo/~moonshotai/kimi-latest",
-  "in_price": 0.97575,
+  "in_price": 0.4,
   "name": "MoonshotAI: Kimi Latest",
-  "out_price": 8.5442,
+  "out_price": 9,
   "source": "models.dev"
  },
  "modelsdev:kilo/~openai/gpt-astra-latest": {
@@ -29838,27 +30036,27 @@
   "context": 500000,
   "expires": null,
   "id": "kilo/~x-ai/grok-latest",
-  "in_price": 1.6,
+  "in_price": 2,
   "name": "xAI: Grok Latest",
-  "out_price": 4.8,
+  "out_price": 6,
   "source": "models.dev"
  },
  "modelsdev:kilo/~z-ai/glm-flash-latest": {
   "context": 1048576,
   "expires": null,
   "id": "kilo/~z-ai/glm-flash-latest",
-  "in_price": 0.045,
+  "in_price": 0.02,
   "name": "Z.ai: GLM Flash Latest",
-  "out_price": 0.14,
+  "out_price": 0.3,
   "source": "models.dev"
  },
  "modelsdev:kilo/~z-ai/glm-latest": {
   "context": 1048576,
   "expires": null,
   "id": "kilo/~z-ai/glm-latest",
-  "in_price": 0.1785,
+  "in_price": 0.19,
   "name": "Z.ai: GLM Latest",
-  "out_price": 2.805,
+  "out_price": 2.04,
   "source": "models.dev"
  },
  "modelsdev:kimi-code-plan-cn/k3": {
@@ -30488,6 +30686,15 @@
   "id": "llmgateway-providers/anthropic/claude-sonnet-5",
   "in_price": 2,
   "name": "Claude Sonnet 5 (Anthropic)",
+  "out_price": 10,
+  "source": "models.dev"
+ },
+ "modelsdev:llmgateway-providers/anthropic/claude-sonnet-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "llmgateway-providers/anthropic/claude-sonnet-5-5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5 (Anthropic)",
   "out_price": 10,
   "source": "models.dev"
  },
@@ -31533,24 +31740,6 @@
   "in_price": 0.06,
   "name": "Ling 3.0 Flash VL (DeepInfra)",
   "out_price": 0.18,
-  "source": "models.dev"
- },
- "modelsdev:llmgateway-providers/deepinfra/mimo-v2.5": {
-  "context": 262144,
-  "expires": null,
-  "id": "llmgateway-providers/deepinfra/mimo-v2.5",
-  "in_price": 0.4,
-  "name": "MiMo V2.5 (DeepInfra)",
-  "out_price": 2,
-  "source": "models.dev"
- },
- "modelsdev:llmgateway-providers/deepinfra/mimo-v2.5-pro": {
-  "context": 1048576,
-  "expires": null,
-  "id": "llmgateway-providers/deepinfra/mimo-v2.5-pro",
-  "in_price": 1,
-  "name": "MiMo V2.5 Pro (DeepInfra)",
-  "out_price": 3,
   "source": "models.dev"
  },
  "modelsdev:llmgateway-providers/deepinfra/mimo-v2.6-flash": {
@@ -34199,6 +34388,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:llmgateway/claude-sonnet-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "llmgateway/claude-sonnet-5-5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
  "modelsdev:llmgateway/codestral-2508": {
   "context": 256000,
   "expires": null,
@@ -36741,9 +36939,18 @@
   "context": 1000000,
   "expires": null,
   "id": "merge-gateway/anthropic/claude-sonnet-5",
-  "in_price": 3,
+  "in_price": 2,
   "name": "Claude Sonnet 5",
-  "out_price": 15,
+  "out_price": 10,
+  "source": "models.dev"
+ },
+ "modelsdev:merge-gateway/anthropic/claude-sonnet-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "merge-gateway/anthropic/claude-sonnet-5-5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
+  "out_price": 10,
   "source": "models.dev"
  },
  "modelsdev:merge-gateway/bytedance/dola-seed-2.0-code": {
@@ -38717,15 +38924,6 @@
   "out_price": 5,
   "source": "models.dev"
  },
- "modelsdev:mistral/magistral-small": {
-  "context": 128000,
-  "expires": null,
-  "id": "mistral/magistral-small",
-  "in_price": 0.5,
-  "name": "Magistral Small",
-  "out_price": 1.5,
-  "source": "models.dev"
- },
  "modelsdev:mistral/ministral-3b-latest": {
   "context": 128000,
   "expires": null,
@@ -40436,15 +40634,6 @@
   "out_price": 5,
   "source": "models.dev"
  },
- "modelsdev:nano-gpt/anthropic/claude-opus-4": {
-  "context": 200000,
-  "expires": null,
-  "id": "nano-gpt/anthropic/claude-opus-4",
-  "in_price": 15,
-  "name": "Claude 4 Opus",
-  "out_price": 75,
-  "source": "models.dev"
- },
  "modelsdev:nano-gpt/anthropic/claude-opus-4.1": {
   "context": 200000,
   "expires": null,
@@ -40589,42 +40778,6 @@
   "out_price": 25,
   "source": "models.dev"
  },
- "modelsdev:nano-gpt/anthropic/claude-opus-4:thinking": {
-  "context": 200000,
-  "expires": null,
-  "id": "nano-gpt/anthropic/claude-opus-4:thinking",
-  "in_price": 15,
-  "name": "Claude 4 Opus Thinking",
-  "out_price": 75,
-  "source": "models.dev"
- },
- "modelsdev:nano-gpt/anthropic/claude-opus-4:thinking:1024": {
-  "context": 200000,
-  "expires": null,
-  "id": "nano-gpt/anthropic/claude-opus-4:thinking:1024",
-  "in_price": 15,
-  "name": "Claude 4 Opus Thinking (1K)",
-  "out_price": 75,
-  "source": "models.dev"
- },
- "modelsdev:nano-gpt/anthropic/claude-opus-4:thinking:32768": {
-  "context": 200000,
-  "expires": null,
-  "id": "nano-gpt/anthropic/claude-opus-4:thinking:32768",
-  "in_price": 15,
-  "name": "Claude 4 Opus Thinking (32K)",
-  "out_price": 75,
-  "source": "models.dev"
- },
- "modelsdev:nano-gpt/anthropic/claude-opus-4:thinking:8192": {
-  "context": 200000,
-  "expires": null,
-  "id": "nano-gpt/anthropic/claude-opus-4:thinking:8192",
-  "in_price": 15,
-  "name": "Claude 4 Opus Thinking (8K)",
-  "out_price": 75,
-  "source": "models.dev"
- },
  "modelsdev:nano-gpt/anthropic/claude-opus-5": {
   "context": 1000000,
   "expires": null,
@@ -40748,6 +40901,24 @@
   "id": "nano-gpt/anthropic/claude-sonnet-5",
   "in_price": 2,
   "name": "Claude Sonnet 5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
+ "modelsdev:nano-gpt/anthropic/claude-sonnet-5.5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "nano-gpt/anthropic/claude-sonnet-5.5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
+ "modelsdev:nano-gpt/anthropic/claude-sonnet-5.5:thinking": {
+  "context": 1000000,
+  "expires": null,
+  "id": "nano-gpt/anthropic/claude-sonnet-5.5:thinking",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5 Thinking",
   "out_price": 10,
   "source": "models.dev"
  },
@@ -42156,7 +42327,7 @@
   "source": "models.dev"
  },
  "modelsdev:nano-gpt/longcat-2.0": {
-  "context": 1048756,
+  "context": 1000000,
   "expires": null,
   "id": "nano-gpt/longcat-2.0",
   "in_price": 0.75,
@@ -42165,7 +42336,7 @@
   "source": "models.dev"
  },
  "modelsdev:nano-gpt/longcat-2.0:thinking": {
-  "context": 1048756,
+  "context": 1000000,
   "expires": null,
   "id": "nano-gpt/longcat-2.0:thinking",
   "in_price": 0.75,
@@ -45242,6 +45413,15 @@
   "out_price": 3.6,
   "source": "models.dev"
  },
+ "modelsdev:nebius/Qwen/Qwen3.8-27B": {
+  "context": 262144,
+  "expires": null,
+  "id": "nebius/Qwen/Qwen3.8-27B",
+  "in_price": 0.45,
+  "name": "Qwen3.8 27B",
+  "out_price": 3,
+  "source": "models.dev"
+ },
  "modelsdev:nebius/deepseek-ai/DeepSeek-V4-Flash-0731": {
   "context": 1024000,
   "expires": null,
@@ -47456,15 +47636,6 @@
   "out_price": 0,
   "source": "models.dev"
  },
- "modelsdev:nvidia/moonshotai/kimi-k2-instruct-0905": {
-  "context": 262144,
-  "expires": null,
-  "id": "nvidia/moonshotai/kimi-k2-instruct-0905",
-  "in_price": 0,
-  "name": "Kimi K2 0905",
-  "out_price": 0,
-  "source": "models.dev"
- },
  "modelsdev:nvidia/moonshotai/kimi-k2.6": {
   "context": 262144,
   "expires": null,
@@ -47834,15 +48005,6 @@
   "out_price": 0,
   "source": "models.dev"
  },
- "modelsdev:nvidia/openai/gpt-oss-120b": {
-  "context": 128000,
-  "expires": null,
-  "id": "nvidia/openai/gpt-oss-120b",
-  "in_price": 0,
-  "name": "GPT-OSS-120B",
-  "out_price": 0,
-  "source": "models.dev"
- },
  "modelsdev:nvidia/openai/gpt-oss-20b": {
   "context": 131072,
   "expires": null,
@@ -48191,6 +48353,15 @@
   "id": "ofox/anthropic/claude-sonnet-5",
   "in_price": 2,
   "name": "Claude Sonnet 5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
+ "modelsdev:ofox/anthropic/claude-sonnet-5.5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "ofox/anthropic/claude-sonnet-5.5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
   "out_price": 10,
   "source": "models.dev"
  },
@@ -49409,6 +49580,15 @@
   "out_price": 0.5,
   "source": "models.dev"
  },
+ "modelsdev:ofox/z-ai/glm-5.3-flashx": {
+  "context": 1000000,
+  "expires": null,
+  "id": "ofox/z-ai/glm-5.3-flashx",
+  "in_price": 0.15,
+  "name": "GLM-5.3-FlashX",
+  "out_price": 0.5,
+  "source": "models.dev"
+ },
  "modelsdev:ofox/z-ai/glm-5v-turbo": {
   "context": 200000,
   "expires": null,
@@ -50543,6 +50723,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:opencode/claude-sonnet-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "opencode/claude-sonnet-5-5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
  "modelsdev:opencode/deepseek-v4-flash": {
   "context": 1000000,
   "expires": null,
@@ -50970,9 +51159,9 @@
   "context": 500000,
   "expires": null,
   "id": "opencode/grok-4.7",
-  "in_price": 1.4,
-  "name": "Grok 4.7 (30% Off)",
-  "out_price": 4.2,
+  "in_price": 2,
+  "name": "Grok 4.7",
+  "out_price": 6,
   "source": "models.dev"
  },
  "modelsdev:opencode/grok-build-0.1": {
@@ -51668,6 +51857,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:openrouter/anthropic/claude-sonnet-5.5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "openrouter/anthropic/claude-sonnet-5.5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
  "modelsdev:openrouter/arcee-ai/trinity-large-thinking": {
   "context": 262144,
   "expires": null,
@@ -51861,7 +52059,7 @@
   "context": 163840,
   "expires": null,
   "id": "openrouter/deepseek/deepseek-v3.1-terminus",
-  "in_price": 0.27,
+  "in_price": 0.3,
   "name": "DeepSeek V3.1 Terminus",
   "out_price": 1,
   "source": "models.dev"
@@ -51888,16 +52086,16 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/deepseek/deepseek-v4-flash",
-  "in_price": 0.07308,
+  "in_price": 0.0763,
   "name": "DeepSeek V4 Flash",
-  "out_price": 0.14616,
+  "out_price": 0.1526,
   "source": "models.dev"
  },
  "modelsdev:openrouter/deepseek/deepseek-v4-flash-0731": {
   "context": 1310720,
   "expires": null,
   "id": "openrouter/deepseek/deepseek-v4-flash-0731",
-  "in_price": 0.021,
+  "in_price": 0.018,
   "name": "DeepSeek V4 Flash 0731",
   "out_price": 0.32,
   "source": "models.dev"
@@ -51906,25 +52104,25 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/deepseek/deepseek-v4-flash-vision-exp",
-  "in_price": 0.44,
+  "in_price": 0.2156,
   "name": "DeepSeek V4 Flash Vision Exp",
-  "out_price": 1.32,
+  "out_price": 0.6468,
   "source": "models.dev"
  },
  "modelsdev:openrouter/deepseek/deepseek-v4-pro": {
   "context": 1048576,
   "expires": null,
   "id": "openrouter/deepseek/deepseek-v4-pro",
-  "in_price": 0.783,
+  "in_price": 0.936294,
   "name": "DeepSeek V4 Pro",
-  "out_price": 1.566,
+  "out_price": 1.872588,
   "source": "models.dev"
  },
  "modelsdev:openrouter/deepseek/deepseek-v4-pro-0813": {
   "context": 1048576,
   "expires": null,
   "id": "openrouter/deepseek/deepseek-v4-pro-0813",
-  "in_price": 0.3995,
+  "in_price": 0.4721,
   "name": "DeepSeek V4 Pro 0813",
   "out_price": 4.2,
   "source": "models.dev"
@@ -52563,9 +52761,9 @@
   "context": 204800,
   "expires": null,
   "id": "openrouter/minimax/minimax-m2.7",
-  "in_price": 0.3,
+  "in_price": 0.21,
   "name": "MiniMax-M2.7",
-  "out_price": 1.2,
+  "out_price": 0.84,
   "source": "models.dev"
  },
  "modelsdev:openrouter/minimax/minimax-m3": {
@@ -52947,12 +53145,12 @@
   "source": "models.dev"
  },
  "modelsdev:openrouter/nvidia/nemotron-3.5-lightning": {
-  "context": 1000000,
+  "context": 262144,
   "expires": null,
   "id": "openrouter/nvidia/nemotron-3.5-lightning",
-  "in_price": 0.08,
+  "in_price": 0.06,
   "name": "Nemotron 3.5 Lightning 30B A3B",
-  "out_price": 0.2,
+  "out_price": 0.16,
   "source": "models.dev"
  },
  "modelsdev:openrouter/nvidia/nemotron-3.5-lightning:free": {
@@ -53328,9 +53526,9 @@
   "context": 1050000,
   "expires": null,
   "id": "openrouter/openai/gpt-5.6-sol-pro",
-  "in_price": 2,
+  "in_price": 4,
   "name": "GPT-5.6 Sol Pro",
-  "out_price": 10,
+  "out_price": 20,
   "source": "models.dev"
  },
  "modelsdev:openrouter/openai/gpt-5.6-terra": {
@@ -53436,9 +53634,9 @@
   "context": 131072,
   "expires": null,
   "id": "openrouter/openai/gpt-oss-120b",
-  "in_price": 0.15,
+  "in_price": 0.037,
   "name": "GPT OSS 120B",
-  "out_price": 0.6,
+  "out_price": 0.17,
   "source": "models.dev"
  },
  "modelsdev:openrouter/openai/gpt-oss-20b": {
@@ -53787,9 +53985,9 @@
   "context": 262144,
   "expires": null,
   "id": "openrouter/qwen/qwen3-30b-a3b-instruct-2507",
-  "in_price": 0.1,
+  "in_price": 0.04815,
   "name": "Qwen3 30B A3B Instruct 2507",
-  "out_price": 0.3,
+  "out_price": 0.19305,
   "source": "models.dev"
  },
  "modelsdev:openrouter/qwen/qwen3-30b-a3b-thinking-2507": {
@@ -54120,9 +54318,9 @@
   "context": 1000000,
   "expires": null,
   "id": "openrouter/qwen/qwen3.8-27b",
-  "in_price": 0.42,
+  "in_price": 0.0249,
   "name": "Qwen3.8 27B",
-  "out_price": 3,
+  "out_price": 4.4,
   "source": "models.dev"
  },
  "modelsdev:openrouter/qwen/qwen3.8-27b:free": {
@@ -54525,9 +54723,9 @@
   "context": 500000,
   "expires": null,
   "id": "openrouter/x-ai/grok-4.7",
-  "in_price": 1.6,
+  "in_price": 2,
   "name": "Grok 4.7",
-  "out_price": 4.8,
+  "out_price": 6,
   "source": "models.dev"
  },
  "modelsdev:openrouter/x-ai/grok-build-0.1": {
@@ -54678,9 +54876,9 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/z-ai/glm-5.2",
-  "in_price": 0.6496,
+  "in_price": 0.2339,
   "name": "GLM-5.2",
-  "out_price": 2.0416,
+  "out_price": 4.4,
   "source": "models.dev"
  },
  "modelsdev:openrouter/z-ai/glm-5.3": {
@@ -54768,7 +54966,7 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/~deepseek/deepseek-flash-latest",
-  "in_price": 0.03,
+  "in_price": 0.02,
   "name": "DeepSeek Flash Latest",
   "out_price": 0.6,
   "source": "models.dev"
@@ -54777,18 +54975,18 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/~deepseek/deepseek-pro-latest",
-  "in_price": 0.22592,
+  "in_price": 0.15,
   "name": "DeepSeek Pro Latest",
-  "out_price": 1.9584,
+  "out_price": 3.5,
   "source": "models.dev"
  },
  "modelsdev:openrouter/~deepseek/deepseek-v4-flash-latest": {
   "context": 1310720,
   "expires": null,
   "id": "openrouter/~deepseek/deepseek-v4-flash-latest",
-  "in_price": 0.021,
+  "in_price": 0.012,
   "name": "DeepSeek V4 Flash Latest",
-  "out_price": 0.32,
+  "out_price": 1.25,
   "source": "models.dev"
  },
  "modelsdev:openrouter/~google/gemini-flash-latest": {
@@ -54813,9 +55011,9 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/~moonshotai/kimi-latest",
-  "in_price": 0.97575,
+  "in_price": 0.4,
   "name": "Kimi Latest",
-  "out_price": 8.5442,
+  "out_price": 9,
   "source": "models.dev"
  },
  "modelsdev:openrouter/~openai/gpt-astra-latest": {
@@ -54867,27 +55065,27 @@
   "context": 500000,
   "expires": null,
   "id": "openrouter/~x-ai/grok-latest",
-  "in_price": 1.6,
+  "in_price": 2,
   "name": "Grok Latest",
-  "out_price": 4.8,
+  "out_price": 6,
   "source": "models.dev"
  },
  "modelsdev:openrouter/~z-ai/glm-flash-latest": {
   "context": 1310720,
   "expires": null,
   "id": "openrouter/~z-ai/glm-flash-latest",
-  "in_price": 0.045,
+  "in_price": 0.02,
   "name": "GLM Flash Latest",
-  "out_price": 0.14,
+  "out_price": 0.3,
   "source": "models.dev"
  },
  "modelsdev:openrouter/~z-ai/glm-latest": {
   "context": 1310720,
   "expires": null,
   "id": "openrouter/~z-ai/glm-latest",
-  "in_price": 0.1785,
+  "in_price": 0.19,
   "name": "GLM Latest",
-  "out_price": 2.805,
+  "out_price": 2.04,
   "source": "models.dev"
  },
  "modelsdev:opper/claude-fable-5": {
@@ -57194,6 +57392,15 @@
   "out_price": 0.3,
   "source": "models.dev"
  },
+ "modelsdev:pioneer/fastino/GLiNER-2.5-Decide": {
+  "context": 8192,
+  "expires": null,
+  "id": "pioneer/fastino/GLiNER-2.5-Decide",
+  "in_price": 0.15,
+  "name": "GLiNER-2.5-Decide",
+  "out_price": 0.15,
+  "source": "models.dev"
+ },
  "modelsdev:pioneer/fastino/gliguard-LLMGuardrails-300M": {
   "context": 8192,
   "expires": null,
@@ -57255,6 +57462,15 @@
   "in_price": 0.15,
   "name": "GLiNER2 Privacy Filter PII (Multi)",
   "out_price": 0.15,
+  "source": "models.dev"
+ },
+ "modelsdev:pioneer/fastino/gliner2.5-base-v1": {
+  "context": 4096,
+  "expires": null,
+  "id": "pioneer/fastino/gliner2.5-base-v1",
+  "in_price": 0.03,
+  "name": "GLiNER 2.5 Base",
+  "out_price": 0,
   "source": "models.dev"
  },
  "modelsdev:pioneer/fastino/gliner2.5-multi-v1": {
@@ -62684,6 +62900,15 @@
   "out_price": 1.5,
   "source": "models.dev"
  },
+ "modelsdev:scaleway/qwen3.8-27b": {
+  "context": 262144,
+  "expires": null,
+  "id": "scaleway/qwen3.8-27b",
+  "in_price": 0.684,
+  "name": "Qwen3.8 27B",
+  "out_price": 3.762,
+  "source": "models.dev"
+ },
  "modelsdev:scaleway/whisper-large-v3": {
   "context": 0,
   "expires": null,
@@ -64718,6 +64943,24 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:tempr/cerebras/gpt-oss-120b": {
+  "context": 131072,
+  "expires": null,
+  "id": "tempr/cerebras/gpt-oss-120b",
+  "in_price": 0.35,
+  "name": "GPT OSS 120B",
+  "out_price": 0.75,
+  "source": "models.dev"
+ },
+ "modelsdev:tempr/cerebras/qwen-3.8-27b": {
+  "context": 131072,
+  "expires": null,
+  "id": "tempr/cerebras/qwen-3.8-27b",
+  "in_price": 0.99,
+  "name": "Qwen3.8 27B",
+  "out_price": 1.49,
+  "source": "models.dev"
+ },
  "modelsdev:tempr/google/gemini-3-flash-preview": {
   "context": 1048576,
   "expires": null,
@@ -64851,6 +65094,42 @@
   "in_price": null,
   "name": "Gemma 4 31B IT",
   "out_price": null,
+  "source": "models.dev"
+ },
+ "modelsdev:tempr/groq/allam-2-7b": {
+  "context": 4096,
+  "expires": null,
+  "id": "tempr/groq/allam-2-7b",
+  "in_price": 0,
+  "name": "ALLaM-2-7b",
+  "out_price": 0,
+  "source": "models.dev"
+ },
+ "modelsdev:tempr/groq/openai/gpt-oss-120b": {
+  "context": 131072,
+  "expires": null,
+  "id": "tempr/groq/openai/gpt-oss-120b",
+  "in_price": 0.15,
+  "name": "GPT OSS 120B",
+  "out_price": 0.6,
+  "source": "models.dev"
+ },
+ "modelsdev:tempr/groq/openai/gpt-oss-20b": {
+  "context": 131072,
+  "expires": null,
+  "id": "tempr/groq/openai/gpt-oss-20b",
+  "in_price": 0.075,
+  "name": "GPT OSS 20B",
+  "out_price": 0.3,
+  "source": "models.dev"
+ },
+ "modelsdev:tempr/groq/qwen/qwen3.8-27b": {
+  "context": 131042,
+  "expires": null,
+  "id": "tempr/groq/qwen/qwen3.8-27b",
+  "in_price": 0.8,
+  "name": "Qwen3.8 27B",
+  "out_price": 4,
   "source": "models.dev"
  },
  "modelsdev:tempr/mistral/mistral-embed": {
@@ -65852,33 +66131,6 @@
   "out_price": 0.14,
   "source": "models.dev"
  },
- "modelsdev:togetherai/moonshotai/Kimi-K2.5": {
-  "context": 262144,
-  "expires": null,
-  "id": "togetherai/moonshotai/Kimi-K2.5",
-  "in_price": 0.5,
-  "name": "Kimi K2.5",
-  "out_price": 2.8,
-  "source": "models.dev"
- },
- "modelsdev:togetherai/moonshotai/Kimi-K2.6": {
-  "context": 262144,
-  "expires": null,
-  "id": "togetherai/moonshotai/Kimi-K2.6",
-  "in_price": 1.2,
-  "name": "Kimi K2.6",
-  "out_price": 4.5,
-  "source": "models.dev"
- },
- "modelsdev:togetherai/moonshotai/Kimi-K2.7-Code": {
-  "context": 262144,
-  "expires": null,
-  "id": "togetherai/moonshotai/Kimi-K2.7-Code",
-  "in_price": 0.95,
-  "name": "Kimi K2.7 Code",
-  "out_price": 4,
-  "source": "models.dev"
- },
  "modelsdev:togetherai/moonshotai/Kimi-K3": {
   "context": 1048576,
   "expires": null,
@@ -66743,6 +66995,15 @@
   "out_price": 24,
   "source": "models.dev"
  },
+ "modelsdev:venice/claude-opus-5-5-fast": {
+  "context": 1000000,
+  "expires": null,
+  "id": "venice/claude-opus-5-5-fast",
+  "in_price": 9.6,
+  "name": "Claude Opus 5.5 Fast",
+  "out_price": 48,
+  "source": "models.dev"
+ },
  "modelsdev:venice/claude-opus-5-fast": {
   "context": 1000000,
   "expires": null,
@@ -66777,6 +67038,15 @@
   "in_price": 3,
   "name": "Claude Sonnet 5",
   "out_price": 15,
+  "source": "models.dev"
+ },
+ "modelsdev:venice/claude-sonnet-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "venice/claude-sonnet-5-5",
+  "in_price": 3.75,
+  "name": "Claude Sonnet 5.5",
+  "out_price": 18.75,
   "source": "models.dev"
  },
  "modelsdev:venice/deepseek-v3.2": {
@@ -68246,6 +68516,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:vercel/anthropic/claude-sonnet-5.5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "vercel/anthropic/claude-sonnet-5.5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5",
+  "out_price": 10,
+  "source": "models.dev"
+ },
  "modelsdev:vercel/arcee-ai/trinity-large-thinking": {
   "context": 262100,
   "expires": null,
@@ -69015,9 +69294,9 @@
   "context": 256000,
   "expires": null,
   "id": "vercel/inclusionai/ling-3.0-flash-fin",
-  "in_price": 0.06,
+  "in_price": 0.075,
   "name": "Ling 3.0 Flash Fin",
-  "out_price": 0.18,
+  "out_price": 0.22,
   "source": "models.dev"
  },
  "modelsdev:vercel/inclusionai/ling-3.0-flash-sante": {
@@ -70356,9 +70635,9 @@
   "context": 127000,
   "expires": null,
   "id": "vercel/perplexity/sonar",
-  "in_price": null,
+  "in_price": 0.25,
   "name": "Sonar",
-  "out_price": null,
+  "out_price": 2.5,
   "source": "models.dev"
  },
  "modelsdev:vercel/poolside/laguna-s-2.1": {
@@ -70635,9 +70914,9 @@
   "context": 500000,
   "expires": null,
   "id": "vercel/spacexai/grok-4.7",
-  "in_price": 1.2,
+  "in_price": 2,
   "name": "Grok 4.7",
-  "out_price": 3.6,
+  "out_price": 6,
   "source": "models.dev"
  },
  "modelsdev:vercel/spacexai/grok-build-0.1": {
@@ -74817,6 +75096,34 @@
   "source": "openrouter",
   "tools": true
  },
+ "openrouter:anthropic/claude-sonnet-5.5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "anthropic/claude-sonnet-5.5",
+  "in_price": 2.0,
+  "name": "Anthropic: Claude Sonnet 5.5",
+  "out_mods": [
+   "text"
+  ],
+  "out_price": 10.0,
+  "out_text_only": true,
+  "source": "openrouter",
+  "tools": true
+ },
+ "openrouter:anthropic/claude-sonnet-5.5:batch": {
+  "context": 1000000,
+  "expires": null,
+  "id": "anthropic/claude-sonnet-5.5:batch",
+  "in_price": 1.0,
+  "name": "Anthropic: Claude Sonnet 5.5 (batch)",
+  "out_mods": [
+   "text"
+  ],
+  "out_price": 5.0,
+  "out_text_only": true,
+  "source": "openrouter",
+  "tools": true
+ },
  "openrouter:anthropic/claude-sonnet-5:batch": {
   "context": 1000000,
   "expires": null,
@@ -75129,7 +75436,7 @@
   "context": 163840,
   "expires": null,
   "id": "deepseek/deepseek-v3.1-terminus",
-  "in_price": 0.27,
+  "in_price": 0.3,
   "name": "DeepSeek: DeepSeek V3.1 Terminus",
   "out_mods": [
    "text"
@@ -75171,12 +75478,12 @@
   "context": 1048576,
   "expires": null,
   "id": "deepseek/deepseek-v4-flash",
-  "in_price": 0.07,
+  "in_price": 0.0763,
   "name": "DeepSeek: DeepSeek V4 Flash 0423",
   "out_mods": [
    "text"
   ],
-  "out_price": 0.14,
+  "out_price": 0.1526,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -75185,7 +75492,7 @@
   "context": 1310720,
   "expires": null,
   "id": "deepseek/deepseek-v4-flash-0731",
-  "in_price": 0.021,
+  "in_price": 0.018,
   "name": "DeepSeek: DeepSeek V4 Flash 0731",
   "out_mods": [
    "text"
@@ -75199,12 +75506,12 @@
   "context": 1048576,
   "expires": null,
   "id": "deepseek/deepseek-v4-flash-vision-exp",
-  "in_price": 0.44,
+  "in_price": 0.2156,
   "name": "DeepSeek: DeepSeek V4 Flash Vision Exp",
   "out_mods": [
    "text"
   ],
-  "out_price": 1.32,
+  "out_price": 0.6468,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -75213,12 +75520,12 @@
   "context": 1048576,
   "expires": null,
   "id": "deepseek/deepseek-v4-pro",
-  "in_price": 0.783,
+  "in_price": 0.934554,
   "name": "DeepSeek: DeepSeek V4 Pro 0423",
   "out_mods": [
    "text"
   ],
-  "out_price": 1.566,
+  "out_price": 1.869108,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -75227,7 +75534,7 @@
   "context": 1048576,
   "expires": null,
   "id": "deepseek/deepseek-v4-pro-0813",
-  "in_price": 0.3995,
+  "in_price": 0.3999,
   "name": "DeepSeek: DeepSeek V4 Pro 0813",
   "out_mods": [
    "text"
@@ -76397,12 +76704,12 @@
   "context": 204800,
   "expires": null,
   "id": "minimax/minimax-m2.7",
-  "in_price": 0.3,
+  "in_price": 0.21,
   "name": "MiniMax: MiniMax M2.7",
   "out_mods": [
    "text"
   ],
-  "out_price": 1.2,
+  "out_price": 0.84,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -77094,15 +77401,15 @@
   "tools": false
  },
  "openrouter:nvidia/nemotron-3.5-lightning": {
-  "context": 1000000,
+  "context": 262144,
   "expires": null,
   "id": "nvidia/nemotron-3.5-lightning",
-  "in_price": 0.08,
+  "in_price": 0.06,
   "name": "NVIDIA: Nemotron 3.5 Lightning",
   "out_mods": [
    "text"
   ],
-  "out_price": 0.2,
+  "out_price": 0.16,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -77982,12 +78289,12 @@
   "context": 1050000,
   "expires": null,
   "id": "openai/gpt-5.6-sol-pro",
-  "in_price": 2.0,
+  "in_price": 4.0,
   "name": "OpenAI: GPT-5.6 Sol Pro",
   "out_mods": [
    "text"
   ],
-  "out_price": 10.0,
+  "out_price": 20.0,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -78306,12 +78613,12 @@
   "context": 131072,
   "expires": null,
   "id": "openai/gpt-oss-120b",
-  "in_price": 0.15,
+  "in_price": 0.037,
   "name": "OpenAI: gpt-oss-120b",
   "out_mods": [
    "text"
   ],
-  "out_price": 0.6,
+  "out_price": 0.17,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -78938,12 +79245,12 @@
   "context": 262144,
   "expires": null,
   "id": "qwen/qwen3-30b-a3b-instruct-2507",
-  "in_price": 0.1,
+  "in_price": 0.04815,
   "name": "Qwen: Qwen3 30B A3B Instruct 2507",
   "out_mods": [
    "text"
   ],
-  "out_price": 0.3,
+  "out_price": 0.19305,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -79456,12 +79763,12 @@
   "context": 1000000,
   "expires": null,
   "id": "qwen/qwen3.8-27b",
-  "in_price": 0.42,
+  "in_price": 0.0249,
   "name": "Qwen: Qwen3.8 27B",
   "out_mods": [
    "text"
   ],
-  "out_price": 3.0,
+  "out_price": 4.4,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -80114,12 +80421,12 @@
   "context": 500000,
   "expires": null,
   "id": "x-ai/grok-4.7",
-  "in_price": 1.6,
+  "in_price": 2.0,
   "name": "SpaceXAI: Grok 4.7",
   "out_mods": [
    "text"
   ],
-  "out_price": 4.8,
+  "out_price": 6.0,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -80352,12 +80659,12 @@
   "context": 1048576,
   "expires": null,
   "id": "z-ai/glm-5.2",
-  "in_price": 0.6496,
+  "in_price": 0.2339,
   "name": "Z.ai: GLM 5.2",
   "out_mods": [
    "text"
   ],
-  "out_price": 2.0416,
+  "out_price": 4.4,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -80520,7 +80827,7 @@
   "context": 1048576,
   "expires": null,
   "id": "~deepseek/deepseek-flash-latest",
-  "in_price": 0.03,
+  "in_price": 0.02,
   "name": "DeepSeek: DeepSeek Flash Latest",
   "out_mods": [
    "text"
@@ -80534,12 +80841,12 @@
   "context": 1048576,
   "expires": null,
   "id": "~deepseek/deepseek-pro-latest",
-  "in_price": 0.22592,
+  "in_price": 0.15,
   "name": "DeepSeek: DeepSeek Pro Latest",
   "out_mods": [
    "text"
   ],
-  "out_price": 1.9584,
+  "out_price": 3.5,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -80548,12 +80855,12 @@
   "context": 1310720,
   "expires": null,
   "id": "~deepseek/deepseek-v4-flash-latest",
-  "in_price": 0.021,
+  "in_price": 0.012,
   "name": "DeepSeek: DeepSeek V4 Flash Latest",
   "out_mods": [
    "text"
   ],
-  "out_price": 0.32,
+  "out_price": 1.25,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -80590,12 +80897,12 @@
   "context": 1048576,
   "expires": null,
   "id": "~moonshotai/kimi-latest",
-  "in_price": 0.97575,
+  "in_price": 0.4,
   "name": "MoonshotAI: Kimi Latest",
   "out_mods": [
    "text"
   ],
-  "out_price": 11.2,
+  "out_price": 9.0,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -80674,12 +80981,12 @@
   "context": 500000,
   "expires": null,
   "id": "~x-ai/grok-latest",
-  "in_price": 1.6,
+  "in_price": 2.0,
   "name": "xAI: Grok Latest",
   "out_mods": [
    "text"
   ],
-  "out_price": 4.8,
+  "out_price": 6.0,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -80688,12 +80995,12 @@
   "context": 1310720,
   "expires": null,
   "id": "~z-ai/glm-flash-latest",
-  "in_price": 0.045,
+  "in_price": 0.02,
   "name": "Z.ai: GLM Flash Latest",
   "out_mods": [
    "text"
   ],
-  "out_price": 0.14,
+  "out_price": 0.3,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -80702,12 +81009,12 @@
   "context": 1310720,
   "expires": null,
   "id": "~z-ai/glm-latest",
-  "in_price": 0.1785,
+  "in_price": 0.19,
   "name": "Z.ai: GLM Latest",
   "out_mods": [
    "text"
   ],
-  "out_price": 2.805,
+  "out_price": 4.0,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
