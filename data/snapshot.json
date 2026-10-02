@@ -2339,6 +2339,15 @@
   "out_price": 2.5,
   "source": "models.dev"
  },
+ "modelsdev:aiand/deepseek-ai/deepseek-v4.1-flash": {
+  "context": 1048576,
+  "expires": null,
+  "id": "aiand/deepseek-ai/deepseek-v4.1-flash",
+  "in_price": 0.3,
+  "name": "DeepSeek V4.1 Flash",
+  "out_price": 0.6,
+  "source": "models.dev"
+ },
  "modelsdev:aiand/google/gemma-4-31b-it": {
   "context": 262144,
   "expires": null,
@@ -2418,6 +2427,15 @@
   "in_price": 1,
   "name": "GLM-5.3",
   "out_price": 4,
+  "source": "models.dev"
+ },
+ "modelsdev:aiand/zai-org/glm-5.3-flash": {
+  "context": 1048550,
+  "expires": null,
+  "id": "aiand/zai-org/glm-5.3-flash",
+  "in_price": 0.15,
+  "name": "GLM-5.3-Flash",
+  "out_price": 0.5,
   "source": "models.dev"
  },
  "modelsdev:aihubmix/alicloud-deepseek-v4-flash": {
@@ -6513,6 +6531,33 @@
   "in_price": 0.04,
   "name": "Gemma 4 E2B IT",
   "out_price": 0.08,
+  "source": "models.dev"
+ },
+ "modelsdev:amazon-bedrock/in.anthropic.claude-haiku-4-5-20251001-v1:0": {
+  "context": 200000,
+  "expires": null,
+  "id": "amazon-bedrock/in.anthropic.claude-haiku-4-5-20251001-v1:0",
+  "in_price": 1.1,
+  "name": "Claude Haiku 4.5 (India)",
+  "out_price": 5.5,
+  "source": "models.dev"
+ },
+ "modelsdev:amazon-bedrock/in.anthropic.claude-opus-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "amazon-bedrock/in.anthropic.claude-opus-5",
+  "in_price": 5.5,
+  "name": "Claude Opus 5 (India)",
+  "out_price": 27.5,
+  "source": "models.dev"
+ },
+ "modelsdev:amazon-bedrock/in.anthropic.claude-sonnet-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "amazon-bedrock/in.anthropic.claude-sonnet-5",
+  "in_price": 2.2,
+  "name": "Claude Sonnet 5 (India)",
+  "out_price": 11,
   "source": "models.dev"
  },
  "modelsdev:amazon-bedrock/in.openai.gpt-5.6-luna": {
@@ -11249,24 +11294,6 @@
   "out_price": 0.555,
   "source": "models.dev"
  },
- "modelsdev:cloudflare-workers-ai/@cf/cloudflare/clef": {
-  "context": 65536,
-  "expires": null,
-  "id": "cloudflare-workers-ai/@cf/cloudflare/clef",
-  "in_price": 0.24,
-  "name": "Clef",
-  "out_price": 0,
-  "source": "models.dev"
- },
- "modelsdev:cloudflare-workers-ai/@cf/cloudflare/clef-flash": {
-  "context": 65536,
-  "expires": null,
-  "id": "cloudflare-workers-ai/@cf/cloudflare/clef-flash",
-  "in_price": 0.09,
-  "name": "Clef Flash",
-  "out_price": 0,
-  "source": "models.dev"
- },
  "modelsdev:cloudflare-workers-ai/@cf/deepseek-ai/deepseek-r1-distill-qwen-32b": {
   "context": 80000,
   "expires": null,
@@ -11510,30 +11537,12 @@
   "out_price": null,
   "source": "models.dev"
  },
- "modelsdev:cohere/c4ai-aya-expanse-8b": {
-  "context": 8000,
-  "expires": null,
-  "id": "cohere/c4ai-aya-expanse-8b",
-  "in_price": null,
-  "name": "Aya Expanse 8B",
-  "out_price": null,
-  "source": "models.dev"
- },
  "modelsdev:cohere/c4ai-aya-vision-32b": {
   "context": 16000,
   "expires": null,
   "id": "cohere/c4ai-aya-vision-32b",
   "in_price": null,
   "name": "Aya Vision 32B",
-  "out_price": null,
-  "source": "models.dev"
- },
- "modelsdev:cohere/c4ai-aya-vision-8b": {
-  "context": 16000,
-  "expires": null,
-  "id": "cohere/c4ai-aya-vision-8b",
-  "in_price": null,
-  "name": "Aya Vision 8B",
   "out_price": null,
   "source": "models.dev"
  },
@@ -11625,6 +11634,51 @@
   "in_price": 0,
   "name": "North Mini Code",
   "out_price": 0,
+  "source": "models.dev"
+ },
+ "modelsdev:cohere/north-small-translate-09-2026": {
+  "context": 32768,
+  "expires": null,
+  "id": "cohere/north-small-translate-09-2026",
+  "in_price": 0,
+  "name": "North Small Translate",
+  "out_price": 0,
+  "source": "models.dev"
+ },
+ "modelsdev:cohere/tiny-aya-earth": {
+  "context": 8000,
+  "expires": null,
+  "id": "cohere/tiny-aya-earth",
+  "in_price": null,
+  "name": "Tiny Aya Earth",
+  "out_price": null,
+  "source": "models.dev"
+ },
+ "modelsdev:cohere/tiny-aya-fire": {
+  "context": 8000,
+  "expires": null,
+  "id": "cohere/tiny-aya-fire",
+  "in_price": null,
+  "name": "Tiny Aya Fire",
+  "out_price": null,
+  "source": "models.dev"
+ },
+ "modelsdev:cohere/tiny-aya-global": {
+  "context": 8000,
+  "expires": null,
+  "id": "cohere/tiny-aya-global",
+  "in_price": null,
+  "name": "Tiny Aya Global",
+  "out_price": null,
+  "source": "models.dev"
+ },
+ "modelsdev:cohere/tiny-aya-water": {
+  "context": 8000,
+  "expires": null,
+  "id": "cohere/tiny-aya-water",
+  "in_price": null,
+  "name": "Tiny Aya Water",
+  "out_price": null,
   "source": "models.dev"
  },
  "modelsdev:coralbricks/deepseek-v4.1-flash-fast-fp4": {
@@ -13220,6 +13274,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:crossmodel/openai/gpt-6.1-sol": {
+  "context": 1050000,
+  "expires": null,
+  "id": "crossmodel/openai/gpt-6.1-sol",
+  "in_price": 2,
+  "name": "GPT-6.1 Sol",
+  "out_price": 10,
+  "source": "models.dev"
+ },
  "modelsdev:crossmodel/qwen/qwen3.6-flash": {
   "context": 1000000,
   "expires": null,
@@ -14304,9 +14367,9 @@
   "context": 262144,
   "expires": null,
   "id": "deepinfra/google/gemma-4-31B-it",
-  "in_price": 0.13,
+  "in_price": 0.15,
   "name": "Gemma 4 31B IT",
-  "out_price": 0.38,
+  "out_price": 0.4,
   "source": "models.dev"
  },
  "modelsdev:deepinfra/google/gemma-4-E4B-it": {
@@ -14574,9 +14637,9 @@
   "context": 1000000,
   "expires": null,
   "id": "deepseek/deepseek-v4-pro",
-  "in_price": 0.435,
+  "in_price": 0.66,
   "name": "DeepSeek V4 Pro",
-  "out_price": 0.87,
+  "out_price": 1.98,
   "source": "models.dev"
  },
  "modelsdev:digitalocean/alibaba-qwen3-32b": {
@@ -16514,24 +16577,6 @@
   "out_price": 0.18,
   "source": "models.dev"
  },
- "modelsdev:edenai/flexai/Muse-Glimmer-30B": {
-  "context": 131072,
-  "expires": null,
-  "id": "edenai/flexai/Muse-Glimmer-30B",
-  "in_price": 0.3,
-  "name": "Muse Glimmer 30B (FlexAI)",
-  "out_price": 1.2,
-  "source": "models.dev"
- },
- "modelsdev:edenai/flexai/Step-3.7-Flash": {
-  "context": 262144,
-  "expires": null,
-  "id": "edenai/flexai/Step-3.7-Flash",
-  "in_price": 0.2,
-  "name": "Step 3.7 Flash (FlexAI)",
-  "out_price": 1.15,
-  "source": "models.dev"
- },
  "modelsdev:edenai/flexai/gpt-oss-120b": {
   "context": 131072,
   "expires": null,
@@ -16743,27 +16788,27 @@
   "context": 100000,
   "expires": null,
   "id": "edenai/infomaniak/mistralai/Ministral-3-14B-Instruct-2512",
-  "in_price": 0.33894,
+  "in_price": 0.33675,
   "name": "Ministral 3 14B (Infomaniak)",
-  "out_price": 0.45192,
+  "out_price": 0.449,
   "source": "models.dev"
  },
  "modelsdev:edenai/ionos/meta-llama/Llama-3.3-70B-Instruct": {
   "context": 128000,
   "expires": null,
   "id": "edenai/ionos/meta-llama/Llama-3.3-70B-Instruct",
-  "in_price": 0.73437,
+  "in_price": 0.729625,
   "name": "Llama-3.3-70B-Instruct (IONOS)",
-  "out_price": 0.73437,
+  "out_price": 0.729625,
   "source": "models.dev"
  },
  "modelsdev:edenai/ionos/openai/gpt-oss-120b": {
   "context": 131072,
   "expires": null,
   "id": "edenai/ionos/openai/gpt-oss-120b",
-  "in_price": 0.16947,
+  "in_price": 0.168375,
   "name": "GPT OSS 120B (IONOS)",
-  "out_price": 0.73437,
+  "out_price": 0.729625,
   "source": "models.dev"
  },
  "modelsdev:edenai/minimax/MiniMax-M2": {
@@ -17670,9 +17715,9 @@
   "context": 256000,
   "expires": null,
   "id": "edenai/scaleway/deepseek-v4-flash-0731",
-  "in_price": 0.45192,
+  "in_price": 0.449,
   "name": "DeepSeek V4 Flash 0731 (Scaleway)",
-  "out_price": 0.90384,
+  "out_price": 0.898,
   "source": "models.dev"
  },
  "modelsdev:edenai/scaleway/gemma-3-27b-it": {
@@ -17688,18 +17733,18 @@
   "context": 128000,
   "expires": null,
   "id": "edenai/scaleway/gpt-oss-120b",
-  "in_price": 0.16947,
+  "in_price": 0.168375,
   "name": "GPT OSS 120B (Scaleway)",
-  "out_price": 0.67788,
+  "out_price": 0.6735,
   "source": "models.dev"
  },
  "modelsdev:edenai/scaleway/llama-3.3-70b-instruct": {
   "context": 128000,
   "expires": null,
   "id": "edenai/scaleway/llama-3.3-70b-instruct",
-  "in_price": 1.01682,
+  "in_price": 1.01025,
   "name": "Llama-3.3-70B-Instruct (Scaleway)",
-  "out_price": 1.01682,
+  "out_price": 1.01025,
   "source": "models.dev"
  },
  "modelsdev:edenai/tencent/deepseek-v4-pro-0813": {
@@ -18809,6 +18854,78 @@
   "out_price": 2.7,
   "source": "models.dev"
  },
+ "modelsdev:engy/deepseek-v4-flash-0731": {
+  "context": 1048576,
+  "expires": null,
+  "id": "engy/deepseek-v4-flash-0731",
+  "in_price": 0.045,
+  "name": "DeepSeek V4 Flash 0731",
+  "out_price": 0.09,
+  "source": "models.dev"
+ },
+ "modelsdev:engy/deepseek-v4.1-flash": {
+  "context": 327680,
+  "expires": null,
+  "id": "engy/deepseek-v4.1-flash",
+  "in_price": 0.04,
+  "name": "DeepSeek V4.1 Flash",
+  "out_price": 0.08,
+  "source": "models.dev"
+ },
+ "modelsdev:engy/glm-5.2": {
+  "context": 262144,
+  "expires": null,
+  "id": "engy/glm-5.2",
+  "in_price": 0.68,
+  "name": "GLM-5.2",
+  "out_price": 1.5,
+  "source": "models.dev"
+ },
+ "modelsdev:engy/glm-5.3": {
+  "context": 327680,
+  "expires": null,
+  "id": "engy/glm-5.3",
+  "in_price": 0.98,
+  "name": "GLM-5.3",
+  "out_price": 3.08,
+  "source": "models.dev"
+ },
+ "modelsdev:engy/glm-5.3-flash": {
+  "context": 262144,
+  "expires": null,
+  "id": "engy/glm-5.3-flash",
+  "in_price": 0.135,
+  "name": "GLM-5.3-Flash",
+  "out_price": 0.45,
+  "source": "models.dev"
+ },
+ "modelsdev:engy/kimi-k3": {
+  "context": 1113088,
+  "expires": null,
+  "id": "engy/kimi-k3",
+  "in_price": 1.95,
+  "name": "Kimi K3",
+  "out_price": 9.75,
+  "source": "models.dev"
+ },
+ "modelsdev:engy/qwen3.6-35b-a3b": {
+  "context": 208192,
+  "expires": null,
+  "id": "engy/qwen3.6-35b-a3b",
+  "in_price": 0.045,
+  "name": "Qwen3.6 35B-A3B",
+  "out_price": 0.3,
+  "source": "models.dev"
+ },
+ "modelsdev:engy/qwen3.8-27b": {
+  "context": 1001536,
+  "expires": null,
+  "id": "engy/qwen3.8-27b",
+  "in_price": 0.045,
+  "name": "Qwen3.8 27B",
+  "out_price": 0.32,
+  "source": "models.dev"
+ },
  "modelsdev:evroc/KBLab/kb-whisper-large": {
   "context": 448,
   "expires": null,
@@ -19380,9 +19497,9 @@
   "context": 1000000,
   "expires": null,
   "id": "fireworks-ai/accounts/fireworks/models/deepseek-v4p1-flash",
-  "in_price": 0.22,
+  "in_price": 0.3,
   "name": "DeepSeek V4.1 Flash",
-  "out_price": 0.66,
+  "out_price": 1.2,
   "source": "models.dev"
  },
  "modelsdev:fireworks-ai/accounts/fireworks/models/ember-1": {
@@ -19488,9 +19605,9 @@
   "context": 1000000,
   "expires": null,
   "id": "fireworks-ai/accounts/fireworks/routers/deepseek-flash-latest",
-  "in_price": 0.22,
+  "in_price": 0.3,
   "name": "DeepSeek Flash Latest",
-  "out_price": 0.66,
+  "out_price": 1.2,
   "source": "models.dev"
  },
  "modelsdev:fireworks-ai/accounts/fireworks/routers/glm-5p3-fast": {
@@ -23826,9 +23943,9 @@
   "context": 1048576,
   "expires": null,
   "id": "hyper/deepseek-v4.1-flash",
-  "in_price": 0.3,
+  "in_price": 0.33,
   "name": "DeepSeek V4.1 Flash",
-  "out_price": 1.2,
+  "out_price": 1.31,
   "source": "models.dev"
  },
  "modelsdev:hyper/gemma-4-26b-a4b-it": {
@@ -26945,6 +27062,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:kilo/apodex/apodex-1.1-mini:free": {
+  "context": 262144,
+  "expires": null,
+  "id": "kilo/apodex/apodex-1.1-mini:free",
+  "in_price": 0,
+  "name": "Apodex: Apodex 1.1 Mini (free)",
+  "out_price": 0,
+  "source": "models.dev"
+ },
  "modelsdev:kilo/arcee-ai/trinity-large-thinking": {
   "context": 262144,
   "expires": null,
@@ -27099,7 +27225,7 @@
   "source": "models.dev"
  },
  "modelsdev:kilo/deepseek/deepseek-chat-v3-0324": {
-  "context": 163840,
+  "context": 128000,
   "expires": null,
   "id": "kilo/deepseek/deepseek-chat-v3-0324",
   "in_price": 0.29,
@@ -27162,7 +27288,7 @@
   "source": "models.dev"
  },
  "modelsdev:kilo/deepseek/deepseek-v4-flash": {
-  "context": 1048576,
+  "context": 1024000,
   "expires": null,
   "id": "kilo/deepseek/deepseek-v4-flash",
   "in_price": 0.14,
@@ -27246,9 +27372,9 @@
   "context": 32768,
   "expires": null,
   "id": "kilo/google/gemini-2.5-flash-image",
-  "in_price": 0.15,
+  "in_price": 0.3,
   "name": "Nano Banana",
-  "out_price": 1.25,
+  "out_price": 2.5,
   "source": "models.dev"
  },
  "modelsdev:kilo/google/gemini-2.5-flash-lite": {
@@ -27564,6 +27690,15 @@
   "in_price": 0.075,
   "name": "inclusionAI: Ling 3.0 Flash VL",
   "out_price": 0.22,
+  "source": "models.dev"
+ },
+ "modelsdev:kilo/inclusionai/ling-3.1-flash": {
+  "context": 262144,
+  "expires": null,
+  "id": "kilo/inclusionai/ling-3.1-flash",
+  "in_price": 0,
+  "name": "inclusionAI: Ling 3.1 Flash",
+  "out_price": 0,
   "source": "models.dev"
  },
  "modelsdev:kilo/inference-net/schematron-v2-small": {
@@ -28110,9 +28245,9 @@
   "context": 1048576,
   "expires": null,
   "id": "kilo/moonshotai/kimi-k3",
-  "in_price": 0.6635,
+  "in_price": 2.7,
   "name": "Kimi K3",
-  "out_price": 10,
+  "out_price": 13.5,
   "source": "models.dev"
  },
  "modelsdev:kilo/morph/morph-v3-fast": {
@@ -28957,7 +29092,7 @@
   "expires": null,
   "id": "kilo/poolside/laguna-s-2.1",
   "in_price": 0.1,
-  "name": "Poolside: Laguna S 2.1",
+  "name": "Poolside: Laguna S 2.1 (retires Oct 31)",
   "out_price": 0.2,
   "source": "models.dev"
  },
@@ -28975,7 +29110,7 @@
   "expires": null,
   "id": "kilo/poolside/laguna-xs-2.1",
   "in_price": 0.1,
-  "name": "Poolside: Laguna XS 2.1",
+  "name": "Poolside: Laguna XS 2.1 (retires Oct 31)",
   "out_price": 0.2,
   "source": "models.dev"
  },
@@ -30060,7 +30195,7 @@
   "source": "models.dev"
  },
  "modelsdev:kilo/z-ai/glm-5.3-flash": {
-  "context": 1048575,
+  "context": 1048576,
   "expires": null,
   "id": "kilo/z-ai/glm-5.3-flash",
   "in_price": 0.15,
@@ -30135,27 +30270,27 @@
   "context": 1048576,
   "expires": null,
   "id": "kilo/~deepseek/deepseek-flash-latest",
-  "in_price": 0.025,
+  "in_price": 0.015,
   "name": "DeepSeek: DeepSeek Flash Latest",
-  "out_price": 0.6,
+  "out_price": 1.2,
   "source": "models.dev"
  },
  "modelsdev:kilo/~deepseek/deepseek-pro-latest": {
   "context": 1048576,
   "expires": null,
   "id": "kilo/~deepseek/deepseek-pro-latest",
-  "in_price": 0.1642,
+  "in_price": 0.132,
   "name": "DeepSeek: DeepSeek Pro Latest",
-  "out_price": 3.5,
+  "out_price": 0.396,
   "source": "models.dev"
  },
  "modelsdev:kilo/~deepseek/deepseek-v4-flash-latest": {
   "context": 1048576,
   "expires": null,
   "id": "kilo/~deepseek/deepseek-v4-flash-latest",
-  "in_price": 0.0108,
+  "in_price": 0.012825,
   "name": "DeepSeek: DeepSeek V4 Flash Latest",
-  "out_price": 1.28,
+  "out_price": 1.6,
   "source": "models.dev"
  },
  "modelsdev:kilo/~google/gemini-flash-latest": {
@@ -30180,9 +30315,9 @@
   "context": 1048576,
   "expires": null,
   "id": "kilo/~moonshotai/kimi-latest",
-  "in_price": 0.6635,
+  "in_price": 1.34,
   "name": "MoonshotAI: Kimi Latest",
-  "out_price": 10,
+  "out_price": 13,
   "source": "models.dev"
  },
  "modelsdev:kilo/~openai/gpt-astra-latest": {
@@ -30243,18 +30378,18 @@
   "context": 1048576,
   "expires": null,
   "id": "kilo/~z-ai/glm-flash-latest",
-  "in_price": 0.02,
+  "in_price": 0.02625,
   "name": "Z.ai: GLM Flash Latest",
-  "out_price": 0.3,
+  "out_price": 0.9,
   "source": "models.dev"
  },
  "modelsdev:kilo/~z-ai/glm-latest": {
-  "context": 262144,
+  "context": 1048576,
   "expires": null,
   "id": "kilo/~z-ai/glm-latest",
   "in_price": 0.12,
   "name": "Z.ai: GLM Latest",
-  "out_price": 1.14,
+  "out_price": 4,
   "source": "models.dev"
  },
  "modelsdev:kimi-code-plan-cn/k3": {
@@ -30995,6 +31130,15 @@
   "out_price": 25,
   "source": "models.dev"
  },
+ "modelsdev:llmgateway-providers/aws-bedrock/claude-opus-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "llmgateway-providers/aws-bedrock/claude-opus-5-5",
+  "in_price": 4,
+  "name": "Claude Opus 5.5 (AWS Bedrock)",
+  "out_price": 20,
+  "source": "models.dev"
+ },
  "modelsdev:llmgateway-providers/aws-bedrock/claude-sonnet-4-5": {
   "context": 200000,
   "expires": null,
@@ -31031,6 +31175,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:llmgateway-providers/aws-bedrock/claude-sonnet-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "llmgateway-providers/aws-bedrock/claude-sonnet-5-5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5 (AWS Bedrock)",
+  "out_price": 10,
+  "source": "models.dev"
+ },
  "modelsdev:llmgateway-providers/aws-bedrock/grok-4-3": {
   "context": 1000000,
   "expires": null,
@@ -31047,6 +31200,24 @@
   "in_price": 2,
   "name": "Grok 4.6 (AWS Bedrock)",
   "out_price": 6,
+  "source": "models.dev"
+ },
+ "modelsdev:llmgateway-providers/aws-bedrock/grok-4-7": {
+  "context": 524288,
+  "expires": null,
+  "id": "llmgateway-providers/aws-bedrock/grok-4-7",
+  "in_price": 2,
+  "name": "Grok 4.7 (AWS Bedrock)",
+  "out_price": 6,
+  "source": "models.dev"
+ },
+ "modelsdev:llmgateway-providers/aws-bedrock/kimi-k3": {
+  "context": 1048576,
+  "expires": null,
+  "id": "llmgateway-providers/aws-bedrock/kimi-k3",
+  "in_price": 3,
+  "name": "Kimi K3 (AWS Bedrock)",
+  "out_price": 15,
   "source": "models.dev"
  },
  "modelsdev:llmgateway-providers/aws-bedrock/llama-3.1-70b-instruct": {
@@ -31148,6 +31319,15 @@
   "out_price": 50,
   "source": "models.dev"
  },
+ "modelsdev:llmgateway-providers/azure-anthropic/claude-fable-5-1": {
+  "context": 1000000,
+  "expires": null,
+  "id": "llmgateway-providers/azure-anthropic/claude-fable-5-1",
+  "in_price": 10,
+  "name": "Claude Fable 5.1 (Azure Anthropic)",
+  "out_price": 50,
+  "source": "models.dev"
+ },
  "modelsdev:llmgateway-providers/azure-anthropic/claude-opus-4-6": {
   "context": 1000000,
   "expires": null,
@@ -31184,12 +31364,30 @@
   "out_price": 25,
   "source": "models.dev"
  },
+ "modelsdev:llmgateway-providers/azure-anthropic/claude-opus-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "llmgateway-providers/azure-anthropic/claude-opus-5-5",
+  "in_price": 4,
+  "name": "Claude Opus 5.5 (Azure Anthropic)",
+  "out_price": 20,
+  "source": "models.dev"
+ },
  "modelsdev:llmgateway-providers/azure-anthropic/claude-sonnet-5": {
   "context": 1000000,
   "expires": null,
   "id": "llmgateway-providers/azure-anthropic/claude-sonnet-5",
   "in_price": 2,
   "name": "Claude Sonnet 5 (Azure Anthropic)",
+  "out_price": 10,
+  "source": "models.dev"
+ },
+ "modelsdev:llmgateway-providers/azure-anthropic/claude-sonnet-5-5": {
+  "context": 1000000,
+  "expires": null,
+  "id": "llmgateway-providers/azure-anthropic/claude-sonnet-5-5",
+  "in_price": 2,
+  "name": "Claude Sonnet 5.5 (Azure Anthropic)",
   "out_price": 10,
   "source": "models.dev"
  },
@@ -31406,6 +31604,15 @@
   "id": "llmgateway-providers/azure/gpt-6-sol",
   "in_price": 2,
   "name": "GPT-6 Sol (Azure)",
+  "out_price": 10,
+  "source": "models.dev"
+ },
+ "modelsdev:llmgateway-providers/azure/gpt-6.1-sol": {
+  "context": 1050000,
+  "expires": null,
+  "id": "llmgateway-providers/azure/gpt-6.1-sol",
+  "in_price": 2,
+  "name": "GPT-6.1 Sol (Azure)",
   "out_price": 10,
   "source": "models.dev"
  },
@@ -31707,7 +31914,7 @@
   "source": "models.dev"
  },
  "modelsdev:llmgateway-providers/consensusprotocol/Qwen3.8-27B": {
-  "context": 32768,
+  "context": 262000,
   "expires": null,
   "id": "llmgateway-providers/consensusprotocol/Qwen3.8-27B",
   "in_price": 0.08,
@@ -31730,7 +31937,7 @@
   "id": "llmgateway-providers/consensusprotocol/deepseek-v4.1-flash",
   "in_price": 0.15,
   "name": "DeepSeek V4.1 Flash (Consensus Protocol)",
-  "out_price": 0.6,
+  "out_price": 0.55,
   "source": "models.dev"
  },
  "modelsdev:llmgateway-providers/consensusprotocol/gemma-4-31b-it": {
@@ -31752,7 +31959,7 @@
   "source": "models.dev"
  },
  "modelsdev:llmgateway-providers/consensusprotocol/gpt-oss-20b": {
-  "context": 65536,
+  "context": 128000,
   "expires": null,
   "id": "llmgateway-providers/consensusprotocol/gpt-oss-20b",
   "in_price": 0.04,
@@ -34344,7 +34551,7 @@
   "source": "models.dev"
  },
  "modelsdev:llmgateway/Qwen3.8-27B": {
-  "context": 32768,
+  "context": 262000,
   "expires": null,
   "id": "llmgateway/Qwen3.8-27B",
   "in_price": 0.08,
@@ -34565,7 +34772,7 @@
   "id": "llmgateway/deepseek-v4.1-flash",
   "in_price": 0.15,
   "name": "DeepSeek V4.1 Flash",
-  "out_price": 0.6,
+  "out_price": 0.55,
   "source": "models.dev"
  },
  "modelsdev:llmgateway/devstral-2512": {
@@ -35343,7 +35550,7 @@
   "source": "models.dev"
  },
  "modelsdev:llmgateway/grok-4-7": {
-  "context": 500000,
+  "context": 524288,
   "expires": null,
   "id": "llmgateway/grok-4-7",
   "in_price": 2,
@@ -37781,6 +37988,15 @@
   "out_price": 2.5,
   "source": "models.dev"
  },
+ "modelsdev:merge-gateway/nvidia/nemotron-3-nano-30b-a3b": {
+  "context": 256000,
+  "expires": null,
+  "id": "merge-gateway/nvidia/nemotron-3-nano-30b-a3b",
+  "in_price": 0.05,
+  "name": "Nemotron 3 Nano 30B A3B",
+  "out_price": 0.2,
+  "source": "models.dev"
+ },
  "modelsdev:merge-gateway/nvidia/nemotron-3.5-lightning-30b-a3b": {
   "context": 1000000,
   "expires": null,
@@ -38079,21 +38295,21 @@
   "source": "models.dev"
  },
  "modelsdev:merge-gateway/openai/gpt-oss-120b": {
-  "context": 131072,
+  "context": 128000,
   "expires": null,
   "id": "merge-gateway/openai/gpt-oss-120b",
-  "in_price": 0.09,
+  "in_price": 0.05,
   "name": "GPT-OSS 120B",
-  "out_price": 0.36,
+  "out_price": 0.25,
   "source": "models.dev"
  },
  "modelsdev:merge-gateway/openai/gpt-oss-20b": {
-  "context": 131072,
+  "context": 128000,
   "expires": null,
   "id": "merge-gateway/openai/gpt-oss-20b",
   "in_price": 0.04,
   "name": "GPT-OSS 20B",
-  "out_price": 0.2,
+  "out_price": 0.15,
   "source": "models.dev"
  },
  "modelsdev:merge-gateway/openai/gpt-oss-safeguard-120b": {
@@ -38427,6 +38643,15 @@
   "in_price": 2.5,
   "name": "Qwen3.8 2.4T A95B",
   "out_price": 6.25,
+  "source": "models.dev"
+ },
+ "modelsdev:merge-gateway/qwen/qwen3.8-flash": {
+  "context": 977000,
+  "expires": null,
+  "id": "merge-gateway/qwen/qwen3.8-flash",
+  "in_price": 0.15,
+  "name": "Qwen3.8 Flash",
+  "out_price": 0.47,
   "source": "models.dev"
  },
  "modelsdev:merge-gateway/qwen/qwen3.8-max": {
@@ -45021,9 +45246,9 @@
   "context": 200000,
   "expires": null,
   "id": "nano-gpt/z-ai/glm-4.7",
-  "in_price": 0.2,
+  "in_price": 0.4004,
   "name": "GLM 4.7",
-  "out_price": 0.8,
+  "out_price": 1.9292,
   "source": "models.dev"
  },
  "modelsdev:nano-gpt/z-ai/glm-4.7-flash": {
@@ -45066,9 +45291,9 @@
   "context": 200000,
   "expires": null,
   "id": "nano-gpt/z-ai/glm-4.7:thinking",
-  "in_price": 0.2,
+  "in_price": 0.4004,
   "name": "GLM 4.7 Thinking",
-  "out_price": 0.8,
+  "out_price": 1.9292,
   "source": "models.dev"
  },
  "modelsdev:nano-gpt/z-ai/glm-5": {
@@ -47501,6 +47726,24 @@
   "out_price": 0,
   "source": "models.dev"
  },
+ "modelsdev:nvidia/deepseek-ai/deepseek-v4.1-flash": {
+  "context": 1000000,
+  "expires": null,
+  "id": "nvidia/deepseek-ai/deepseek-v4.1-flash",
+  "in_price": 0,
+  "name": "DeepSeek V4.1 Flash",
+  "out_price": 0,
+  "source": "models.dev"
+ },
+ "modelsdev:nvidia/google/diffusiongemma-26b-a4b-it": {
+  "context": 250000,
+  "expires": null,
+  "id": "nvidia/google/diffusiongemma-26b-a4b-it",
+  "in_price": 0,
+  "name": "DiffusionGemma 26B A4B IT",
+  "out_price": 0,
+  "source": "models.dev"
+ },
  "modelsdev:nvidia/google/gemma-2-2b-it": {
   "context": 128000,
   "expires": null,
@@ -48021,6 +48264,15 @@
   "in_price": 0.5,
   "name": "Nemotron 3 Ultra 550B A55B",
   "out_price": 2.5,
+  "source": "models.dev"
+ },
+ "modelsdev:nvidia/nvidia/nemotron-3.5-content-safety": {
+  "context": 128000,
+  "expires": null,
+  "id": "nvidia/nvidia/nemotron-3.5-content-safety",
+  "in_price": 0,
+  "name": "Nemotron 3.5 Content Safety",
+  "out_price": 0,
   "source": "models.dev"
  },
  "modelsdev:nvidia/nvidia/nemotron-3.5-lightning-30b-a3b": {
@@ -50957,6 +51209,15 @@
   "out_price": 1.2,
   "source": "models.dev"
  },
+ "modelsdev:opencode/fledge-alpha-free": {
+  "context": 1048576,
+  "expires": null,
+  "id": "opencode/fledge-alpha-free",
+  "in_price": 0,
+  "name": "Fledge Alpha Free",
+  "out_price": 0,
+  "source": "models.dev"
+ },
  "modelsdev:opencode/gemini-3-flash": {
   "context": 1048576,
   "expires": null,
@@ -51494,6 +51755,15 @@
   "id": "opencode/ling-3.0-tiny-free",
   "in_price": 0,
   "name": "Ling-3.0-tiny Free",
+  "out_price": 0,
+  "source": "models.dev"
+ },
+ "modelsdev:opencode/ling-3.1-flash-free": {
+  "context": 262144,
+  "expires": null,
+  "id": "opencode/ling-3.1-flash-free",
+  "in_price": 0,
+  "name": "Ling 3.1 Flash Free",
   "out_price": 0,
   "source": "models.dev"
  },
@@ -52055,6 +52325,15 @@
   "out_price": 10,
   "source": "models.dev"
  },
+ "modelsdev:openrouter/apodex/apodex-1.1-mini:free": {
+  "context": 262144,
+  "expires": null,
+  "id": "openrouter/apodex/apodex-1.1-mini:free",
+  "in_price": 0,
+  "name": "Apodex 1.1 Mini (free)",
+  "out_price": 0,
+  "source": "models.dev"
+ },
  "modelsdev:openrouter/arcee-ai/trinity-large-thinking": {
   "context": 262144,
   "expires": null,
@@ -52275,16 +52554,16 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/deepseek/deepseek-v4-flash",
-  "in_price": 0.04186,
+  "in_price": 0.028,
   "name": "DeepSeek V4 Flash",
-  "out_price": 0.08372,
+  "out_price": 0.056,
   "source": "models.dev"
  },
  "modelsdev:openrouter/deepseek/deepseek-v4-flash-0731": {
   "context": 1048576,
   "expires": null,
   "id": "openrouter/deepseek/deepseek-v4-flash-0731",
-  "in_price": 0.0108,
+  "in_price": 0.0171,
   "name": "DeepSeek V4 Flash 0731",
   "out_price": 1.28,
   "source": "models.dev"
@@ -52320,9 +52599,9 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/deepseek/deepseek-v4.1-flash",
-  "in_price": 0.03,
+  "in_price": 0.3,
   "name": "DeepSeek V4.1 Flash",
-  "out_price": 0.5,
+  "out_price": 1.2,
   "source": "models.dev"
  },
  "modelsdev:openrouter/dots-studio/dots-3-note-preview:free": {
@@ -52692,6 +52971,15 @@
   "in_price": 0.021,
   "name": "Ling 3.0 Flash VL",
   "out_price": 0.0616,
+  "source": "models.dev"
+ },
+ "modelsdev:openrouter/inclusionai/ling-3.1-flash": {
+  "context": 262144,
+  "expires": null,
+  "id": "openrouter/inclusionai/ling-3.1-flash",
+  "in_price": 0,
+  "name": "Ling 3.1 Flash",
+  "out_price": 0,
   "source": "models.dev"
  },
  "modelsdev:openrouter/inference-net/schematron-v2-small": {
@@ -53193,9 +53481,9 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/moonshotai/kimi-k3",
-  "in_price": 0.6635,
+  "in_price": 2.7,
   "name": "Kimi K3",
-  "out_price": 10,
+  "out_price": 13.5,
   "source": "models.dev"
  },
  "modelsdev:openrouter/morph/morph-v3-fast": {
@@ -53337,9 +53625,9 @@
   "context": 262144,
   "expires": null,
   "id": "openrouter/nvidia/nemotron-3.5-lightning",
-  "in_price": 0.0595,
+  "in_price": 0.06,
   "name": "Nemotron 3.5 Lightning 30B A3B",
-  "out_price": 0.17,
+  "out_price": 0.16,
   "source": "models.dev"
  },
  "modelsdev:openrouter/nvidia/nemotron-3.5-lightning:free": {
@@ -54390,9 +54678,9 @@
   "context": 262144,
   "expires": null,
   "id": "openrouter/qwen/qwen3.5-35b-a3b",
-  "in_price": 0.1625,
+  "in_price": 0.15,
   "name": "Qwen3.5 35B-A3B",
-  "out_price": 1.3,
+  "out_price": 1,
   "source": "models.dev"
  },
  "modelsdev:openrouter/qwen/qwen3.5-397b-a17b": {
@@ -54795,7 +55083,7 @@
   "context": 524288,
   "expires": null,
   "id": "openrouter/thinkingmachines/inkling",
-  "in_price": 1,
+  "in_price": 0.95,
   "name": "Inkling",
   "out_price": 4.05,
   "source": "models.dev"
@@ -55101,18 +55389,18 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/z-ai/glm-5.3",
-  "in_price": 0.2219,
+  "in_price": 1.4,
   "name": "GLM-5.3",
-  "out_price": 3.39,
+  "out_price": 4.4,
   "source": "models.dev"
  },
  "modelsdev:openrouter/z-ai/glm-5.3-flash": {
   "context": 1048576,
   "expires": null,
   "id": "openrouter/z-ai/glm-5.3-flash",
-  "in_price": 0.15,
+  "in_price": 0.02625,
   "name": "GLM-5.3-Flash",
-  "out_price": 0.5,
+  "out_price": 0.9,
   "source": "models.dev"
  },
  "modelsdev:openrouter/z-ai/glm-5.3-flashx": {
@@ -55182,27 +55470,27 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/~deepseek/deepseek-flash-latest",
-  "in_price": 0.025,
+  "in_price": 0.015,
   "name": "DeepSeek Flash Latest",
-  "out_price": 0.6,
+  "out_price": 1.2,
   "source": "models.dev"
  },
  "modelsdev:openrouter/~deepseek/deepseek-pro-latest": {
   "context": 1048576,
   "expires": null,
   "id": "openrouter/~deepseek/deepseek-pro-latest",
-  "in_price": 0.1642,
+  "in_price": 0.132,
   "name": "DeepSeek Pro Latest",
-  "out_price": 3.5,
+  "out_price": 0.396,
   "source": "models.dev"
  },
  "modelsdev:openrouter/~deepseek/deepseek-v4-flash-latest": {
   "context": 1048576,
   "expires": null,
   "id": "openrouter/~deepseek/deepseek-v4-flash-latest",
-  "in_price": 0.0108,
+  "in_price": 0.012825,
   "name": "DeepSeek V4 Flash Latest",
-  "out_price": 1.28,
+  "out_price": 1.6,
   "source": "models.dev"
  },
  "modelsdev:openrouter/~google/gemini-flash-latest": {
@@ -55227,9 +55515,9 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/~moonshotai/kimi-latest",
-  "in_price": 0.6635,
+  "in_price": 1.34,
   "name": "Kimi Latest",
-  "out_price": 10,
+  "out_price": 13,
   "source": "models.dev"
  },
  "modelsdev:openrouter/~openai/gpt-astra-latest": {
@@ -55290,9 +55578,9 @@
   "context": 1048576,
   "expires": null,
   "id": "openrouter/~z-ai/glm-flash-latest",
-  "in_price": 0.02,
+  "in_price": 0.02625,
   "name": "GLM Flash Latest",
-  "out_price": 0.3,
+  "out_price": 0.9,
   "source": "models.dev"
  },
  "modelsdev:openrouter/~z-ai/glm-latest": {
@@ -55301,7 +55589,7 @@
   "id": "openrouter/~z-ai/glm-latest",
   "in_price": 0.12,
   "name": "GLM Latest",
-  "out_price": 1.14,
+  "out_price": 4,
   "source": "models.dev"
  },
  "modelsdev:opper/claude-fable-5": {
@@ -59607,16 +59895,16 @@
   "source": "models.dev"
  },
  "modelsdev:privatemode-ai/glm-5.3": {
-  "context": 256000,
+  "context": 1000000,
   "expires": null,
   "id": "privatemode-ai/glm-5.3",
   "in_price": 1.791,
   "name": "GLM-5.3",
-  "out_price": 8.9436,
+  "out_price": 6.6326,
   "source": "models.dev"
  },
  "modelsdev:privatemode-ai/glm-5.3-flash": {
-  "context": 256000,
+  "context": 1000000,
   "expires": null,
   "id": "privatemode-ai/glm-5.3-flash",
   "in_price": 0.2311,
@@ -59625,7 +59913,7 @@
   "source": "models.dev"
  },
  "modelsdev:privatemode-ai/glm-flash-latest": {
-  "context": 256000,
+  "context": 1000000,
   "expires": null,
   "id": "privatemode-ai/glm-flash-latest",
   "in_price": 0.2311,
@@ -59634,21 +59922,21 @@
   "source": "models.dev"
  },
  "modelsdev:privatemode-ai/glm-latest": {
-  "context": 256000,
+  "context": 1000000,
   "expires": null,
   "id": "privatemode-ai/glm-latest",
   "in_price": 1.791,
   "name": "GLM (latest)",
-  "out_price": 8.9436,
+  "out_price": 6.6326,
   "source": "models.dev"
  },
  "modelsdev:privatemode-ai/gpt-oss-120b": {
   "context": 128000,
   "expires": null,
   "id": "privatemode-ai/gpt-oss-120b",
-  "in_price": 0.4969,
+  "in_price": 0.2311,
   "name": "gpt-oss-120b",
-  "out_price": 1.9644,
+  "out_price": 0.7511,
   "source": "models.dev"
  },
  "modelsdev:privatemode-ai/kimi-k2.6": {
@@ -61754,6 +62042,15 @@
   "id": "requesty/grok-4.6",
   "in_price": 2,
   "name": "Grok 4.6",
+  "out_price": 6,
+  "source": "models.dev"
+ },
+ "modelsdev:requesty/grok-4.7": {
+  "context": 500000,
+  "expires": null,
+  "id": "requesty/grok-4.7",
+  "in_price": 2,
+  "name": "Grok 4.7",
   "out_price": 6,
   "source": "models.dev"
  },
@@ -65069,6 +65366,15 @@
   "out_price": 4.4,
   "source": "models.dev"
  },
+ "modelsdev:synthetic/hf:zai-org/GLM-5.3": {
+  "context": 524288,
+  "expires": null,
+  "id": "synthetic/hf:zai-org/GLM-5.3",
+  "in_price": 1.4,
+  "name": "GLM-5.3",
+  "out_price": 4.4,
+  "source": "models.dev"
+ },
  "modelsdev:synthetic/hf:zai-org/GLM-5.3-Flash": {
   "context": 524288,
   "expires": null,
@@ -66446,15 +66752,6 @@
   "out_price": 3.75,
   "source": "models.dev"
  },
- "modelsdev:togetherai/deepcogito/cogito-v2-1-671b": {
-  "context": 163840,
-  "expires": null,
-  "id": "togetherai/deepcogito/cogito-v2-1-671b",
-  "in_price": 1.25,
-  "name": "Cogito v2.1 671B",
-  "out_price": 1.25,
-  "source": "models.dev"
- },
  "modelsdev:togetherai/deepseek-ai/DeepSeek-R1": {
   "context": 163839,
   "expires": null,
@@ -66491,15 +66788,6 @@
   "out_price": 0.28,
   "source": "models.dev"
  },
- "modelsdev:togetherai/deepseek-ai/DeepSeek-V4-Pro": {
-  "context": 512000,
-  "expires": null,
-  "id": "togetherai/deepseek-ai/DeepSeek-V4-Pro",
-  "in_price": 1.74,
-  "name": "DeepSeek V4 Pro",
-  "out_price": 3.48,
-  "source": "models.dev"
- },
  "modelsdev:togetherai/deepseek-ai/DeepSeek-V4-Pro-0813": {
   "context": 1048576,
   "expires": null,
@@ -66527,24 +66815,6 @@
   "out_price": 0.15,
   "source": "models.dev"
  },
- "modelsdev:togetherai/google/gemma-3n-E4B-it": {
-  "context": 32768,
-  "expires": null,
-  "id": "togetherai/google/gemma-3n-E4B-it",
-  "in_price": 0.06,
-  "name": "Gemma 3N E4B Instruct",
-  "out_price": 0.12,
-  "source": "models.dev"
- },
- "modelsdev:togetherai/google/gemma-4-31B-it": {
-  "context": 262144,
-  "expires": null,
-  "id": "togetherai/google/gemma-4-31B-it",
-  "in_price": 0.39,
-  "name": "Gemma 4 31B Instruct",
-  "out_price": 0.97,
-  "source": "models.dev"
- },
  "modelsdev:togetherai/meta-llama/Llama-3.3-70B-Instruct-Turbo": {
   "context": 131072,
   "expires": null,
@@ -66552,15 +66822,6 @@
   "in_price": 1.04,
   "name": "Llama 3.3 70B",
   "out_price": 1.04,
-  "source": "models.dev"
- },
- "modelsdev:togetherai/meta-llama/Meta-Llama-3-8B-Instruct-Lite": {
-  "context": 8192,
-  "expires": null,
-  "id": "togetherai/meta-llama/Meta-Llama-3-8B-Instruct-Lite",
-  "in_price": 0.14,
-  "name": "Meta Llama 3 8B Instruct Lite",
-  "out_price": 0.14,
   "source": "models.dev"
  },
  "modelsdev:togetherai/moonshotai/Kimi-K3": {
@@ -66588,24 +66849,6 @@
   "in_price": 0.15,
   "name": "GPT OSS 120B",
   "out_price": 0.6,
-  "source": "models.dev"
- },
- "modelsdev:togetherai/openai/gpt-oss-20b": {
-  "context": 131072,
-  "expires": null,
-  "id": "togetherai/openai/gpt-oss-20b",
-  "in_price": 0.05,
-  "name": "GPT OSS 20B",
-  "out_price": 0.2,
-  "source": "models.dev"
- },
- "modelsdev:togetherai/pearl-ai/gemma-4-31b-it": {
-  "context": 32000,
-  "expires": null,
-  "id": "togetherai/pearl-ai/gemma-4-31b-it",
-  "in_price": 0.28,
-  "name": "Pearl AI Gemma 4 31B Instruct",
-  "out_price": 0.86,
   "source": "models.dev"
  },
  "modelsdev:togetherai/thinkingmachines/Inkling": {
@@ -67310,6 +67553,15 @@
   "out_price": 4.8,
   "source": "models.dev"
  },
+ "modelsdev:venice/abliteration-abliterated-model-large-v2": {
+  "context": 1000000,
+  "expires": null,
+  "id": "venice/abliteration-abliterated-model-large-v2",
+  "in_price": 3,
+  "name": "Abliterated Large V2",
+  "out_price": 5,
+  "source": "models.dev"
+ },
  "modelsdev:venice/aion-labs-aion-3-0": {
   "context": 128000,
   "expires": null,
@@ -67467,18 +67719,18 @@
   "context": 1000000,
   "expires": null,
   "id": "venice/claude-sonnet-5",
-  "in_price": 3,
+  "in_price": 2.5,
   "name": "Claude Sonnet 5",
-  "out_price": 15,
+  "out_price": 12.5,
   "source": "models.dev"
  },
  "modelsdev:venice/claude-sonnet-5-5": {
   "context": 1000000,
   "expires": null,
   "id": "venice/claude-sonnet-5-5",
-  "in_price": 3.75,
+  "in_price": 2.5,
   "name": "Claude Sonnet 5.5",
-  "out_price": 18.75,
+  "out_price": 12.5,
   "source": "models.dev"
  },
  "modelsdev:venice/deepseek-v3.2": {
@@ -69884,15 +70136,6 @@
   "out_price": null,
   "source": "models.dev"
  },
- "modelsdev:vercel/liquid/d1": {
-  "context": 65536,
-  "expires": null,
-  "id": "vercel/liquid/d1",
-  "in_price": 0.04,
-  "name": "Liquid d1",
-  "out_price": 0,
-  "source": "models.dev"
- },
  "modelsdev:vercel/meituan/longcat-2.5-preview": {
   "context": 1048576,
   "expires": null,
@@ -70025,6 +70268,15 @@
   "id": "vercel/microsoft/mai-transcribe-2",
   "in_price": null,
   "name": "MAI-Transcribe 2",
+  "out_price": null,
+  "source": "models.dev"
+ },
+ "modelsdev:vercel/microsoft/mai-transcribe-2-streaming": {
+  "context": 0,
+  "expires": null,
+  "id": "vercel/microsoft/mai-transcribe-2-streaming",
+  "in_price": null,
+  "name": "MAI-Transcribe-2-Streaming",
   "out_price": null,
   "source": "models.dev"
  },
@@ -71501,6 +71753,15 @@
   "id": "vercel/spacexai/grok-imagine-video-1.5",
   "in_price": null,
   "name": "Grok Imagine Video 1.5",
+  "out_price": null,
+  "source": "models.dev"
+ },
+ "modelsdev:vercel/spacexai/grok-imagine-video-1.5-lite": {
+  "context": 0,
+  "expires": null,
+  "id": "vercel/spacexai/grok-imagine-video-1.5-lite",
+  "in_price": null,
+  "name": "Grok Imagine Video 1.5 Lite",
   "out_price": null,
   "source": "models.dev"
  },
@@ -73139,6 +73400,15 @@
   "id": "xai/grok-imagine-video-1.5",
   "in_price": null,
   "name": "Grok Imagine Video 1.5",
+  "out_price": null,
+  "source": "models.dev"
+ },
+ "modelsdev:xai/grok-imagine-video-1.5-lite": {
+  "context": 1024,
+  "expires": null,
+  "id": "xai/grok-imagine-video-1.5-lite",
+  "in_price": null,
+  "name": "Grok Imagine Video 1.5 Lite",
   "out_price": null,
   "source": "models.dev"
  },
@@ -75750,6 +76020,20 @@
   "source": "openrouter",
   "tools": true
  },
+ "openrouter:apodex/apodex-1.1-mini:free": {
+  "context": 262144,
+  "expires": null,
+  "id": "apodex/apodex-1.1-mini:free",
+  "in_price": 0.0,
+  "name": "Apodex: Apodex 1.1 Mini (free)",
+  "out_mods": [
+   "text"
+  ],
+  "out_price": 0.0,
+  "out_text_only": true,
+  "source": "openrouter",
+  "tools": true
+ },
  "openrouter:arcee-ai/trinity-large-thinking": {
   "context": 262144,
   "expires": null,
@@ -76048,7 +76332,7 @@
   "context": 163840,
   "expires": null,
   "id": "deepseek/deepseek-v3.1-terminus",
-  "in_price": 0.3,
+  "in_price": 0.27,
   "name": "DeepSeek: DeepSeek V3.1 Terminus",
   "out_mods": [
    "text"
@@ -76090,12 +76374,12 @@
   "context": 1048576,
   "expires": null,
   "id": "deepseek/deepseek-v4-flash",
-  "in_price": 0.04186,
+  "in_price": 0.028,
   "name": "DeepSeek: DeepSeek V4 Flash 0423",
   "out_mods": [
    "text"
   ],
-  "out_price": 0.08372,
+  "out_price": 0.056,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -76104,7 +76388,7 @@
   "context": 1048576,
   "expires": null,
   "id": "deepseek/deepseek-v4-flash-0731",
-  "in_price": 0.0108,
+  "in_price": 0.0051,
   "name": "DeepSeek: DeepSeek V4 Flash 0731",
   "out_mods": [
    "text"
@@ -76160,12 +76444,12 @@
   "context": 1048576,
   "expires": null,
   "id": "deepseek/deepseek-v4.1-flash",
-  "in_price": 0.03,
+  "in_price": 0.02,
   "name": "DeepSeek: DeepSeek V4.1 Flash",
   "out_mods": [
    "text"
   ],
-  "out_price": 0.5,
+  "out_price": 0.42,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -76186,7 +76470,7 @@
  },
  "openrouter:dots-studio/dots-3-note-preview:free": {
   "context": 512000,
-  "expires": null,
+  "expires": "2026-12-31",
   "id": "dots-studio/dots-3-note-preview:free",
   "in_price": 0.0,
   "name": "Dots Studio: Dots3-Note Preview (free)",
@@ -76916,6 +77200,20 @@
    "text"
   ],
   "out_price": 0.0616,
+  "out_text_only": true,
+  "source": "openrouter",
+  "tools": true
+ },
+ "openrouter:inclusionai/ling-3.1-flash": {
+  "context": 262144,
+  "expires": null,
+  "id": "inclusionai/ling-3.1-flash",
+  "in_price": 0.0,
+  "name": "inclusionAI: Ling 3.1 Flash",
+  "out_mods": [
+   "text"
+  ],
+  "out_price": 0.0,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -77778,12 +78076,12 @@
   "context": 1048576,
   "expires": null,
   "id": "moonshotai/kimi-k3",
-  "in_price": 0.6635,
+  "in_price": 2.7,
   "name": "MoonshotAI: Kimi K3",
   "out_mods": [
    "text"
   ],
-  "out_price": 10.0,
+  "out_price": 13.5,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -78016,12 +78314,12 @@
   "context": 262144,
   "expires": null,
   "id": "nvidia/nemotron-3.5-lightning",
-  "in_price": 0.0595,
+  "in_price": 0.06,
   "name": "NVIDIA: Nemotron 3.5 Lightning",
   "out_mods": [
    "text"
   ],
-  "out_price": 0.17,
+  "out_price": 0.16,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -79659,7 +79957,7 @@
  },
  "openrouter:poolside/laguna-s-2.1": {
   "context": 1048576,
-  "expires": null,
+  "expires": "2026-10-31",
   "id": "poolside/laguna-s-2.1",
   "in_price": 0.09,
   "name": "Poolside: Laguna S 2.1",
@@ -79673,7 +79971,7 @@
  },
  "openrouter:poolside/laguna-s-2.1:free": {
   "context": 262144,
-  "expires": null,
+  "expires": "2026-10-31",
   "id": "poolside/laguna-s-2.1:free",
   "in_price": 0.0,
   "name": "Poolside: Laguna S 2.1 (free)",
@@ -79687,7 +79985,7 @@
  },
  "openrouter:poolside/laguna-xs-2.1": {
   "context": 262144,
-  "expires": null,
+  "expires": "2026-10-31",
   "id": "poolside/laguna-xs-2.1",
   "in_price": 0.06,
   "name": "Poolside: Laguna XS 2.1",
@@ -79701,7 +79999,7 @@
  },
  "openrouter:poolside/laguna-xs-2.1:free": {
   "context": 262144,
-  "expires": null,
+  "expires": "2026-10-31",
   "id": "poolside/laguna-xs-2.1:free",
   "in_price": 0.0,
   "name": "Poolside: Laguna XS 2.1 (free)",
@@ -80193,12 +80491,12 @@
   "context": 262144,
   "expires": null,
   "id": "qwen/qwen3.5-35b-a3b",
-  "in_price": 0.1625,
+  "in_price": 0.15,
   "name": "Qwen: Qwen3.5-35B-A3B",
   "out_mods": [
    "text"
   ],
-  "out_price": 1.3,
+  "out_price": 1.0,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -80823,7 +81121,7 @@
   "context": 524288,
   "expires": null,
   "id": "thinkingmachines/inkling",
-  "in_price": 1.0,
+  "in_price": 0.95,
   "name": "Thinking Machines: Inkling",
   "out_mods": [
    "text"
@@ -81171,7 +81469,7 @@
  },
  "openrouter:z-ai/glm-4.5": {
   "context": 131072,
-  "expires": null,
+  "expires": "2026-12-31",
   "id": "z-ai/glm-4.5",
   "in_price": 0.6,
   "name": "Z.ai: GLM 4.5",
@@ -81241,7 +81539,7 @@
  },
  "openrouter:z-ai/glm-4.7": {
   "context": 204800,
-  "expires": null,
+  "expires": "2026-12-31",
   "id": "z-ai/glm-4.7",
   "in_price": 0.6,
   "name": "Z.ai: GLM 4.7",
@@ -81327,12 +81625,12 @@
   "context": 1048576,
   "expires": null,
   "id": "z-ai/glm-5.3",
-  "in_price": 0.2219,
+  "in_price": 1.4,
   "name": "Z.ai: GLM 5.3",
   "out_mods": [
    "text"
   ],
-  "out_price": 3.39,
+  "out_price": 4.4,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -81341,12 +81639,12 @@
   "context": 1048576,
   "expires": null,
   "id": "z-ai/glm-5.3-flash",
-  "in_price": 0.15,
+  "in_price": 0.02625,
   "name": "Z.ai: GLM 5.3 Flash",
   "out_mods": [
    "text"
   ],
-  "out_price": 0.5,
+  "out_price": 0.9,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -81481,12 +81779,12 @@
   "context": 1048576,
   "expires": null,
   "id": "~deepseek/deepseek-flash-latest",
-  "in_price": 0.0255,
+  "in_price": 0.02,
   "name": "DeepSeek: DeepSeek Flash Latest",
   "out_mods": [
    "text"
   ],
-  "out_price": 0.6,
+  "out_price": 0.42,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -81495,12 +81793,12 @@
   "context": 1048576,
   "expires": null,
   "id": "~deepseek/deepseek-pro-latest",
-  "in_price": 0.1536,
+  "in_price": 0.132,
   "name": "DeepSeek: DeepSeek Pro Latest",
   "out_mods": [
    "text"
   ],
-  "out_price": 3.5,
+  "out_price": 0.396,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -81509,7 +81807,7 @@
   "context": 1048576,
   "expires": null,
   "id": "~deepseek/deepseek-v4-flash-latest",
-  "in_price": 0.0108,
+  "in_price": 0.0051,
   "name": "DeepSeek: DeepSeek V4 Flash Latest",
   "out_mods": [
    "text"
@@ -81551,12 +81849,12 @@
   "context": 1048576,
   "expires": null,
   "id": "~moonshotai/kimi-latest",
-  "in_price": 0.6635,
+  "in_price": 1.34,
   "name": "MoonshotAI: Kimi Latest",
   "out_mods": [
    "text"
   ],
-  "out_price": 10.0,
+  "out_price": 13.0,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -81649,12 +81947,12 @@
   "context": 1048576,
   "expires": null,
   "id": "~z-ai/glm-flash-latest",
-  "in_price": 0.02,
+  "in_price": 0.02625,
   "name": "Z.ai: GLM Flash Latest",
   "out_mods": [
    "text"
   ],
-  "out_price": 0.3,
+  "out_price": 0.9,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
@@ -81668,7 +81966,7 @@
   "out_mods": [
    "text"
   ],
-  "out_price": 1.14,
+  "out_price": 4.0,
   "out_text_only": true,
   "source": "openrouter",
   "tools": true
