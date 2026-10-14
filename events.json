@@ -1,5 +1,1305 @@
 [
  {
+  "date": "2026-10-15",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:google/gemini-2.5-flash",
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash",
+  "name": "Google: Gemini 2.5 Flash",
+  "detail": "retires in 5 days (2026-10-20)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:google/gemini-2.5-flash-lite",
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "name": "Google: Gemini 2.5 Flash Lite",
+  "detail": "retires in 5 days (2026-10-20)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:google/gemini-2.5-flash:batch",
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash:batch",
+  "name": "Google: Gemini 2.5 Flash (batch)",
+  "detail": "retires in 5 days (2026-10-20)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:google/gemini-2.5-pro",
+  "source": "openrouter",
+  "model": "google/gemini-2.5-pro",
+  "name": "Google: Gemini 2.5 Pro",
+  "detail": "retires in 5 days (2026-10-20)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:google/gemini-2.5-pro:batch",
+  "source": "openrouter",
+  "model": "google/gemini-2.5-pro:batch",
+  "name": "Google: Gemini 2.5 Pro (batch)",
+  "detail": "retires in 5 days (2026-10-20)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:poolside/laguna-s-2.1",
+  "source": "openrouter",
+  "model": "poolside/laguna-s-2.1",
+  "name": "Poolside: Laguna S 2.1",
+  "detail": "retires in 16 days (2026-10-31)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:poolside/laguna-s-2.1:free",
+  "source": "openrouter",
+  "model": "poolside/laguna-s-2.1:free",
+  "name": "Poolside: Laguna S 2.1 (free)",
+  "detail": "retires in 16 days (2026-10-31)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:poolside/laguna-xs-2.1",
+  "source": "openrouter",
+  "model": "poolside/laguna-xs-2.1",
+  "name": "Poolside: Laguna XS 2.1",
+  "detail": "retires in 16 days (2026-10-31)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:poolside/laguna-xs-2.1:free",
+  "source": "openrouter",
+  "model": "poolside/laguna-xs-2.1:free",
+  "name": "Poolside: Laguna XS 2.1 (free)",
+  "detail": "retires in 16 days (2026-10-31)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:qwen/qwen3.5-9b",
+  "source": "openrouter",
+  "model": "qwen/qwen3.5-9b",
+  "name": "Qwen: Qwen3.5-9B",
+  "detail": "retires in 6 days (2026-10-21)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:unbiased/pareto-26.10-preview",
+  "source": "openrouter",
+  "model": "unbiased/pareto-26.10-preview",
+  "name": "Pareto 26.10 Preview",
+  "detail": "retires in 0 days (2026-10-15)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:xiaomi/mimo-v2.5",
+  "source": "openrouter",
+  "model": "xiaomi/mimo-v2.5",
+  "name": "Xiaomi: MiMo-V2.5",
+  "detail": "retires in 6 days (2026-10-21)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:xiaomi/mimo-v2.5-pro",
+  "source": "openrouter",
+  "model": "xiaomi/mimo-v2.5-pro",
+  "name": "Xiaomi: MiMo-V2.5-Pro",
+  "detail": "retires in 6 days (2026-10-21)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "expiry_set",
+  "weight": 3,
+  "key": "openrouter:unbiased/pareto-26.10-preview",
+  "source": "openrouter",
+  "model": "unbiased/pareto-26.10-preview",
+  "name": "Pareto 26.10 Preview",
+  "detail": "retirement date announced: 2026-10-15"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "free_removed",
+  "weight": 3,
+  "key": "modelsdev:kilo/inclusionai/ling-3.1-flash",
+  "source": "models.dev",
+  "model": "kilo/inclusionai/ling-3.1-flash",
+  "name": "inclusionAI: Ling 3.1 Flash",
+  "detail": "was free, now $0.3/M in, $0.9/M out \u2014 running jobs on this model will start failing \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "free_removed",
+  "weight": 3,
+  "key": "modelsdev:openrouter/inclusionai/ling-3.1-flash",
+  "source": "models.dev",
+  "model": "openrouter/inclusionai/ling-3.1-flash",
+  "name": "Ling 3.1 Flash",
+  "detail": "was free, now $0.075/M in, $0.225/M out \u2014 running jobs on this model will start failing \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:kilo/inclusionai/ling-3.0-flash-fin",
+  "source": "models.dev",
+  "model": "kilo/inclusionai/ling-3.0-flash-fin",
+  "name": "inclusionAI: Ling 3.0 Flash Fin",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404 \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:kilo/inclusionai/ling-3.0-flash-sante",
+  "source": "models.dev",
+  "model": "kilo/inclusionai/ling-3.0-flash-sante",
+  "name": "inclusionAI: Ling 3.0 Flash Sante",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404 \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:kilo/unbiased/pareto",
+  "source": "models.dev",
+  "model": "kilo/unbiased/pareto",
+  "name": "Pareto",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404 \u2014 also on 3 other listings"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:llmgateway-providers/azure/gpt-4.1-nano",
+  "source": "models.dev",
+  "model": "llmgateway-providers/azure/gpt-4.1-nano",
+  "name": "GPT-4.1 Nano (Azure)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:llmgateway-providers/consensusprotocol/deepseek-v4-flash",
+  "source": "models.dev",
+  "model": "llmgateway-providers/consensusprotocol/deepseek-v4-flash",
+  "name": "DeepSeek V4 Flash (Consensus Protocol)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:llmgateway-providers/gonka24/deepseek-v4-flash",
+  "source": "models.dev",
+  "model": "llmgateway-providers/gonka24/deepseek-v4-flash",
+  "name": "DeepSeek V4 Flash (Gonka24)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:llmgateway-providers/gonka24/glm-5.3-flash",
+  "source": "models.dev",
+  "model": "llmgateway-providers/gonka24/glm-5.3-flash",
+  "name": "GLM-5.3 Flash (Gonka24)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:llmgateway-providers/reka-ai/deepseek-v4-flash",
+  "source": "models.dev",
+  "model": "llmgateway-providers/reka-ai/deepseek-v4-flash",
+  "name": "DeepSeek V4 Flash (reka-ai)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:llmgateway-providers/reka-ai/glm-5.3-flash",
+  "source": "models.dev",
+  "model": "llmgateway-providers/reka-ai/glm-5.3-flash",
+  "name": "GLM-5.3 Flash (reka-ai)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:llmgateway-providers/reka-ai/qwen3.8-27b",
+  "source": "models.dev",
+  "model": "llmgateway-providers/reka-ai/qwen3.8-27b",
+  "name": "Qwen3.8 27B (reka-ai)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:llmgateway-providers/scx-ai/gemma-4-31b-it",
+  "source": "models.dev",
+  "model": "llmgateway-providers/scx-ai/gemma-4-31b-it",
+  "name": "Gemma 4 31B IT (SCX.ai (Turbo))",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:llmgateway-providers/scx-ai/llama-4-maverick-17b-instruct",
+  "source": "models.dev",
+  "model": "llmgateway-providers/scx-ai/llama-4-maverick-17b-instruct",
+  "name": "Llama 4 Maverick 17B Instruct (SCX.ai (Turbo))",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:llmgateway-providers/xiaomi/mimo-v2.5",
+  "source": "models.dev",
+  "model": "llmgateway-providers/xiaomi/mimo-v2.5",
+  "name": "MiMo V2.5 (Xiaomi)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:llmgateway-providers/xiaomi/mimo-v2.5-pro",
+  "source": "models.dev",
+  "model": "llmgateway-providers/xiaomi/mimo-v2.5-pro",
+  "name": "MiMo V2.5 Pro (Xiaomi)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:openrouter/apodex/apodex-1.1-mini:free",
+  "source": "models.dev",
+  "model": "openrouter/apodex/apodex-1.1-mini:free",
+  "name": "Apodex 1.1 Mini (free)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404 \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:ovhcloud/mistral-7b-instruct-v0.3",
+  "source": "models.dev",
+  "model": "ovhcloud/mistral-7b-instruct-v0.3",
+  "name": "Mistral-7B-Instruct-v0.3",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:vercel/inclusionai/ling-3.1-flash-free",
+  "source": "models.dev",
+  "model": "vercel/inclusionai/ling-3.1-flash-free",
+  "name": "Ling 3.1 Flash (Free)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "context_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/inclusionai/ling-3.0-flash-vl",
+  "source": "models.dev",
+  "model": "kilo/inclusionai/ling-3.0-flash-vl",
+  "name": "inclusionAI: Ling 3.0 Flash VL",
+  "detail": "context 262,144 \u2192 131,072 tokens \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "context_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/qwen/qwen3.8-2.4t-a95b",
+  "source": "models.dev",
+  "model": "kilo/qwen/qwen3.8-2.4t-a95b",
+  "name": "Qwen3.8 2.4T A95B",
+  "detail": "context 1,048,576 \u2192 1,000,000 tokens"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:digitalocean/anthropic-claude-5.5-haiku",
+  "source": "models.dev",
+  "model": "digitalocean/anthropic-claude-5.5-haiku",
+  "name": "Anthropic Claude 5.5 Haiku",
+  "detail": "input $0.1/M \u2192 $0.5/M (+400%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:digitalocean/anthropic-claude-5.5-haiku",
+  "source": "models.dev",
+  "model": "digitalocean/anthropic-claude-5.5-haiku",
+  "name": "Anthropic Claude 5.5 Haiku",
+  "detail": "output $0.5/M \u2192 $2.5/M (+400%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/google/gemini-4-argon",
+  "source": "models.dev",
+  "model": "kilo/google/gemini-4-argon",
+  "name": "Gemini 4 Argon",
+  "detail": "input $4/M \u2192 $2/M (-50%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/google/gemini-4-argon",
+  "source": "models.dev",
+  "model": "kilo/google/gemini-4-argon",
+  "name": "Gemini 4 Argon",
+  "detail": "output $20/M \u2192 $10/M (-50%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/google/gemma-3-27b-it",
+  "source": "models.dev",
+  "model": "kilo/google/gemma-3-27b-it",
+  "name": "Gemma 3 27B IT",
+  "detail": "input $0.07/M \u2192 $0.08/M (+14%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/google/gemma-3-27b-it",
+  "source": "models.dev",
+  "model": "kilo/google/gemma-3-27b-it",
+  "name": "Gemma 3 27B IT",
+  "detail": "output $0.275/M \u2192 $0.16/M (-42%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/inclusionai/ling-3.0-flash-vl",
+  "source": "models.dev",
+  "model": "kilo/inclusionai/ling-3.0-flash-vl",
+  "name": "inclusionAI: Ling 3.0 Flash VL",
+  "detail": "input $0.075/M \u2192 $0.06/M (-20%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/inclusionai/ling-3.0-flash-vl",
+  "source": "models.dev",
+  "model": "kilo/inclusionai/ling-3.0-flash-vl",
+  "name": "inclusionAI: Ling 3.0 Flash VL",
+  "detail": "output $0.22/M \u2192 $0.18/M (-18%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/~deepseek/deepseek-flash-latest",
+  "source": "models.dev",
+  "model": "kilo/~deepseek/deepseek-flash-latest",
+  "name": "DeepSeek: DeepSeek Flash Latest",
+  "detail": "input $0.0441/M \u2192 $0.02016/M (-54%) \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/~deepseek/deepseek-flash-latest",
+  "source": "models.dev",
+  "model": "kilo/~deepseek/deepseek-flash-latest",
+  "name": "DeepSeek: DeepSeek Flash Latest",
+  "detail": "output $0.63/M \u2192 $0.891/M (+41%) \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/~deepseek/deepseek-pro-latest",
+  "source": "models.dev",
+  "model": "kilo/~deepseek/deepseek-pro-latest",
+  "name": "DeepSeek: DeepSeek Pro Latest",
+  "detail": "input $0.24948/M \u2192 $0.1307/M (-48%) \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/~deepseek/deepseek-pro-latest",
+  "source": "models.dev",
+  "model": "kilo/~deepseek/deepseek-pro-latest",
+  "name": "DeepSeek: DeepSeek Pro Latest",
+  "detail": "output $0.74844/M \u2192 $8/M (+969%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/~moonshotai/kimi-latest",
+  "source": "models.dev",
+  "model": "kilo/~moonshotai/kimi-latest",
+  "name": "MoonshotAI: Kimi Latest",
+  "detail": "input $0.73/M \u2192 $0.536/M (-27%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/~moonshotai/kimi-latest",
+  "source": "models.dev",
+  "model": "kilo/~moonshotai/kimi-latest",
+  "name": "MoonshotAI: Kimi Latest",
+  "detail": "output $10/M \u2192 $14/M (+40%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/~z-ai/glm-flash-latest",
+  "source": "models.dev",
+  "model": "kilo/~z-ai/glm-flash-latest",
+  "name": "Z.ai: GLM Flash Latest",
+  "detail": "input $0.0261/M \u2192 $0.036/M (+38%) \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/~z-ai/glm-latest",
+  "source": "models.dev",
+  "model": "kilo/~z-ai/glm-latest",
+  "name": "Z.ai: GLM Latest",
+  "detail": "input $0.055/M \u2192 $0.063/M (+15%) \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/~z-ai/glm-latest",
+  "source": "models.dev",
+  "model": "kilo/~z-ai/glm-latest",
+  "name": "Z.ai: GLM Latest",
+  "detail": "output $5/M \u2192 $4.4/M (-12%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/deepseek-v4-flash",
+  "source": "models.dev",
+  "model": "llmgateway/deepseek-v4-flash",
+  "name": "DeepSeek V4 Flash",
+  "detail": "input $0.065/M \u2192 $0.076/M (+17%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/deepseek-v4-flash",
+  "source": "models.dev",
+  "model": "llmgateway/deepseek-v4-flash",
+  "name": "DeepSeek V4 Flash",
+  "detail": "output $0.116/M \u2192 $0.153/M (+32%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/mimo-v2.6-flash",
+  "source": "models.dev",
+  "model": "llmgateway/mimo-v2.6-flash",
+  "name": "MiMo-V2.6-Flash",
+  "detail": "input $0.14/M \u2192 $0.12/M (-14%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/mimo-v2.6-flash",
+  "source": "models.dev",
+  "model": "llmgateway/mimo-v2.6-flash",
+  "name": "MiMo-V2.6-Flash",
+  "detail": "output $0.28/M \u2192 $0.25/M (-11%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/deepseek/deepseek-v4-pro",
+  "source": "models.dev",
+  "model": "openrouter/deepseek/deepseek-v4-pro",
+  "name": "DeepSeek V4 Pro",
+  "detail": "input $0.436044/M \u2192 $0.41238/M (-5%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/deepseek/deepseek-v4-pro",
+  "source": "models.dev",
+  "model": "openrouter/deepseek/deepseek-v4-pro",
+  "name": "DeepSeek V4 Pro",
+  "detail": "output $0.872088/M \u2192 $0.82476/M (-5%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/deepseek/deepseek-v4.1-flash",
+  "source": "models.dev",
+  "model": "openrouter/deepseek/deepseek-v4.1-flash",
+  "name": "DeepSeek V4.1 Flash",
+  "detail": "input $0.0441/M \u2192 $0.02016/M (-54%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/deepseek/deepseek-v4.1-flash",
+  "source": "models.dev",
+  "model": "openrouter/deepseek/deepseek-v4.1-flash",
+  "name": "DeepSeek V4.1 Flash",
+  "detail": "output $0.63/M \u2192 $0.891/M (+41%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/inclusionai/ling-3.0-flash-vl",
+  "source": "models.dev",
+  "model": "openrouter/inclusionai/ling-3.0-flash-vl",
+  "name": "Ling 3.0 Flash VL",
+  "detail": "input $0.021/M \u2192 $0.06/M (+186%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/inclusionai/ling-3.0-flash-vl",
+  "source": "models.dev",
+  "model": "openrouter/inclusionai/ling-3.0-flash-vl",
+  "name": "Ling 3.0 Flash VL",
+  "detail": "output $0.0616/M \u2192 $0.18/M (+192%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/minimax/minimax-m2",
+  "source": "models.dev",
+  "model": "openrouter/minimax/minimax-m2",
+  "name": "MiniMax-M2",
+  "detail": "input $0.3/M \u2192 $0.255/M (-15%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/minimax/minimax-m2",
+  "source": "models.dev",
+  "model": "openrouter/minimax/minimax-m2",
+  "name": "MiniMax-M2",
+  "detail": "output $1.2/M \u2192 $1.02/M (-15%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/moonshotai/kimi-k3",
+  "source": "models.dev",
+  "model": "openrouter/moonshotai/kimi-k3",
+  "name": "Kimi K3",
+  "detail": "input $0.73/M \u2192 $0.7/M (-4%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/moonshotai/kimi-k3",
+  "source": "models.dev",
+  "model": "openrouter/moonshotai/kimi-k3",
+  "name": "Kimi K3",
+  "detail": "output $10/M \u2192 $15/M (+50%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/openai/gpt-oss-120b",
+  "source": "models.dev",
+  "model": "openrouter/openai/gpt-oss-120b",
+  "name": "GPT OSS 120B",
+  "detail": "input $0.15/M \u2192 $0.037/M (-75%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/openai/gpt-oss-120b",
+  "source": "models.dev",
+  "model": "openrouter/openai/gpt-oss-120b",
+  "name": "GPT OSS 120B",
+  "detail": "output $0.6/M \u2192 $0.17/M (-72%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/qwen/qwen3.5-397b-a17b",
+  "source": "models.dev",
+  "model": "openrouter/qwen/qwen3.5-397b-a17b",
+  "name": "Qwen3.5 397B-A17B",
+  "detail": "input $0.55/M \u2192 $0.5/M (-9%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/qwen/qwen3.5-397b-a17b",
+  "source": "models.dev",
+  "model": "openrouter/qwen/qwen3.5-397b-a17b",
+  "name": "Qwen3.5 397B-A17B",
+  "detail": "output $3.5/M \u2192 $3.6/M (+3%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/z-ai/glm-5.1",
+  "source": "models.dev",
+  "model": "openrouter/z-ai/glm-5.1",
+  "name": "GLM-5.1",
+  "detail": "input $0.966/M \u2192 $1.33/M (+38%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/z-ai/glm-5.1",
+  "source": "models.dev",
+  "model": "openrouter/z-ai/glm-5.1",
+  "name": "GLM-5.1",
+  "detail": "output $3.036/M \u2192 $4.18/M (+38%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/z-ai/glm-5.2",
+  "source": "models.dev",
+  "model": "openrouter/z-ai/glm-5.2",
+  "name": "GLM-5.2",
+  "detail": "input $0.06/M \u2192 $0.05/M (-17%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/z-ai/glm-5.3-flash",
+  "source": "models.dev",
+  "model": "openrouter/z-ai/glm-5.3-flash",
+  "name": "GLM-5.3-Flash",
+  "detail": "input $0.0261/M \u2192 $0.036/M (+38%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:wandb/zai-org/GLM-5.2",
+  "source": "models.dev",
+  "model": "wandb/zai-org/GLM-5.2",
+  "name": "GLM 5.2",
+  "detail": "input $0.76/M \u2192 $0.62/M (-18%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:deepseek/deepseek-v4-pro",
+  "source": "openrouter",
+  "model": "deepseek/deepseek-v4-pro",
+  "name": "DeepSeek: DeepSeek V4 Pro 0423",
+  "detail": "input $0.436044/M \u2192 $0.40716/M (-7%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:deepseek/deepseek-v4-pro",
+  "source": "openrouter",
+  "model": "deepseek/deepseek-v4-pro",
+  "name": "DeepSeek: DeepSeek V4 Pro 0423",
+  "detail": "output $0.872088/M \u2192 $0.81432/M (-7%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:moonshotai/kimi-k3",
+  "source": "openrouter",
+  "model": "moonshotai/kimi-k3",
+  "name": "MoonshotAI: Kimi K3",
+  "detail": "input $0.73/M \u2192 $0.5/M (-32%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:moonshotai/kimi-k3",
+  "source": "openrouter",
+  "model": "moonshotai/kimi-k3",
+  "name": "MoonshotAI: Kimi K3",
+  "detail": "output $10.0/M \u2192 $15.0/M (+50%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:z-ai/glm-5.3-flash",
+  "source": "openrouter",
+  "model": "z-ai/glm-5.3-flash",
+  "name": "Z.ai: GLM 5.3 Flash",
+  "detail": "input $0.0261/M \u2192 $0.15/M (+475%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:z-ai/glm-5.3-flash",
+  "source": "openrouter",
+  "model": "z-ai/glm-5.3-flash",
+  "name": "Z.ai: GLM 5.3 Flash",
+  "detail": "output $0.9/M \u2192 $0.5/M (-44%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:~deepseek/deepseek-pro-latest",
+  "source": "openrouter",
+  "model": "~deepseek/deepseek-pro-latest",
+  "name": "DeepSeek: DeepSeek Pro Latest",
+  "detail": "output $0.74844/M \u2192 $8.0/M (+969%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:~moonshotai/kimi-latest",
+  "source": "openrouter",
+  "model": "~moonshotai/kimi-latest",
+  "name": "MoonshotAI: Kimi Latest",
+  "detail": "input $0.73/M \u2192 $0.4/M (-45%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:~moonshotai/kimi-latest",
+  "source": "openrouter",
+  "model": "~moonshotai/kimi-latest",
+  "name": "MoonshotAI: Kimi Latest",
+  "detail": "output $10.0/M \u2192 $14.0/M (+40%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:~z-ai/glm-latest",
+  "source": "openrouter",
+  "model": "~z-ai/glm-latest",
+  "name": "Z.ai: GLM Latest",
+  "detail": "output $5.0/M \u2192 $4.4/M (-12%)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:aihubmix/gemini-4-argon",
+  "source": "models.dev",
+  "model": "aihubmix/gemini-4-argon",
+  "name": "Gemini 4 Argon",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:ambient/ambient/small",
+  "source": "models.dev",
+  "model": "ambient/ambient/small",
+  "name": "Ambient Small",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:ambient/unsloth/qwen3.8-27b-gguf",
+  "source": "models.dev",
+  "model": "ambient/unsloth/qwen3.8-27b-gguf",
+  "name": "qwen3.8-27b-4q",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:crossmodel/gemini/gemini-4-argon",
+  "source": "models.dev",
+  "model": "crossmodel/gemini/gemini-4-argon",
+  "name": "Gemini 4 Argon",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:deepinfra/anthropic/claude-fable-5",
+  "source": "models.dev",
+  "model": "deepinfra/anthropic/claude-fable-5",
+  "name": "Claude Fable 5",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:edenai/google/gemini-4-argon",
+  "source": "models.dev",
+  "model": "edenai/google/gemini-4-argon",
+  "name": "Gemini 4 Argon",
+  "detail": "appeared in the catalog \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:edenai/tencent/deepseek-v4.1-flash",
+  "source": "models.dev",
+  "model": "edenai/tencent/deepseek-v4.1-flash",
+  "name": "DeepSeek V4.1 Flash (Tencent)",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:edenai/vertex/gemini-4-argon",
+  "source": "models.dev",
+  "model": "edenai/vertex/gemini-4-argon",
+  "name": "Gemini 4 Argon (Vertex AI)",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:edenai/vertex/gemini-4-argon@eu",
+  "source": "models.dev",
+  "model": "edenai/vertex/gemini-4-argon@eu",
+  "name": "Gemini 4 Argon (Vertex AI, EU)",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:edenai/vertex/gemini-4-argon@us",
+  "source": "models.dev",
+  "model": "edenai/vertex/gemini-4-argon@us",
+  "name": "Gemini 4 Argon (Vertex AI, US)",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:github-copilot/gemini-4-argon",
+  "source": "models.dev",
+  "model": "github-copilot/gemini-4-argon",
+  "name": "Gemini 4 Argon",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:kilo/liquid/lfm-2.5-24b-a2b",
+  "source": "models.dev",
+  "model": "kilo/liquid/lfm-2.5-24b-a2b",
+  "name": "LiquidAI: LFM2.5-24B-A2B",
+  "detail": "appeared in the catalog \u2014 also on 3 other listings"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:kilo/unbiased/pareto-26.9",
+  "source": "models.dev",
+  "model": "kilo/unbiased/pareto-26.9",
+  "name": "Pareto 26.9",
+  "detail": "appeared in the catalog \u2014 also on 3 other listings"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:kilo/~unbiased/pareto-latest",
+  "source": "models.dev",
+  "model": "kilo/~unbiased/pareto-latest",
+  "name": "Pareto Latest",
+  "detail": "appeared in the catalog \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:llmgateway-providers/consensusprotocol/mimo-v2.6-flash",
+  "source": "models.dev",
+  "model": "llmgateway-providers/consensusprotocol/mimo-v2.6-flash",
+  "name": "MiMo V2.6 Flash (Consensus Protocol)",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:llmgateway-providers/google-ai-studio/gemini-4-argon",
+  "source": "models.dev",
+  "model": "llmgateway-providers/google-ai-studio/gemini-4-argon",
+  "name": "Gemini 4 Argon (Google AI Studio)",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:neon/claude-haiku-5-5",
+  "source": "models.dev",
+  "model": "neon/claude-haiku-5-5",
+  "name": "Claude Haiku 5.5",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:neon/claude-sonnet-5-5",
+  "source": "models.dev",
+  "model": "neon/claude-sonnet-5-5",
+  "name": "Claude Sonnet 5.5",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:neon/deepseek-v4-1-flash",
+  "source": "models.dev",
+  "model": "neon/deepseek-v4-1-flash",
+  "name": "DeepSeek V4.1 Flash",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:neon/gemini-3-7-flash",
+  "source": "models.dev",
+  "model": "neon/gemini-3-7-flash",
+  "name": "Gemini 3.7 Flash",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:neon/gemini-3-8-flash",
+  "source": "models.dev",
+  "model": "neon/gemini-3-8-flash",
+  "name": "Gemini 3.8 Flash",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:neon/glm-5-3",
+  "source": "models.dev",
+  "model": "neon/glm-5-3",
+  "name": "GLM-5.3",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:neon/gpt-6-1-sol",
+  "source": "models.dev",
+  "model": "neon/gpt-6-1-sol",
+  "name": "GPT-6.1 Sol",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:neon/gpt-6-luna",
+  "source": "models.dev",
+  "model": "neon/gpt-6-luna",
+  "name": "GPT-6 Luna",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:neon/gpt-6-sol",
+  "source": "models.dev",
+  "model": "neon/gpt-6-sol",
+  "name": "GPT-6 Sol",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:neon/grok-4-7",
+  "source": "models.dev",
+  "model": "neon/grok-4-7",
+  "name": "Grok 4.7",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:novita-ai/stepfun/step-5-preview",
+  "source": "models.dev",
+  "model": "novita-ai/stepfun/step-5-preview",
+  "name": "Step 5 Preview",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:opencode-go/gemini-4-argon-contributor",
+  "source": "models.dev",
+  "model": "opencode-go/gemini-4-argon-contributor",
+  "name": "Gemini 4 Argon Contributor",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:opencode/gemini-4-argon",
+  "source": "models.dev",
+  "model": "opencode/gemini-4-argon",
+  "name": "Gemini 4 Argon",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:requesty/gemini-4-argon",
+  "source": "models.dev",
+  "model": "requesty/gemini-4-argon",
+  "name": "Gemini 4 Argon",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:requesty/gemini-4-argon@eu",
+  "source": "models.dev",
+  "model": "requesty/gemini-4-argon@eu",
+  "name": "Gemini 4 Argon (EU)",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:sambanova/DeepSeek-V3.1",
+  "source": "models.dev",
+  "model": "sambanova/DeepSeek-V3.1",
+  "name": "DeepSeek-V3.1",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:sambanova/DeepSeek-V3.2",
+  "source": "models.dev",
+  "model": "sambanova/DeepSeek-V3.2",
+  "name": "DeepSeek V3.2",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:sambanova/Meta-Llama-3.3-70B-Instruct",
+  "source": "models.dev",
+  "model": "sambanova/Meta-Llama-3.3-70B-Instruct",
+  "name": "Llama-3.3-70B-Instruct",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:sambanova/MiniMax-M3",
+  "source": "models.dev",
+  "model": "sambanova/MiniMax-M3",
+  "name": "MiniMax-M3",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:sambanova/gemma-4-31B-it",
+  "source": "models.dev",
+  "model": "sambanova/gemma-4-31B-it",
+  "name": "Gemma 4 31B IT",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:sambanova/gpt-oss-120b",
+  "source": "models.dev",
+  "model": "sambanova/gpt-oss-120b",
+  "name": "GPT OSS 120B",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:vercel/fish-audio/drama-3",
+  "source": "models.dev",
+  "model": "vercel/fish-audio/drama-3",
+  "name": "Drama 3",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:vercel/liquid/lfm2.5-24b-a2b",
+  "source": "models.dev",
+  "model": "vercel/liquid/lfm2.5-24b-a2b",
+  "name": "LFM2.5-24B-A2B",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:vercel/microsoft/mai-image-2.6",
+  "source": "models.dev",
+  "model": "vercel/microsoft/mai-image-2.6",
+  "name": "MAI-Image-2.6",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:vercel/microsoft/mai-image-2.6-flash",
+  "source": "models.dev",
+  "model": "vercel/microsoft/mai-image-2.6-flash",
+  "name": "MAI-Image-2.6-Flash",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:vercel/nvidia/nemotron-3.5-lightning-free",
+  "source": "models.dev",
+  "model": "vercel/nvidia/nemotron-3.5-lightning-free",
+  "name": "Nemotron 3.5 Lightning Free",
+  "detail": "appeared in the catalog (free)"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "added",
+  "weight": 1,
+  "key": "openrouter:google/gemini-4-argon:batch",
+  "source": "openrouter",
+  "model": "google/gemini-4-argon:batch",
+  "name": "Google: Gemini 4 Argon (batch)",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "context_change",
+  "weight": 1,
+  "key": "modelsdev:kilo/minimax/minimax-m2",
+  "source": "models.dev",
+  "model": "kilo/minimax/minimax-m2",
+  "name": "MiniMax-M2",
+  "detail": "context 196,608 \u2192 204,800 tokens"
+ },
+ {
+  "date": "2026-10-15",
+  "kind": "context_change",
+  "weight": 1,
+  "key": "modelsdev:kilo/z-ai/glm-5.1",
+  "source": "models.dev",
+  "model": "kilo/z-ai/glm-5.1",
+  "name": "GLM-5.1",
+  "detail": "context 200,000 \u2192 202,745 tokens"
+ },
+ {
   "date": "2026-10-14",
   "kind": "expiring_soon",
   "weight": 3,
@@ -2698,1305 +3998,5 @@
   "model": "edenai/greenpt/deepseek-v4.1-flash",
   "name": "DeepSeek V4.1 Flash (Greenpt)",
   "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:edenai/greenpt/gpt-oss-120b",
-  "source": "models.dev",
-  "model": "edenai/greenpt/gpt-oss-120b",
-  "name": "GPT OSS 120B (Greenpt)",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:edenai/greenpt/llama-3.3-70b-instruct",
-  "source": "models.dev",
-  "model": "edenai/greenpt/llama-3.3-70b-instruct",
-  "name": "Llama-3.3-70B-Instruct (Greenpt)",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:edenai/greenpt/qwen3-235b-a22b-instruct-2507",
-  "source": "models.dev",
-  "model": "edenai/greenpt/qwen3-235b-a22b-instruct-2507",
-  "name": "Qwen3 235B-A22B Instruct 2507 (Greenpt)",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:edenai/mistral/ministral-14b-2512",
-  "source": "models.dev",
-  "model": "edenai/mistral/ministral-14b-2512",
-  "name": "Ministral 3 14B 2512",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:edenai/mistral/ministral-3b-2512",
-  "source": "models.dev",
-  "model": "edenai/mistral/ministral-3b-2512",
-  "name": "Ministral 3 3B 2512",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:edenai/mistral/ministral-8b-2512",
-  "source": "models.dev",
-  "model": "edenai/mistral/ministral-8b-2512",
-  "name": "Ministral 3 8B 2512",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:edenai/mistral/mistral-large-2407",
-  "source": "models.dev",
-  "model": "edenai/mistral/mistral-large-2407",
-  "name": "Mistral Large 2407",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:edenai/mistral/mistral-medium-3",
-  "source": "models.dev",
-  "model": "edenai/mistral/mistral-medium-3",
-  "name": "Mistral Medium 3",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:edenai/mistral/mistral-medium-3-5",
-  "source": "models.dev",
-  "model": "edenai/mistral/mistral-medium-3-5",
-  "name": "Mistral Medium 3.5",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:edenai/xai/grok-4-fast-non-reasoning",
-  "source": "models.dev",
-  "model": "edenai/xai/grok-4-fast-non-reasoning",
-  "name": "X-Ai/Grok-4-Fast-Non-Reasoning",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:empiriolabs/fugu-max",
-  "source": "models.dev",
-  "model": "empiriolabs/fugu-max",
-  "name": "Fugu Max",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:google-vertex/gemini-4-argon",
-  "source": "models.dev",
-  "model": "google-vertex/gemini-4-argon",
-  "name": "Gemini 4 Argon",
-  "detail": "appeared in the catalog \u2014 also on 1 other listing"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:google/gemini-4-argon",
-  "source": "models.dev",
-  "model": "google/gemini-4-argon",
-  "name": "Gemini 4 Argon",
-  "detail": "appeared in the catalog \u2014 also on 5 other listings"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:kilo/meta/muse-wonder",
-  "source": "models.dev",
-  "model": "kilo/meta/muse-wonder",
-  "name": "Meta: Muse Wonder",
-  "detail": "appeared in the catalog \u2014 also on 2 other listings"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:kilo/scaledown/extract",
-  "source": "models.dev",
-  "model": "kilo/scaledown/extract",
-  "name": "ScaleDown: Extract",
-  "detail": "appeared in the catalog \u2014 also on 2 other listings"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:kilo/scaledown/summarize",
-  "source": "models.dev",
-  "model": "kilo/scaledown/summarize",
-  "name": "ScaleDown: Summarize",
-  "detail": "appeared in the catalog \u2014 also on 2 other listings"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:llmgateway/gemini-4-argon",
-  "source": "models.dev",
-  "model": "llmgateway/gemini-4-argon",
-  "name": "Gemini 4 Argon",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:llmgateway/muse-wonder-1.0",
-  "source": "models.dev",
-  "model": "llmgateway/muse-wonder-1.0",
-  "name": "Muse Wonder",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:merge-gateway/qwen/qwen3-max-preview",
-  "source": "models.dev",
-  "model": "merge-gateway/qwen/qwen3-max-preview",
-  "name": "Qwen3 Max Preview",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:merge-gateway/qwen/qwen3-vl-flash",
-  "source": "models.dev",
-  "model": "merge-gateway/qwen/qwen3-vl-flash",
-  "name": "Qwen3-VL Flash",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:nano-gpt/ateron/gemma-4-dark-thoughts-v2-31b",
-  "source": "models.dev",
-  "model": "nano-gpt/ateron/gemma-4-dark-thoughts-v2-31b",
-  "name": "Gemma 4 Dark Thoughts V2 31B",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:nano-gpt/deepseek/deepseek-v4-flash-vision-exp-cybersecurity",
-  "source": "models.dev",
-  "model": "nano-gpt/deepseek/deepseek-v4-flash-vision-exp-cybersecurity",
-  "name": "DeepSeek V4 Flash Vision Exp Cybersecurity",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:nano-gpt/nbeerbower/gemma4-gutenberg-31b",
-  "source": "models.dev",
-  "model": "nano-gpt/nbeerbower/gemma4-gutenberg-31b",
-  "name": "Gemma 4 Gutenberg 31B",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:nano-gpt/nimbz/gemma-4-giftige-blume-31b-v2",
-  "source": "models.dev",
-  "model": "nano-gpt/nimbz/gemma-4-giftige-blume-31b-v2",
-  "name": "Gemma 4 Giftige-Blume V2 31B",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:nano-gpt/nimbz/schattenblume-31b",
-  "source": "models.dev",
-  "model": "nano-gpt/nimbz/schattenblume-31b",
-  "name": "Schattenblume 31B",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:opencode-go/cat-jam-free",
-  "source": "models.dev",
-  "model": "opencode-go/cat-jam-free",
-  "name": "Cat Jam Free",
-  "detail": "appeared in the catalog (free)"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:opencode/cat-jam-free",
-  "source": "models.dev",
-  "model": "opencode/cat-jam-free",
-  "name": "Cat Jam Free",
-  "detail": "appeared in the catalog (free)"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/anthropic/claude-opus-4.6",
-  "source": "models.dev",
-  "model": "prime/anthropic/claude-opus-4.6",
-  "name": "Claude Opus 4.6",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/deepseek/deepseek-v4-flash-0731",
-  "source": "models.dev",
-  "model": "prime/deepseek/deepseek-v4-flash-0731",
-  "name": "DeepSeek V4 Flash 0731",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/google/gemini-3-flash-preview",
-  "source": "models.dev",
-  "model": "prime/google/gemini-3-flash-preview",
-  "name": "Gemini 3 Flash Preview",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/google/gemini-3.5-flash",
-  "source": "models.dev",
-  "model": "prime/google/gemini-3.5-flash",
-  "name": "Gemini 3.5 Flash",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/meta-llama/llama-3.3-70b-instruct",
-  "source": "models.dev",
-  "model": "prime/meta-llama/llama-3.3-70b-instruct",
-  "name": "Llama 3.3 70B Instruct",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/mistralai/mistral-large-2512",
-  "source": "models.dev",
-  "model": "prime/mistralai/mistral-large-2512",
-  "name": "Mistral Large 3 2512",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/moonshotai/kimi-k3",
-  "source": "models.dev",
-  "model": "prime/moonshotai/kimi-k3",
-  "name": "Kimi K3",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/openai/gpt-5.1",
-  "source": "models.dev",
-  "model": "prime/openai/gpt-5.1",
-  "name": "GPT-5.1",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/openai/gpt-5.2",
-  "source": "models.dev",
-  "model": "prime/openai/gpt-5.2",
-  "name": "GPT-5.2",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/openai/gpt-5.4",
-  "source": "models.dev",
-  "model": "prime/openai/gpt-5.4",
-  "name": "GPT-5.4",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/openai/gpt-5.5",
-  "source": "models.dev",
-  "model": "prime/openai/gpt-5.5",
-  "name": "GPT-5.5",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/qwen/qwen3-coder-next",
-  "source": "models.dev",
-  "model": "prime/qwen/qwen3-coder-next",
-  "name": "Qwen3 Coder Next",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/qwen/qwen3-vl-235b-a22b-instruct",
-  "source": "models.dev",
-  "model": "prime/qwen/qwen3-vl-235b-a22b-instruct",
-  "name": "Qwen3 VL 235B A22B Instruct",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/qwen/qwen3-vl-30b-a3b-instruct",
-  "source": "models.dev",
-  "model": "prime/qwen/qwen3-vl-30b-a3b-instruct",
-  "name": "Qwen3 VL 30B A3B Instruct",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/x-ai/grok-4.6",
-  "source": "models.dev",
-  "model": "prime/x-ai/grok-4.6",
-  "name": "Grok 4.6",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/x-ai/grok-4.7",
-  "source": "models.dev",
-  "model": "prime/x-ai/grok-4.7",
-  "name": "Grok 4.7",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/z-ai/glm-5.2",
-  "source": "models.dev",
-  "model": "prime/z-ai/glm-5.2",
-  "name": "GLM 5.2",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:prime/z-ai/glm-5.3",
-  "source": "models.dev",
-  "model": "prime/z-ai/glm-5.3",
-  "name": "GLM 5.3",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:requesty/muse-spark-1.3",
-  "source": "models.dev",
-  "model": "requesty/muse-spark-1.3",
-  "name": "Muse Spark 1.3",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:requesty/muse-wonder-1.0",
-  "source": "models.dev",
-  "model": "requesty/muse-wonder-1.0",
-  "name": "Muse Wonder",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "added",
-  "weight": 1,
-  "key": "modelsdev:vercel/deepseek/deepseek-v4.1-flash-fast",
-  "source": "models.dev",
-  "model": "vercel/deepseek/deepseek-v4.1-flash-fast",
-  "name": "DeepSeek V4.1 Flash Fast",
-  "detail": "appeared in the catalog"
- },
- {
-  "date": "2026-10-14",
-  "kind": "context_change",
-  "weight": 1,
-  "key": "modelsdev:kilo/minimax/minimax-m2.7",
-  "source": "models.dev",
-  "model": "kilo/minimax/minimax-m2.7",
-  "name": "MiniMax-M2.7",
-  "detail": "context 196,608 \u2192 204,800 tokens"
- },
- {
-  "date": "2026-10-14",
-  "kind": "context_change",
-  "weight": 1,
-  "key": "modelsdev:nano-gpt/TheDrummer/Cydonia-24B-v4.3",
-  "source": "models.dev",
-  "model": "nano-gpt/TheDrummer/Cydonia-24B-v4.3",
-  "name": "The Drummer Cydonia 24B v4.3",
-  "detail": "context 32,768 \u2192 131,072 tokens"
- },
- {
-  "date": "2026-10-13",
-  "kind": "expiring_soon",
-  "weight": 3,
-  "key": "openrouter:google/gemini-2.5-flash",
-  "source": "openrouter",
-  "model": "google/gemini-2.5-flash",
-  "name": "Google: Gemini 2.5 Flash",
-  "detail": "retires in 7 days (2026-10-20)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "expiring_soon",
-  "weight": 3,
-  "key": "openrouter:google/gemini-2.5-flash-lite",
-  "source": "openrouter",
-  "model": "google/gemini-2.5-flash-lite",
-  "name": "Google: Gemini 2.5 Flash Lite",
-  "detail": "retires in 7 days (2026-10-20)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "expiring_soon",
-  "weight": 3,
-  "key": "openrouter:google/gemini-2.5-flash:batch",
-  "source": "openrouter",
-  "model": "google/gemini-2.5-flash:batch",
-  "name": "Google: Gemini 2.5 Flash (batch)",
-  "detail": "retires in 7 days (2026-10-20)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "expiring_soon",
-  "weight": 3,
-  "key": "openrouter:google/gemini-2.5-pro",
-  "source": "openrouter",
-  "model": "google/gemini-2.5-pro",
-  "name": "Google: Gemini 2.5 Pro",
-  "detail": "retires in 7 days (2026-10-20)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "expiring_soon",
-  "weight": 3,
-  "key": "openrouter:google/gemini-2.5-pro:batch",
-  "source": "openrouter",
-  "model": "google/gemini-2.5-pro:batch",
-  "name": "Google: Gemini 2.5 Pro (batch)",
-  "detail": "retires in 7 days (2026-10-20)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "expiring_soon",
-  "weight": 3,
-  "key": "openrouter:poolside/laguna-s-2.1",
-  "source": "openrouter",
-  "model": "poolside/laguna-s-2.1",
-  "name": "Poolside: Laguna S 2.1",
-  "detail": "retires in 18 days (2026-10-31)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "expiring_soon",
-  "weight": 3,
-  "key": "openrouter:poolside/laguna-s-2.1:free",
-  "source": "openrouter",
-  "model": "poolside/laguna-s-2.1:free",
-  "name": "Poolside: Laguna S 2.1 (free)",
-  "detail": "retires in 18 days (2026-10-31)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "expiring_soon",
-  "weight": 3,
-  "key": "openrouter:poolside/laguna-xs-2.1",
-  "source": "openrouter",
-  "model": "poolside/laguna-xs-2.1",
-  "name": "Poolside: Laguna XS 2.1",
-  "detail": "retires in 18 days (2026-10-31)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "expiring_soon",
-  "weight": 3,
-  "key": "openrouter:poolside/laguna-xs-2.1:free",
-  "source": "openrouter",
-  "model": "poolside/laguna-xs-2.1:free",
-  "name": "Poolside: Laguna XS 2.1 (free)",
-  "detail": "retires in 18 days (2026-10-31)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "expiring_soon",
-  "weight": 3,
-  "key": "openrouter:qwen/qwen3.5-9b",
-  "source": "openrouter",
-  "model": "qwen/qwen3.5-9b",
-  "name": "Qwen: Qwen3.5-9B",
-  "detail": "retires in 8 days (2026-10-21)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "expiring_soon",
-  "weight": 3,
-  "key": "openrouter:xiaomi/mimo-v2.5",
-  "source": "openrouter",
-  "model": "xiaomi/mimo-v2.5",
-  "name": "Xiaomi: MiMo-V2.5",
-  "detail": "retires in 8 days (2026-10-21)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "expiring_soon",
-  "weight": 3,
-  "key": "openrouter:xiaomi/mimo-v2.5-pro",
-  "source": "openrouter",
-  "model": "xiaomi/mimo-v2.5-pro",
-  "name": "Xiaomi: MiMo-V2.5-Pro",
-  "detail": "retires in 8 days (2026-10-21)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "removed",
-  "weight": 3,
-  "key": "modelsdev:cloudferro-sherlock/speakleash/Bielik-11B-v2.6-Instruct",
-  "source": "models.dev",
-  "model": "cloudferro-sherlock/speakleash/Bielik-11B-v2.6-Instruct",
-  "name": "Bielik 11B v2.6 Instruct",
-  "detail": "dropped out of the catalog \u2014 calls to it will 404"
- },
- {
-  "date": "2026-10-13",
-  "kind": "removed",
-  "weight": 3,
-  "key": "modelsdev:llmgateway-providers/deepinfra/qwen3.8-2.4t-a95b",
-  "source": "models.dev",
-  "model": "llmgateway-providers/deepinfra/qwen3.8-2.4t-a95b",
-  "name": "Qwen3.8 2.4T A95B (DeepInfra)",
-  "detail": "dropped out of the catalog \u2014 calls to it will 404"
- },
- {
-  "date": "2026-10-13",
-  "kind": "removed",
-  "weight": 3,
-  "key": "modelsdev:nano-gpt/qwen/qwen3-coder-plus",
-  "source": "models.dev",
-  "model": "nano-gpt/qwen/qwen3-coder-plus",
-  "name": "Qwen3 Coder Plus",
-  "detail": "dropped out of the catalog \u2014 calls to it will 404"
- },
- {
-  "date": "2026-10-13",
-  "kind": "removed",
-  "weight": 3,
-  "key": "modelsdev:vercel/alibaba/qwen-3.6-max-preview",
-  "source": "models.dev",
-  "model": "vercel/alibaba/qwen-3.6-max-preview",
-  "name": "Qwen 3.6 Max Preview",
-  "detail": "dropped out of the catalog \u2014 calls to it will 404"
- },
- {
-  "date": "2026-10-13",
-  "kind": "removed",
-  "weight": 3,
-  "key": "modelsdev:vercel/alibaba/qwen3-235b-a22b-thinking",
-  "source": "models.dev",
-  "model": "vercel/alibaba/qwen3-235b-a22b-thinking",
-  "name": "Qwen3 235B A22B Thinking 2507",
-  "detail": "dropped out of the catalog \u2014 calls to it will 404"
- },
- {
-  "date": "2026-10-13",
-  "kind": "removed",
-  "weight": 3,
-  "key": "modelsdev:vercel/alibaba/qwen3-coder-plus",
-  "source": "models.dev",
-  "model": "vercel/alibaba/qwen3-coder-plus",
-  "name": "Qwen3 Coder Plus",
-  "detail": "dropped out of the catalog \u2014 calls to it will 404"
- },
- {
-  "date": "2026-10-13",
-  "kind": "removed",
-  "weight": 3,
-  "key": "modelsdev:vercel/alibaba/qwen3-max",
-  "source": "models.dev",
-  "model": "vercel/alibaba/qwen3-max",
-  "name": "Qwen3 Max",
-  "detail": "dropped out of the catalog \u2014 calls to it will 404"
- },
- {
-  "date": "2026-10-13",
-  "kind": "removed",
-  "weight": 3,
-  "key": "modelsdev:vercel/alibaba/qwen3-max-preview",
-  "source": "models.dev",
-  "model": "vercel/alibaba/qwen3-max-preview",
-  "name": "Qwen3 Max Preview",
-  "detail": "dropped out of the catalog \u2014 calls to it will 404"
- },
- {
-  "date": "2026-10-13",
-  "kind": "removed",
-  "weight": 3,
-  "key": "modelsdev:vercel/alibaba/qwen3-vl-235b-a22b-instruct",
-  "source": "models.dev",
-  "model": "vercel/alibaba/qwen3-vl-235b-a22b-instruct",
-  "name": "Qwen3 VL 235B A22B Instruct",
-  "detail": "dropped out of the catalog \u2014 calls to it will 404"
- },
- {
-  "date": "2026-10-13",
-  "kind": "removed",
-  "weight": 3,
-  "key": "modelsdev:vercel/alibaba/qwen3-vl-thinking",
-  "source": "models.dev",
-  "model": "vercel/alibaba/qwen3-vl-thinking",
-  "name": "Qwen3 VL Thinking",
-  "detail": "dropped out of the catalog \u2014 calls to it will 404"
- },
- {
-  "date": "2026-10-13",
-  "kind": "context_change",
-  "weight": 2,
-  "key": "modelsdev:kilo/meta-llama/llama-4-scout",
-  "source": "models.dev",
-  "model": "kilo/meta-llama/llama-4-scout",
-  "name": "Meta: Llama 4 Scout",
-  "detail": "context 327,680 \u2192 131,072 tokens"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:chutes/Qwen/Qwen3.6-27B-TEE",
-  "source": "models.dev",
-  "model": "chutes/Qwen/Qwen3.6-27B-TEE",
-  "name": "Qwen3.6 27B TEE",
-  "detail": "input $0.3/M \u2192 $0.25/M (-17%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:chutes/Qwen/Qwen3.8-27B-TEE",
-  "source": "models.dev",
-  "model": "chutes/Qwen/Qwen3.8-27B-TEE",
-  "name": "Qwen3.8 27B TEE",
-  "detail": "input $0.24/M \u2192 $0.039/M (-84%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:chutes/Qwen/Qwen3.8-27B-TEE",
-  "source": "models.dev",
-  "model": "chutes/Qwen/Qwen3.8-27B-TEE",
-  "name": "Qwen3.8 27B TEE",
-  "detail": "output $2.2/M \u2192 $1.25/M (-43%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:chutes/moonshotai/Kimi-K2.6-TEE",
-  "source": "models.dev",
-  "model": "chutes/moonshotai/Kimi-K2.6-TEE",
-  "name": "Kimi K2.6 TEE",
-  "detail": "input $0.5/M \u2192 $0.45/M (-10%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:chutes/moonshotai/Kimi-K2.6-TEE",
-  "source": "models.dev",
-  "model": "chutes/moonshotai/Kimi-K2.6-TEE",
-  "name": "Kimi K2.6 TEE",
-  "detail": "output $2.85/M \u2192 $1.95/M (-32%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:chutes/moonshotai/Kimi-K3-TEE",
-  "source": "models.dev",
-  "model": "chutes/moonshotai/Kimi-K3-TEE",
-  "name": "Kimi K3 TEE",
-  "detail": "input $3/M \u2192 $1.85/M (-38%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:chutes/moonshotai/Kimi-K3-TEE",
-  "source": "models.dev",
-  "model": "chutes/moonshotai/Kimi-K3-TEE",
-  "name": "Kimi K3 TEE",
-  "detail": "output $15/M \u2192 $9.5/M (-37%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:kilo/~deepseek/deepseek-flash-latest",
-  "source": "models.dev",
-  "model": "kilo/~deepseek/deepseek-flash-latest",
-  "name": "DeepSeek: DeepSeek Flash Latest",
-  "detail": "input $0.0348/M \u2192 $0.0333/M (-4%) \u2014 also on 1 other listing"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:kilo/~deepseek/deepseek-flash-latest",
-  "source": "models.dev",
-  "model": "kilo/~deepseek/deepseek-flash-latest",
-  "name": "DeepSeek: DeepSeek Flash Latest",
-  "detail": "output $0.1392/M \u2192 $0.1332/M (-4%) \u2014 also on 1 other listing"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:kilo/~deepseek/deepseek-pro-latest",
-  "source": "models.dev",
-  "model": "kilo/~deepseek/deepseek-pro-latest",
-  "name": "DeepSeek: DeepSeek Pro Latest",
-  "detail": "input $0.21912/M \u2192 $0.24948/M (+14%) \u2014 also on 2 other listings"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:kilo/~deepseek/deepseek-pro-latest",
-  "source": "models.dev",
-  "model": "kilo/~deepseek/deepseek-pro-latest",
-  "name": "DeepSeek: DeepSeek Pro Latest",
-  "detail": "output $0.65736/M \u2192 $0.74844/M (+14%) \u2014 also on 2 other listings"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:kilo/~deepseek/deepseek-v4-flash-latest",
-  "source": "models.dev",
-  "model": "kilo/~deepseek/deepseek-v4-flash-latest",
-  "name": "DeepSeek: DeepSeek V4 Flash Latest",
-  "detail": "input $0.018/M \u2192 $0.0128/M (-29%) \u2014 also on 2 other listings"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:kilo/~deepseek/deepseek-v4-flash-latest",
-  "source": "models.dev",
-  "model": "kilo/~deepseek/deepseek-v4-flash-latest",
-  "name": "DeepSeek: DeepSeek V4 Flash Latest",
-  "detail": "output $0.64/M \u2192 $0.768/M (+20%) \u2014 also on 2 other listings"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:kilo/~moonshotai/kimi-latest",
-  "source": "models.dev",
-  "model": "kilo/~moonshotai/kimi-latest",
-  "name": "MoonshotAI: Kimi Latest",
-  "detail": "input $0.75/M \u2192 $0.73/M (-3%) \u2014 also on 2 other listings"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:kilo/~moonshotai/kimi-latest",
-  "source": "models.dev",
-  "model": "kilo/~moonshotai/kimi-latest",
-  "name": "MoonshotAI: Kimi Latest",
-  "detail": "output $14.9/M \u2192 $10/M (-33%) \u2014 also on 1 other listing"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:kilo/~z-ai/glm-flash-latest",
-  "source": "models.dev",
-  "model": "kilo/~z-ai/glm-flash-latest",
-  "name": "Z.ai: GLM Flash Latest",
-  "detail": "input $0.04/M \u2192 $0.0232/M (-42%) \u2014 also on 2 other listings"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:kilo/~z-ai/glm-flash-latest",
-  "source": "models.dev",
-  "model": "kilo/~z-ai/glm-flash-latest",
-  "name": "Z.ai: GLM Flash Latest",
-  "detail": "output $0.5/M \u2192 $1.2/M (+140%) \u2014 also on 2 other listings"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:kilo/~z-ai/glm-latest",
-  "source": "models.dev",
-  "model": "kilo/~z-ai/glm-latest",
-  "name": "Z.ai: GLM Latest",
-  "detail": "input $0.07/M \u2192 $0.055/M (-21%) \u2014 also on 2 other listings"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:kilo/~z-ai/glm-latest",
-  "source": "models.dev",
-  "model": "kilo/~z-ai/glm-latest",
-  "name": "Z.ai: GLM Latest",
-  "detail": "output $4.8/M \u2192 $5/M (+4%) \u2014 also on 1 other listing"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/TEE/glm-5.1",
-  "source": "models.dev",
-  "model": "nano-gpt/TEE/glm-5.1",
-  "name": "GLM 5.1 TEE",
-  "detail": "input $1.5/M \u2192 $0.7/M (-53%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/TEE/glm-5.1",
-  "source": "models.dev",
-  "model": "nano-gpt/TEE/glm-5.1",
-  "name": "GLM 5.1 TEE",
-  "detail": "output $5.25/M \u2192 $2.5/M (-52%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/TEE/glm-5.1-thinking",
-  "source": "models.dev",
-  "model": "nano-gpt/TEE/glm-5.1-thinking",
-  "name": "GLM 5.1 Thinking TEE",
-  "detail": "input $1.5/M \u2192 $0.7/M (-53%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/TEE/glm-5.1-thinking",
-  "source": "models.dev",
-  "model": "nano-gpt/TEE/glm-5.1-thinking",
-  "name": "GLM 5.1 Thinking TEE",
-  "detail": "output $5.25/M \u2192 $2.5/M (-52%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/claw-high",
-  "source": "models.dev",
-  "model": "nano-gpt/claw-high",
-  "name": "Claw High",
-  "detail": "output $1.1/M \u2192 $0.6248/M (-43%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/claw-low",
-  "source": "models.dev",
-  "model": "nano-gpt/claw-low",
-  "name": "Claw Low",
-  "detail": "output $1.1/M \u2192 $0.6248/M (-43%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/claw-medium",
-  "source": "models.dev",
-  "model": "nano-gpt/claw-medium",
-  "name": "Claw Medium",
-  "detail": "output $1.1/M \u2192 $0.6248/M (-43%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/hermes-high",
-  "source": "models.dev",
-  "model": "nano-gpt/hermes-high",
-  "name": "Hermes High",
-  "detail": "output $1.1/M \u2192 $0.6248/M (-43%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/hermes-low",
-  "source": "models.dev",
-  "model": "nano-gpt/hermes-low",
-  "name": "Hermes Low",
-  "detail": "output $1.1/M \u2192 $0.6248/M (-43%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/hermes-medium",
-  "source": "models.dev",
-  "model": "nano-gpt/hermes-medium",
-  "name": "Hermes Medium",
-  "detail": "output $1.1/M \u2192 $0.6248/M (-43%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/meta-llama/llama-4-maverick",
-  "source": "models.dev",
-  "model": "nano-gpt/meta-llama/llama-4-maverick",
-  "name": "Llama 4 Maverick",
-  "detail": "input $0.15/M \u2192 $0.1875/M (+25%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/meta-llama/llama-4-maverick",
-  "source": "models.dev",
-  "model": "nano-gpt/meta-llama/llama-4-maverick",
-  "name": "Llama 4 Maverick",
-  "detail": "output $0.6/M \u2192 $0.6525/M (+9%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/moonshotai/kimi-k2.5",
-  "source": "models.dev",
-  "model": "nano-gpt/moonshotai/kimi-k2.5",
-  "name": "Kimi K2.5",
-  "detail": "input $0.3/M \u2192 $0.375/M (+25%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/moonshotai/kimi-k2.5",
-  "source": "models.dev",
-  "model": "nano-gpt/moonshotai/kimi-k2.5",
-  "name": "Kimi K2.5",
-  "detail": "output $1.9/M \u2192 $2/M (+5%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/moonshotai/kimi-k2.5:thinking",
-  "source": "models.dev",
-  "model": "nano-gpt/moonshotai/kimi-k2.5:thinking",
-  "name": "Kimi K2.5 Thinking",
-  "detail": "input $0.3/M \u2192 $0.375/M (+25%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/moonshotai/kimi-k2.5:thinking",
-  "source": "models.dev",
-  "model": "nano-gpt/moonshotai/kimi-k2.5:thinking",
-  "name": "Kimi K2.5 Thinking",
-  "detail": "output $1.9/M \u2192 $2/M (+5%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/moonshotai/kimi-k2.7-code",
-  "source": "models.dev",
-  "model": "nano-gpt/moonshotai/kimi-k2.7-code",
-  "name": "Kimi K2.7 Code",
-  "detail": "input $0.95/M \u2192 $0.6712/M (-29%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/moonshotai/kimi-k2.7-code",
-  "source": "models.dev",
-  "model": "nano-gpt/moonshotai/kimi-k2.7-code",
-  "name": "Kimi K2.7 Code",
-  "detail": "output $4/M \u2192 $3.35/M (-16%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/qwen/qwen3-next-80b-a3b-instruct",
-  "source": "models.dev",
-  "model": "nano-gpt/qwen/qwen3-next-80b-a3b-instruct",
-  "name": "Qwen3 Next 80B A3B (Instruct)",
-  "detail": "input $0.15/M \u2192 $0.09/M (-40%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/qwen/qwen3-next-80b-a3b-instruct",
-  "source": "models.dev",
-  "model": "nano-gpt/qwen/qwen3-next-80b-a3b-instruct",
-  "name": "Qwen3 Next 80B A3B (Instruct)",
-  "detail": "output $0.65/M \u2192 $1.1/M (+69%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/qwen/qwen3.8-27b-uncensored",
-  "source": "models.dev",
-  "model": "nano-gpt/qwen/qwen3.8-27b-uncensored",
-  "name": "Qwen 3.8 27B Uncensored",
-  "detail": "input $0.75/M \u2192 $1/M (+33%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/qwen/qwen3.8-27b-uncensored",
-  "source": "models.dev",
-  "model": "nano-gpt/qwen/qwen3.8-27b-uncensored",
-  "name": "Qwen 3.8 27B Uncensored",
-  "detail": "output $2.5/M \u2192 $3/M (+20%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/qwen/qwen3.8-27b-uncensored:thinking",
-  "source": "models.dev",
-  "model": "nano-gpt/qwen/qwen3.8-27b-uncensored:thinking",
-  "name": "Qwen 3.8 27B Uncensored Thinking",
-  "detail": "input $0.75/M \u2192 $1/M (+33%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/qwen/qwen3.8-27b-uncensored:thinking",
-  "source": "models.dev",
-  "model": "nano-gpt/qwen/qwen3.8-27b-uncensored:thinking",
-  "name": "Qwen 3.8 27B Uncensored Thinking",
-  "detail": "output $2.5/M \u2192 $3/M (+20%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/x-ai/grok-4.7",
-  "source": "models.dev",
-  "model": "nano-gpt/x-ai/grok-4.7",
-  "name": "Grok 4.7",
-  "detail": "input $1.6/M \u2192 $2/M (+25%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/x-ai/grok-4.7",
-  "source": "models.dev",
-  "model": "nano-gpt/x-ai/grok-4.7",
-  "name": "Grok 4.7",
-  "detail": "output $4.8/M \u2192 $6/M (+25%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/x-ai/grok-latest",
-  "source": "models.dev",
-  "model": "nano-gpt/x-ai/grok-latest",
-  "name": "Grok Latest",
-  "detail": "input $1.6/M \u2192 $2/M (+25%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/x-ai/grok-latest",
-  "source": "models.dev",
-  "model": "nano-gpt/x-ai/grok-latest",
-  "name": "Grok Latest",
-  "detail": "output $4.8/M \u2192 $6/M (+25%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/z-ai/glm-4.6",
-  "source": "models.dev",
-  "model": "nano-gpt/z-ai/glm-4.6",
-  "name": "GLM 4.6",
-  "detail": "input $0.35/M \u2192 $0.5/M (+43%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/z-ai/glm-4.6",
-  "source": "models.dev",
-  "model": "nano-gpt/z-ai/glm-4.6",
-  "name": "GLM 4.6",
-  "detail": "output $1.4/M \u2192 $2/M (+43%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/z-ai/glm-4.6-original",
-  "source": "models.dev",
-  "model": "nano-gpt/z-ai/glm-4.6-original",
-  "name": "GLM 4.6 Original",
-  "detail": "input $0.35/M \u2192 $0.5/M (+43%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/z-ai/glm-4.6-original",
-  "source": "models.dev",
-  "model": "nano-gpt/z-ai/glm-4.6-original",
-  "name": "GLM 4.6 Original",
-  "detail": "output $1.4/M \u2192 $2/M (+43%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/z-ai/glm-4.6:thinking",
-  "source": "models.dev",
-  "model": "nano-gpt/z-ai/glm-4.6:thinking",
-  "name": "GLM 4.6 Thinking",
-  "detail": "input $0.35/M \u2192 $0.5/M (+43%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/z-ai/glm-4.6:thinking",
-  "source": "models.dev",
-  "model": "nano-gpt/z-ai/glm-4.6:thinking",
-  "name": "GLM 4.6 Thinking",
-  "detail": "output $1.4/M \u2192 $2/M (+43%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/z-ai/glm-5",
-  "source": "models.dev",
-  "model": "nano-gpt/z-ai/glm-5",
-  "name": "GLM 5",
-  "detail": "input $0.5/M \u2192 $0.6/M (+20%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/z-ai/glm-5",
-  "source": "models.dev",
-  "model": "nano-gpt/z-ai/glm-5",
-  "name": "GLM 5",
-  "detail": "output $2.55/M \u2192 $1.9/M (-25%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/z-ai/glm-5-original",
-  "source": "models.dev",
-  "model": "nano-gpt/z-ai/glm-5-original",
-  "name": "GLM 5 Original",
-  "detail": "input $1/M \u2192 $0.6/M (-40%)"
- },
- {
-  "date": "2026-10-13",
-  "kind": "price_change",
-  "weight": 2,
-  "key": "modelsdev:nano-gpt/z-ai/glm-5-original",
-  "source": "models.dev",
-  "model": "nano-gpt/z-ai/glm-5-original",
-  "name": "GLM 5 Original",
-  "detail": "output $3.2/M \u2192 $1.9/M (-41%)"
  }
 ]
