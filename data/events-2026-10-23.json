@@ -1,0 +1,5462 @@
+[
+ {
+  "date": "2026-10-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:bytedance-seed/seed-1.6",
+  "source": "openrouter",
+  "model": "bytedance-seed/seed-1.6",
+  "name": "ByteDance Seed: Seed 1.6",
+  "detail": "retires in 19 days (2026-11-11)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:bytedance-seed/seed-1.6-flash",
+  "source": "openrouter",
+  "model": "bytedance-seed/seed-1.6-flash",
+  "name": "ByteDance Seed: Seed 1.6 Flash",
+  "detail": "retires in 19 days (2026-11-11)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:bytedance-seed/seed-2.0-code",
+  "source": "openrouter",
+  "model": "bytedance-seed/seed-2.0-code",
+  "name": "ByteDance Seed: Seed-2.0-Code",
+  "detail": "retires in 19 days (2026-11-11)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:nousresearch/hermes-3-llama-3.1-405b",
+  "source": "openrouter",
+  "model": "nousresearch/hermes-3-llama-3.1-405b",
+  "name": "Nous: Hermes 3 405B Instruct",
+  "detail": "retires in 10 days (2026-11-02)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:nousresearch/hermes-3-llama-3.1-70b",
+  "source": "openrouter",
+  "model": "nousresearch/hermes-3-llama-3.1-70b",
+  "name": "Nous: Hermes 3 70B Instruct",
+  "detail": "retires in 10 days (2026-11-02)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:poolside/laguna-s-2.1",
+  "source": "openrouter",
+  "model": "poolside/laguna-s-2.1",
+  "name": "Poolside: Laguna S 2.1",
+  "detail": "retires in 8 days (2026-10-31)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:poolside/laguna-s-2.1:free",
+  "source": "openrouter",
+  "model": "poolside/laguna-s-2.1:free",
+  "name": "Poolside: Laguna S 2.1 (free)",
+  "detail": "retires in 8 days (2026-10-31)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:poolside/laguna-xs-2.1",
+  "source": "openrouter",
+  "model": "poolside/laguna-xs-2.1",
+  "name": "Poolside: Laguna XS 2.1",
+  "detail": "retires in 8 days (2026-10-31)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "expiring_soon",
+  "weight": 3,
+  "key": "openrouter:poolside/laguna-xs-2.1:free",
+  "source": "openrouter",
+  "model": "poolside/laguna-xs-2.1:free",
+  "name": "Poolside: Laguna XS 2.1 (free)",
+  "detail": "retires in 8 days (2026-10-31)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:fastrouter/google/imagen-4.0-fast",
+  "source": "models.dev",
+  "model": "fastrouter/google/imagen-4.0-fast",
+  "name": "Imagen 4 Fast",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:fastrouter/google/imagen-4.0-ultra",
+  "source": "models.dev",
+  "model": "fastrouter/google/imagen-4.0-ultra",
+  "name": "Imagen 4 Ultra",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:fastrouter/openai/gpt-realtime-1.5",
+  "source": "models.dev",
+  "model": "fastrouter/openai/gpt-realtime-1.5",
+  "name": "GPT Realtime 1.5",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:friendli/MiniMaxAI/MiniMax-M2.5",
+  "source": "models.dev",
+  "model": "friendli/MiniMaxAI/MiniMax-M2.5",
+  "name": "MiniMax-M2.5",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:google/veo-3.1-fast-generate-preview",
+  "source": "models.dev",
+  "model": "google/veo-3.1-fast-generate-preview",
+  "name": "Veo 3.1 fast",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:google/veo-3.1-generate-preview",
+  "source": "models.dev",
+  "model": "google/veo-3.1-generate-preview",
+  "name": "Veo 3.1",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:google/veo-3.1-lite-generate-preview",
+  "source": "models.dev",
+  "model": "google/veo-3.1-lite-generate-preview",
+  "name": "Veo 3.1 lite",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:kilo/minimax/minimax-m3.1-flash:free",
+  "source": "models.dev",
+  "model": "kilo/minimax/minimax-m3.1-flash:free",
+  "name": "MiniMax: MiniMax M3.1 Flash (free)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404 \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:llmgateway-providers/deepinfra/inkling",
+  "source": "models.dev",
+  "model": "llmgateway-providers/deepinfra/inkling",
+  "name": "Inkling (DeepInfra)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:llmgateway-providers/together-ai/deepseek-v4-flash",
+  "source": "models.dev",
+  "model": "llmgateway-providers/together-ai/deepseek-v4-flash",
+  "name": "DeepSeek V4 Flash (Together AI)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:llmgateway/inkling",
+  "source": "models.dev",
+  "model": "llmgateway/inkling",
+  "name": "Inkling",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:merge-gateway/openai/gpt-live-1",
+  "source": "models.dev",
+  "model": "merge-gateway/openai/gpt-live-1",
+  "name": "GPT-Live 1",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/abacusai/dracarys-llama-3.1-70b-instruct",
+  "source": "models.dev",
+  "model": "nvidia/abacusai/dracarys-llama-3.1-70b-instruct",
+  "name": "dracarys-llama-3.1-70b-instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/baai/bge-m3",
+  "source": "models.dev",
+  "model": "nvidia/baai/bge-m3",
+  "name": "BGE M3",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/bytedance/seed-oss-36b-instruct",
+  "source": "models.dev",
+  "model": "nvidia/bytedance/seed-oss-36b-instruct",
+  "name": "ByteDance-Seed/Seed-OSS-36B-Instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/deepseek-ai/deepseek-v4-flash",
+  "source": "models.dev",
+  "model": "nvidia/deepseek-ai/deepseek-v4-flash",
+  "name": "DeepSeek V4 Flash",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/deepseek-ai/deepseek-v4-flash-0731",
+  "source": "models.dev",
+  "model": "nvidia/deepseek-ai/deepseek-v4-flash-0731",
+  "name": "DeepSeek V4 Flash 0731",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/deepseek-ai/deepseek-v4-pro",
+  "source": "models.dev",
+  "model": "nvidia/deepseek-ai/deepseek-v4-pro",
+  "name": "DeepSeek V4 Pro",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/deepseek-ai/deepseek-v4-pro-0813",
+  "source": "models.dev",
+  "model": "nvidia/deepseek-ai/deepseek-v4-pro-0813",
+  "name": "DeepSeek V4 Pro 0813",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/google/gemma-2-2b-it",
+  "source": "models.dev",
+  "model": "nvidia/google/gemma-2-2b-it",
+  "name": "Gemma 2 2b It",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/google/gemma-3n-e2b-it",
+  "source": "models.dev",
+  "model": "nvidia/google/gemma-3n-e2b-it",
+  "name": "Gemma 3n E2b It",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/google/gemma-3n-e4b-it",
+  "source": "models.dev",
+  "model": "nvidia/google/gemma-3n-e4b-it",
+  "name": "Gemma 3n E4b It",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/meta/esm2-650m",
+  "source": "models.dev",
+  "model": "nvidia/meta/esm2-650m",
+  "name": "esm2-650m",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/meta/esmfold",
+  "source": "models.dev",
+  "model": "nvidia/meta/esmfold",
+  "name": "esmfold",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/meta/llama-3.1-70b-instruct",
+  "source": "models.dev",
+  "model": "nvidia/meta/llama-3.1-70b-instruct",
+  "name": "Llama 3.1 70b Instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/meta/llama-3.1-8b-instruct",
+  "source": "models.dev",
+  "model": "nvidia/meta/llama-3.1-8b-instruct",
+  "name": "Llama 3.1 8B Instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/meta/llama-3.2-1b-instruct",
+  "source": "models.dev",
+  "model": "nvidia/meta/llama-3.2-1b-instruct",
+  "name": "Llama 3.2 1b Instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/meta/llama-3.2-3b-instruct",
+  "source": "models.dev",
+  "model": "nvidia/meta/llama-3.2-3b-instruct",
+  "name": "Llama 3.2 3B Instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/meta/llama-3.3-70b-instruct",
+  "source": "models.dev",
+  "model": "nvidia/meta/llama-3.3-70b-instruct",
+  "name": "Llama 3.3 70b Instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/meta/llama-4-maverick-17b-128e-instruct",
+  "source": "models.dev",
+  "model": "nvidia/meta/llama-4-maverick-17b-128e-instruct",
+  "name": "Llama 4 Maverick 17b 128e Instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/microsoft/phi-4-mini-instruct",
+  "source": "models.dev",
+  "model": "nvidia/microsoft/phi-4-mini-instruct",
+  "name": "Phi-4-Mini",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/microsoft/phi-4-multimodal-instruct",
+  "source": "models.dev",
+  "model": "nvidia/microsoft/phi-4-multimodal-instruct",
+  "name": "Phi 4 Multimodal",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/minimaxai/minimax-m2.7",
+  "source": "models.dev",
+  "model": "nvidia/minimaxai/minimax-m2.7",
+  "name": "MiniMax-M2.7",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/minimaxai/minimax-m3",
+  "source": "models.dev",
+  "model": "nvidia/minimaxai/minimax-m3",
+  "name": "MiniMax-M3",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/mistralai/ministral-14b-instruct-2512",
+  "source": "models.dev",
+  "model": "nvidia/mistralai/ministral-14b-instruct-2512",
+  "name": "Ministral 3 14B Instruct 2512",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/mistralai/mistral-large-3-675b-instruct-2512",
+  "source": "models.dev",
+  "model": "nvidia/mistralai/mistral-large-3-675b-instruct-2512",
+  "name": "Mistral Large 3 675B Instruct 2512",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/mistralai/mistral-medium-3.5-128b",
+  "source": "models.dev",
+  "model": "nvidia/mistralai/mistral-medium-3.5-128b",
+  "name": "Mistral Medium 3.5",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/mistralai/mistral-nemotron",
+  "source": "models.dev",
+  "model": "nvidia/mistralai/mistral-nemotron",
+  "name": "mistral-nemotron",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/mistralai/mistral-small-4-119b-2603",
+  "source": "models.dev",
+  "model": "nvidia/mistralai/mistral-small-4-119b-2603",
+  "name": "mistral-small-4-119b-2603",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/mistralai/mixtral-8x22b-instruct",
+  "source": "models.dev",
+  "model": "nvidia/mistralai/mixtral-8x22b-instruct",
+  "name": "Mistral: Mixtral 8x22B Instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/mistralai/mixtral-8x7b-instruct",
+  "source": "models.dev",
+  "model": "nvidia/mistralai/mixtral-8x7b-instruct",
+  "name": "Mistral: Mixtral 8x7B Instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/cosmos-predict1-5b",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/cosmos-predict1-5b",
+  "name": "cosmos-predict1-5b",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/cosmos-transfer1-7b",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/cosmos-transfer1-7b",
+  "name": "cosmos-transfer1-7b",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/gliner-pii",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/gliner-pii",
+  "name": "gliner-pii",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/llama-3.1-nemotron-nano-8b-v1",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/llama-3.1-nemotron-nano-8b-v1",
+  "name": "Llama 3.1 Nemotron Nano 8B v1",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/llama-3.1-nemotron-nano-vl-8b-v1",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/llama-3.1-nemotron-nano-vl-8b-v1",
+  "name": "Llama 3.1 Nemotron Nano VL 8B v1",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/llama-3.3-nemotron-super-49b-v1",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/llama-3.3-nemotron-super-49b-v1",
+  "name": "Llama 3.3 Nemotron Super 49B v1",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/llama-3.3-nemotron-super-49b-v1.5",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/llama-3.3-nemotron-super-49b-v1.5",
+  "name": "Llama 3.3 Nemotron Super 49B v1.5",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/llama-3_2-nemoretriever-300m-embed-v1",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/llama-3_2-nemoretriever-300m-embed-v1",
+  "name": "llama-3_2-nemoretriever-300m-embed-v1",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/nemotron-3-content-safety",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/nemotron-3-content-safety",
+  "name": "nemotron-3-content-safety",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/nemotron-3-nano-30b-a3b",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/nemotron-3-nano-30b-a3b",
+  "name": "nemotron-3-nano-30b-a3b",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/nemotron-content-safety-reasoning-4b",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/nemotron-content-safety-reasoning-4b",
+  "name": "nemotron-content-safety-reasoning-4b",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/nemotron-mini-4b-instruct",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/nemotron-mini-4b-instruct",
+  "name": "nemotron-mini-4b-instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/nemotron-nano-12b-v2-vl",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/nemotron-nano-12b-v2-vl",
+  "name": "Nemotron Nano 12B v2 VL",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/nv-embed-v1",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/nv-embed-v1",
+  "name": "nv-embed-v1",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/nv-embedcode-7b-v1",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/nv-embedcode-7b-v1",
+  "name": "nv-embedcode-7b-v1",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/nvidia/nvidia-nemotron-nano-9b-v2",
+  "source": "models.dev",
+  "model": "nvidia/nvidia/nvidia-nemotron-nano-9b-v2",
+  "name": "nvidia-nemotron-nano-9b-v2",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/qwen/qwen2.5-coder-32b-instruct",
+  "source": "models.dev",
+  "model": "nvidia/qwen/qwen2.5-coder-32b-instruct",
+  "name": "Qwen2.5 Coder 32b Instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/qwen/qwen3-coder-480b-a35b-instruct",
+  "source": "models.dev",
+  "model": "nvidia/qwen/qwen3-coder-480b-a35b-instruct",
+  "name": "Qwen3 Coder 480B A35B Instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/qwen/qwen3-next-80b-a3b-instruct",
+  "source": "models.dev",
+  "model": "nvidia/qwen/qwen3-next-80b-a3b-instruct",
+  "name": "Qwen3-Next-80B-A3B-Instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/qwen/qwen3.5-122b-a10b",
+  "source": "models.dev",
+  "model": "nvidia/qwen/qwen3.5-122b-a10b",
+  "name": "Qwen3.5 122B-A10B",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/qwen/qwen3.5-397b-a17b",
+  "source": "models.dev",
+  "model": "nvidia/qwen/qwen3.5-397b-a17b",
+  "name": "Qwen3.5-397B-A17B",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/sarvamai/sarvam-m",
+  "source": "models.dev",
+  "model": "nvidia/sarvamai/sarvam-m",
+  "name": "sarvam-m",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/stepfun-ai/step-3.5-flash",
+  "source": "models.dev",
+  "model": "nvidia/stepfun-ai/step-3.5-flash",
+  "name": "Step 3.5 Flash",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/stepfun-ai/step-3.7-flash",
+  "source": "models.dev",
+  "model": "nvidia/stepfun-ai/step-3.7-flash",
+  "name": "Step 3.7 Flash",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/thinkingmachines/inkling",
+  "source": "models.dev",
+  "model": "nvidia/thinkingmachines/inkling",
+  "name": "Inkling",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/upstage/solar-10.7b-instruct",
+  "source": "models.dev",
+  "model": "nvidia/upstage/solar-10.7b-instruct",
+  "name": "solar-10.7b-instruct",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:nvidia/z-ai/glm-5.2",
+  "source": "models.dev",
+  "model": "nvidia/z-ai/glm-5.2",
+  "name": "GLM-5.2",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "modelsdev:vercel/spacexai/grok-voice-think-fast-1.0",
+  "source": "models.dev",
+  "model": "vercel/spacexai/grok-voice-think-fast-1.0",
+  "name": "Grok Voice Think Fast 1.0",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "removed",
+  "weight": 3,
+  "key": "openrouter:google/gemini-2.5-flash-lite:batch",
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite:batch",
+  "name": "Google: Gemini 2.5 Flash Lite (batch)",
+  "detail": "dropped out of the catalog \u2014 calls to it will 404"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/aion-labs/aion-rp-llama-3.1-8b",
+  "source": "models.dev",
+  "model": "aimlapi/aion-labs/aion-rp-llama-3.1-8b",
+  "name": "Aion-RP 1.0 (8B)",
+  "detail": "input $1.10032/M \u2192 $0.8464/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/aion-labs/aion-rp-llama-3.1-8b",
+  "source": "models.dev",
+  "model": "aimlapi/aion-labs/aion-rp-llama-3.1-8b",
+  "name": "Aion-RP 1.0 (8B)",
+  "detail": "output $2.20064/M \u2192 $1.6928/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen-max",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen-max",
+  "name": "Qwen Max",
+  "detail": "input $2.08/M \u2192 $1.6/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen-max",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen-max",
+  "name": "Qwen Max",
+  "detail": "output $8.32/M \u2192 $6.4/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen-plus",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen-plus",
+  "name": "Qwen Plus",
+  "detail": "input $0.52/M \u2192 $0.4/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen-plus",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen-plus",
+  "name": "Qwen Plus",
+  "detail": "output $1.56/M \u2192 $1.2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen3-coder-480b-a35b-instruct",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen3-coder-480b-a35b-instruct",
+  "name": "Qwen3 Coder",
+  "detail": "input $1.3754/M \u2192 $1.058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen3-coder-480b-a35b-instruct",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen3-coder-480b-a35b-instruct",
+  "name": "Qwen3 Coder",
+  "detail": "output $6.705075/M \u2192 $5.15775/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen3-next-80b-a3b-instruct",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen3-next-80b-a3b-instruct",
+  "name": "Qwen3 Next 80B A3B Instruct",
+  "detail": "input $0.20631/M \u2192 $0.1587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen3-next-80b-a3b-instruct",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen3-next-80b-a3b-instruct",
+  "name": "Qwen3 Next 80B A3B Instruct",
+  "detail": "output $1.65048/M \u2192 $1.2696/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen3.8-2.4t-a95b",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen3.8-2.4t-a95b",
+  "name": "Qwen3.8 2.4T A95B",
+  "detail": "input $3.4385/M \u2192 $2.645/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen3.8-2.4t-a95b",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen3.8-2.4t-a95b",
+  "name": "Qwen3.8 2.4T A95B",
+  "detail": "output $8.59625/M \u2192 $6.6125/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen3.8-27b",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen3.8-27b",
+  "name": "Qwen3.8 27B",
+  "detail": "input $0.61893/M \u2192 $0.4761/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen3.8-27b",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen3.8-27b",
+  "name": "Qwen3.8 27B",
+  "detail": "output $4.40128/M \u2192 $3.3856/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen3.8-flash",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen3.8-flash",
+  "name": "Qwen3.8 Flash",
+  "detail": "input $0.208/M \u2192 $0.16/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen3.8-flash",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen3.8-flash",
+  "name": "Qwen3.8 Flash",
+  "detail": "output $0.611/M \u2192 $0.47/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen3.8-max",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen3.8-max",
+  "name": "Qwen3.8 Max",
+  "detail": "input $2.6/M \u2192 $2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen3.8-max",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen3.8-max",
+  "name": "Qwen3.8 Max",
+  "detail": "output $7.8/M \u2192 $6/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen3.8-max-prime",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen3.8-max-prime",
+  "name": "Qwen3.8 Max Prime",
+  "detail": "input $5.5016/M \u2192 $4.232/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/alibaba/qwen3.8-max-prime",
+  "source": "models.dev",
+  "model": "aimlapi/alibaba/qwen3.8-max-prime",
+  "name": "Qwen3.8 Max Prime",
+  "detail": "output $16.5048/M \u2192 $12.696/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/amazon/nova-lite-v1",
+  "source": "models.dev",
+  "model": "aimlapi/amazon/nova-lite-v1",
+  "name": "Nova Lite 1.0",
+  "detail": "input $0.082524/M \u2192 $0.06348/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/amazon/nova-lite-v1",
+  "source": "models.dev",
+  "model": "aimlapi/amazon/nova-lite-v1",
+  "name": "Nova Lite 1.0",
+  "detail": "output $0.330096/M \u2192 $0.25392/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/amazon/nova-micro-v1",
+  "source": "models.dev",
+  "model": "aimlapi/amazon/nova-micro-v1",
+  "name": "Nova Micro 1.0",
+  "detail": "input $0.048139/M \u2192 $0.03703/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/amazon/nova-micro-v1",
+  "source": "models.dev",
+  "model": "aimlapi/amazon/nova-micro-v1",
+  "name": "Nova Micro 1.0",
+  "detail": "output $0.192556/M \u2192 $0.14812/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/amazon/nova-pro-v1",
+  "source": "models.dev",
+  "model": "aimlapi/amazon/nova-pro-v1",
+  "name": "Nova Pro 1.0",
+  "detail": "input $1.10032/M \u2192 $0.8464/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/amazon/nova-pro-v1",
+  "source": "models.dev",
+  "model": "aimlapi/amazon/nova-pro-v1",
+  "name": "Nova Pro 1.0",
+  "detail": "output $4.40128/M \u2192 $3.3856/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthracite-org/magnum-v4-72b",
+  "source": "models.dev",
+  "model": "aimlapi/anthracite-org/magnum-v4-72b",
+  "name": "Magnum v4 72B",
+  "detail": "input $4.1262/M \u2192 $3.174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthracite-org/magnum-v4-72b",
+  "source": "models.dev",
+  "model": "aimlapi/anthracite-org/magnum-v4-72b",
+  "name": "Magnum v4 72B",
+  "detail": "output $6.877/M \u2192 $5.29/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-fable-5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-fable-5",
+  "name": "Claude Fable 5",
+  "detail": "input $13/M \u2192 $10/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-fable-5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-fable-5",
+  "name": "Claude Fable 5",
+  "detail": "output $65/M \u2192 $50/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-fable-5.1",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-fable-5.1",
+  "name": "Claude Fable 5.1",
+  "detail": "input $13/M \u2192 $10/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-fable-5.1",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-fable-5.1",
+  "name": "Claude Fable 5.1",
+  "detail": "output $65/M \u2192 $50/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-haiku-4.5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-haiku-4.5",
+  "name": "Claude 4.5 Haiku",
+  "detail": "input $1.3754/M \u2192 $1.058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-haiku-4.5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-haiku-4.5",
+  "name": "Claude 4.5 Haiku",
+  "detail": "output $6.877/M \u2192 $5.29/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-haiku-5.5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-haiku-5.5",
+  "name": "Claude Haiku 5.5",
+  "detail": "input $0.13/M \u2192 $0.1/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-haiku-5.5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-haiku-5.5",
+  "name": "Claude Haiku 5.5",
+  "detail": "output $0.65/M \u2192 $0.5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-opus-4.5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-opus-4.5",
+  "name": "Claude 4.5 Opus",
+  "detail": "input $6.877/M \u2192 $5.29/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-opus-4.5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-opus-4.5",
+  "name": "Claude 4.5 Opus",
+  "detail": "output $34.385/M \u2192 $26.45/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-opus-4.7",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-opus-4.7",
+  "name": "Claude 4.7 Opus",
+  "detail": "input $6.877/M \u2192 $5.29/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-opus-4.7",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-opus-4.7",
+  "name": "Claude 4.7 Opus",
+  "detail": "output $34.385/M \u2192 $26.45/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-opus-4.8",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-opus-4.8",
+  "name": "Claude 4.8 Opus",
+  "detail": "input $6.877/M \u2192 $5.29/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-opus-4.8",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-opus-4.8",
+  "name": "Claude 4.8 Opus",
+  "detail": "output $34.385/M \u2192 $26.45/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-opus-5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-opus-5",
+  "name": "Claude Opus 5",
+  "detail": "input $6.5/M \u2192 $5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-opus-5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-opus-5",
+  "name": "Claude Opus 5",
+  "detail": "output $32.5/M \u2192 $25/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-opus-5.5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-opus-5.5",
+  "name": "Claude Opus 5.5",
+  "detail": "input $5.2/M \u2192 $4/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-opus-5.5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-opus-5.5",
+  "name": "Claude Opus 5.5",
+  "detail": "output $26/M \u2192 $20/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-sonnet-4.5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-sonnet-4.5",
+  "name": "Claude 4.5 Sonnet",
+  "detail": "input $4.1262/M \u2192 $3.174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-sonnet-4.5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-sonnet-4.5",
+  "name": "Claude 4.5 Sonnet",
+  "detail": "output $20.631/M \u2192 $15.87/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-sonnet-4.6",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-sonnet-4.6",
+  "name": "Claude 4.6 Sonnet",
+  "detail": "input $4.1262/M \u2192 $3.174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-sonnet-4.6",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-sonnet-4.6",
+  "name": "Claude 4.6 Sonnet",
+  "detail": "output $20.631/M \u2192 $15.87/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-sonnet-5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-sonnet-5",
+  "name": "Claude Sonnet 5",
+  "detail": "input $2.6/M \u2192 $2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-sonnet-5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-sonnet-5",
+  "name": "Claude Sonnet 5",
+  "detail": "output $13/M \u2192 $10/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-sonnet-5.5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-sonnet-5.5",
+  "name": "Claude Sonnet 5.5",
+  "detail": "input $2.6/M \u2192 $2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/anthropic/claude-sonnet-5.5",
+  "source": "models.dev",
+  "model": "aimlapi/anthropic/claude-sonnet-5.5",
+  "name": "Claude Sonnet 5.5",
+  "detail": "output $13/M \u2192 $10/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/bytedance-seed/seed-1.6-flash",
+  "source": "models.dev",
+  "model": "aimlapi/bytedance-seed/seed-1.6-flash",
+  "name": "Seed 1.6 Flash",
+  "detail": "input $0.103155/M \u2192 $0.07935/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/bytedance-seed/seed-1.6-flash",
+  "source": "models.dev",
+  "model": "aimlapi/bytedance-seed/seed-1.6-flash",
+  "name": "Seed 1.6 Flash",
+  "detail": "output $0.41262/M \u2192 $0.3174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/bytedance-seed/seed-2.0-code",
+  "source": "models.dev",
+  "model": "aimlapi/bytedance-seed/seed-2.0-code",
+  "name": "Seed-2.0-Code",
+  "detail": "input $0.6877/M \u2192 $0.529/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/bytedance-seed/seed-2.0-code",
+  "source": "models.dev",
+  "model": "aimlapi/bytedance-seed/seed-2.0-code",
+  "name": "Seed-2.0-Code",
+  "detail": "output $4.1262/M \u2192 $3.174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/bytedance-seed/seed-2.0-lite",
+  "source": "models.dev",
+  "model": "aimlapi/bytedance-seed/seed-2.0-lite",
+  "name": "Seed-2.0-Lite",
+  "detail": "input $0.34385/M \u2192 $0.2645/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/bytedance-seed/seed-2.0-lite",
+  "source": "models.dev",
+  "model": "aimlapi/bytedance-seed/seed-2.0-lite",
+  "name": "Seed-2.0-Lite",
+  "detail": "output $2.7508/M \u2192 $2.116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/bytedance-seed/seed-2.0-mini",
+  "source": "models.dev",
+  "model": "aimlapi/bytedance-seed/seed-2.0-mini",
+  "name": "Seed-2.0-Mini",
+  "detail": "input $0.13754/M \u2192 $0.1058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/bytedance-seed/seed-2.0-mini",
+  "source": "models.dev",
+  "model": "aimlapi/bytedance-seed/seed-2.0-mini",
+  "name": "Seed-2.0-Mini",
+  "detail": "output $0.55016/M \u2192 $0.4232/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/cognitivecomputations/dolphin-mistral-24b-venice-edition",
+  "source": "models.dev",
+  "model": "aimlapi/cognitivecomputations/dolphin-mistral-24b-venice-edition",
+  "name": "Venice Uncensored",
+  "detail": "input $0.27508/M \u2192 $0.2116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/cognitivecomputations/dolphin-mistral-24b-venice-edition",
+  "source": "models.dev",
+  "model": "aimlapi/cognitivecomputations/dolphin-mistral-24b-venice-edition",
+  "name": "Venice Uncensored",
+  "detail": "output $1.23786/M \u2192 $0.9522/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/cohere/command-a",
+  "source": "models.dev",
+  "model": "aimlapi/cohere/command-a",
+  "name": "Command A",
+  "detail": "input $3.4385/M \u2192 $2.645/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/cohere/command-a",
+  "source": "models.dev",
+  "model": "aimlapi/cohere/command-a",
+  "name": "Command A",
+  "detail": "output $13.754/M \u2192 $10.58/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/cohere/command-r-08-2024",
+  "source": "models.dev",
+  "model": "aimlapi/cohere/command-r-08-2024",
+  "name": "Command R (08-2024)",
+  "detail": "input $0.20631/M \u2192 $0.1587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/cohere/command-r-08-2024",
+  "source": "models.dev",
+  "model": "aimlapi/cohere/command-r-08-2024",
+  "name": "Command R (08-2024)",
+  "detail": "output $0.82524/M \u2192 $0.6348/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/cohere/command-r-plus-08-2024",
+  "source": "models.dev",
+  "model": "aimlapi/cohere/command-r-plus-08-2024",
+  "name": "Command R+ (08-2024)",
+  "detail": "input $3.4385/M \u2192 $2.645/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/cohere/command-r-plus-08-2024",
+  "source": "models.dev",
+  "model": "aimlapi/cohere/command-r-plus-08-2024",
+  "name": "Command R+ (08-2024)",
+  "detail": "output $13.754/M \u2192 $10.58/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/cohere/command-r7b-12-2024",
+  "source": "models.dev",
+  "model": "aimlapi/cohere/command-r7b-12-2024",
+  "name": "Command R7B (12-2024)",
+  "detail": "input $0.051578/M \u2192 $0.039675/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/cohere/command-r7b-12-2024",
+  "source": "models.dev",
+  "model": "aimlapi/cohere/command-r7b-12-2024",
+  "name": "Command R7B (12-2024)",
+  "detail": "output $0.20631/M \u2192 $0.1587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/deepseek/deepseek-chat-v3-0324",
+  "source": "models.dev",
+  "model": "aimlapi/deepseek/deepseek-chat-v3-0324",
+  "name": "DeepSeek V3",
+  "detail": "input $0.398866/M \u2192 $0.30682/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/deepseek/deepseek-chat-v3-0324",
+  "source": "models.dev",
+  "model": "aimlapi/deepseek/deepseek-chat-v3-0324",
+  "name": "DeepSeek V3",
+  "detail": "output $1.567956/M \u2192 $1.20612/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/deepseek/deepseek-v4-flash",
+  "source": "models.dev",
+  "model": "aimlapi/deepseek/deepseek-v4-flash",
+  "name": "DeepSeek V4 Flash",
+  "detail": "input $0.39/M \u2192 $0.3/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/deepseek/deepseek-v4-flash",
+  "source": "models.dev",
+  "model": "aimlapi/deepseek/deepseek-v4-flash",
+  "name": "DeepSeek V4 Flash",
+  "detail": "output $1.56/M \u2192 $1.2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/deepseek/deepseek-v4-flash-vision-exp",
+  "source": "models.dev",
+  "model": "aimlapi/deepseek/deepseek-v4-flash-vision-exp",
+  "name": "DeepSeek V4 Flash Vision Exp",
+  "detail": "input $0.572/M \u2192 $0.44/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/deepseek/deepseek-v4-flash-vision-exp",
+  "source": "models.dev",
+  "model": "aimlapi/deepseek/deepseek-v4-flash-vision-exp",
+  "name": "DeepSeek V4 Flash Vision Exp",
+  "detail": "output $1.716/M \u2192 $1.32/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/deepseek/deepseek-v4-pro",
+  "source": "models.dev",
+  "model": "aimlapi/deepseek/deepseek-v4-pro",
+  "name": "DeepSeek V4 Pro",
+  "detail": "input $1.17/M \u2192 $0.9/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/deepseek/deepseek-v4-pro",
+  "source": "models.dev",
+  "model": "aimlapi/deepseek/deepseek-v4-pro",
+  "name": "DeepSeek V4 Pro",
+  "detail": "output $3.51/M \u2192 $2.7/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/deepseek/deepseek-v4-pro-0813",
+  "source": "models.dev",
+  "model": "aimlapi/deepseek/deepseek-v4-pro-0813",
+  "name": "DeepSeek V4 Pro 0813",
+  "detail": "input $2.393196/M \u2192 $1.84092/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/deepseek/deepseek-v4-pro-0813",
+  "source": "models.dev",
+  "model": "aimlapi/deepseek/deepseek-v4-pro-0813",
+  "name": "DeepSeek V4 Pro 0813",
+  "detail": "output $4.786392/M \u2192 $3.68184/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/deepseek/deepseek-v4.1-flash",
+  "source": "models.dev",
+  "model": "aimlapi/deepseek/deepseek-v4.1-flash",
+  "name": "DeepSeek V4.1 Flash",
+  "detail": "input $0.39/M \u2192 $0.3/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/deepseek/deepseek-v4.1-flash",
+  "source": "models.dev",
+  "model": "aimlapi/deepseek/deepseek-v4.1-flash",
+  "name": "DeepSeek V4.1 Flash",
+  "detail": "output $1.56/M \u2192 $1.2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-3-8-flash",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-3-8-flash",
+  "name": "Gemini 3.8 Flash",
+  "detail": "input $0.975/M \u2192 $0.75/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-3-8-flash",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-3-8-flash",
+  "name": "Gemini 3.8 Flash",
+  "detail": "output $4.875/M \u2192 $3.75/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-3.1-flash-lite-preview",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-3.1-flash-lite-preview",
+  "name": "Gemini 3.1 Flash Lite Preview",
+  "detail": "input $0.34385/M \u2192 $0.2645/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-3.1-flash-lite-preview",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-3.1-flash-lite-preview",
+  "name": "Gemini 3.1 Flash Lite Preview",
+  "detail": "output $2.0631/M \u2192 $1.587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-3.1-pro-preview",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-3.1-pro-preview",
+  "name": "Gemini 3.1 Pro Preview",
+  "detail": "input $2.6/M \u2192 $2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-3.1-pro-preview",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-3.1-pro-preview",
+  "name": "Gemini 3.1 Pro Preview",
+  "detail": "output $15.6/M \u2192 $12/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-3.1-pro-preview-customtools",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-3.1-pro-preview-customtools",
+  "name": "Gemini 3.1 Pro Preview Custom Tools",
+  "detail": "input $2.7508/M \u2192 $2.116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-3.1-pro-preview-customtools",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-3.1-pro-preview-customtools",
+  "name": "Gemini 3.1 Pro Preview Custom Tools",
+  "detail": "output $16.5048/M \u2192 $12.696/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-3.6-flash",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-3.6-flash",
+  "name": "Gemini 3.6 Flash",
+  "detail": "input $1.95/M \u2192 $1.5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-3.6-flash",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-3.6-flash",
+  "name": "Gemini 3.6 Flash",
+  "detail": "output $9.75/M \u2192 $7.5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-3.7-flash",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-3.7-flash",
+  "name": "Gemini 3.7 Flash",
+  "detail": "input $0.975/M \u2192 $0.75/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-3.7-flash",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-3.7-flash",
+  "name": "Gemini 3.7 Flash",
+  "detail": "output $4.875/M \u2192 $3.75/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-3.8-flash",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-3.8-flash",
+  "name": "Gemini 3.8 Flash",
+  "detail": "input $0.975/M \u2192 $0.75/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-3.8-flash",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-3.8-flash",
+  "name": "Gemini 3.8 Flash",
+  "detail": "output $4.875/M \u2192 $3.75/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-flash-latest",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-flash-latest",
+  "name": "Gemini Flash Latest",
+  "detail": "input $2.0631/M \u2192 $1.587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemini-flash-latest",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemini-flash-latest",
+  "name": "Gemini Flash Latest",
+  "detail": "output $12.3786/M \u2192 $9.522/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemma-2-27b-it",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemma-2-27b-it",
+  "name": "Gemma 2 27B",
+  "detail": "input $0.89401/M \u2192 $0.6877/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemma-2-27b-it",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemma-2-27b-it",
+  "name": "Gemma 2 27B",
+  "detail": "output $0.89401/M \u2192 $0.6877/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemma-3-12b-it",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemma-3-12b-it",
+  "name": "Gemma 3 12B",
+  "detail": "input $0.06877/M \u2192 $0.0529/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemma-3-12b-it",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemma-3-12b-it",
+  "name": "Gemma 3 12B",
+  "detail": "output $0.20631/M \u2192 $0.1587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemma-3-27b-it",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemma-3-27b-it",
+  "name": "Gemma 3 27B",
+  "detail": "input $0.20631/M \u2192 $0.1587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemma-3-27b-it",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemma-3-27b-it",
+  "name": "Gemma 3 27B",
+  "detail": "output $0.632684/M \u2192 $0.48668/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemma-3-4b-it",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemma-3-4b-it",
+  "name": "Gemma 3 4B",
+  "detail": "input $0.06877/M \u2192 $0.0529/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemma-3-4b-it",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemma-3-4b-it",
+  "name": "Gemma 3 4B",
+  "detail": "output $0.13754/M \u2192 $0.1058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemma-4-26b-a4b-it",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemma-4-26b-a4b-it",
+  "name": "Gemma 4 26B A4B IT",
+  "detail": "input $0.20631/M \u2192 $0.1587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemma-4-26b-a4b-it",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemma-4-26b-a4b-it",
+  "name": "Gemma 4 26B A4B IT",
+  "detail": "output $0.82524/M \u2192 $0.6348/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemma-4-31b-it",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemma-4-31b-it",
+  "name": "Gemma 4 31B Instruct",
+  "detail": "input $1.361646/M \u2192 $1.04742/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/google/gemma-4-31b-it",
+  "source": "models.dev",
+  "model": "aimlapi/google/gemma-4-31b-it",
+  "name": "Gemma 4 31B Instruct",
+  "detail": "output $2.049346/M \u2192 $1.57642/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/gryphe/mythomax-l2-13b",
+  "source": "models.dev",
+  "model": "aimlapi/gryphe/mythomax-l2-13b",
+  "name": "MythoMax 13B",
+  "detail": "input $2.578875/M \u2192 $1.98375/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/gryphe/mythomax-l2-13b",
+  "source": "models.dev",
+  "model": "aimlapi/gryphe/mythomax-l2-13b",
+  "name": "MythoMax 13B",
+  "detail": "output $2.578875/M \u2192 $1.98375/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/ibm-granite/granite-4.0-h-micro",
+  "source": "models.dev",
+  "model": "aimlapi/ibm-granite/granite-4.0-h-micro",
+  "name": "Granite 4.0 Micro",
+  "detail": "input $0.023382/M \u2192 $0.017986/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/ibm-granite/granite-4.0-h-micro",
+  "source": "models.dev",
+  "model": "aimlapi/ibm-granite/granite-4.0-h-micro",
+  "name": "Granite 4.0 Micro",
+  "detail": "output $0.154045/M \u2192 $0.118496/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/inception/mercury-2",
+  "source": "models.dev",
+  "model": "aimlapi/inception/mercury-2",
+  "name": "Mercury 2",
+  "detail": "input $0.34385/M \u2192 $0.2645/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/inception/mercury-2",
+  "source": "models.dev",
+  "model": "aimlapi/inception/mercury-2",
+  "name": "Mercury 2",
+  "detail": "output $1.03155/M \u2192 $0.7935/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/inception/mercury-2.5",
+  "source": "models.dev",
+  "model": "aimlapi/inception/mercury-2.5",
+  "name": "Mercury 2.5",
+  "detail": "input $0.27508/M \u2192 $0.2116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/inception/mercury-2.5",
+  "source": "models.dev",
+  "model": "aimlapi/inception/mercury-2.5",
+  "name": "Mercury 2.5",
+  "detail": "output $1.03155/M \u2192 $0.7935/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/inference-net/schematron-v2-small",
+  "source": "models.dev",
+  "model": "aimlapi/inference-net/schematron-v2-small",
+  "name": "Schematron V2 Small",
+  "detail": "input $0.06877/M \u2192 $0.0529/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/inference-net/schematron-v2-small",
+  "source": "models.dev",
+  "model": "aimlapi/inference-net/schematron-v2-small",
+  "name": "Schematron V2 Small",
+  "detail": "output $0.316342/M \u2192 $0.24334/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/inference-net/schematron-v2-turbo",
+  "source": "models.dev",
+  "model": "aimlapi/inference-net/schematron-v2-turbo",
+  "name": "Schematron V2 Turbo",
+  "detail": "input $0.041262/M \u2192 $0.03174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/inference-net/schematron-v2-turbo",
+  "source": "models.dev",
+  "model": "aimlapi/inference-net/schematron-v2-turbo",
+  "name": "Schematron V2 Turbo",
+  "detail": "output $0.20631/M \u2192 $0.1587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mancer/weaver",
+  "source": "models.dev",
+  "model": "aimlapi/mancer/weaver",
+  "name": "Weaver (alpha)",
+  "detail": "input $1.03155/M \u2192 $0.7935/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mancer/weaver",
+  "source": "models.dev",
+  "model": "aimlapi/mancer/weaver",
+  "name": "Weaver (alpha)",
+  "detail": "output $1.3754/M \u2192 $1.058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/meta-llama/Llama-3.3-70B-Instruct-Turbo",
+  "source": "models.dev",
+  "model": "aimlapi/meta-llama/Llama-3.3-70B-Instruct-Turbo",
+  "name": "Llama 3.3 70B Instruct Turbo",
+  "detail": "input $1.352/M \u2192 $1.04/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/meta-llama/Llama-3.3-70B-Instruct-Turbo",
+  "source": "models.dev",
+  "model": "aimlapi/meta-llama/Llama-3.3-70B-Instruct-Turbo",
+  "name": "Llama 3.3 70B Instruct Turbo",
+  "detail": "output $1.352/M \u2192 $1.04/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/meta/muse-glimmer-30b",
+  "source": "models.dev",
+  "model": "aimlapi/meta/muse-glimmer-30b",
+  "name": "Muse Glimmer 30B",
+  "detail": "input $0.48139/M \u2192 $0.3703/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/meta/muse-glimmer-30b",
+  "source": "models.dev",
+  "model": "aimlapi/meta/muse-glimmer-30b",
+  "name": "Muse Glimmer 30B",
+  "detail": "output $2.0631/M \u2192 $1.587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/meta/muse-spark-1.1",
+  "source": "models.dev",
+  "model": "aimlapi/meta/muse-spark-1.1",
+  "name": "Muse Spark 1.1",
+  "detail": "input $1.71925/M \u2192 $1.3225/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/meta/muse-spark-1.1",
+  "source": "models.dev",
+  "model": "aimlapi/meta/muse-spark-1.1",
+  "name": "Muse Spark 1.1",
+  "detail": "output $5.84545/M \u2192 $4.4965/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/meta/muse-spark-1.2",
+  "source": "models.dev",
+  "model": "aimlapi/meta/muse-spark-1.2",
+  "name": "Muse Spark 1.2",
+  "detail": "input $1.71925/M \u2192 $1.3225/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/meta/muse-spark-1.2",
+  "source": "models.dev",
+  "model": "aimlapi/meta/muse-spark-1.2",
+  "name": "Muse Spark 1.2",
+  "detail": "output $5.84545/M \u2192 $4.4965/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/meta/muse-spark-1.3",
+  "source": "models.dev",
+  "model": "aimlapi/meta/muse-spark-1.3",
+  "name": "Muse Spark 1.3",
+  "detail": "input $1.71925/M \u2192 $1.3225/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/meta/muse-spark-1.3",
+  "source": "models.dev",
+  "model": "aimlapi/meta/muse-spark-1.3",
+  "name": "Muse Spark 1.3",
+  "detail": "output $5.84545/M \u2192 $4.4965/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/codestral-2508",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/codestral-2508",
+  "name": "Codestral 2508",
+  "detail": "input $0.41262/M \u2192 $0.3174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/codestral-2508",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/codestral-2508",
+  "name": "Codestral 2508",
+  "detail": "output $1.23786/M \u2192 $0.9522/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/devstral-2512",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/devstral-2512",
+  "name": "Devstral 2 2512",
+  "detail": "input $0.605176/M \u2192 $0.46552/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/devstral-2512",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/devstral-2512",
+  "name": "Devstral 2 2512",
+  "detail": "output $3.02588/M \u2192 $2.3276/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/ministral-14b-2512",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/ministral-14b-2512",
+  "name": "Ministral 3 14B 2512",
+  "detail": "input $0.48139/M \u2192 $0.3703/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/ministral-14b-2512",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/ministral-14b-2512",
+  "name": "Ministral 3 14B 2512",
+  "detail": "output $0.48139/M \u2192 $0.3703/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/ministral-3b-2512",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/ministral-3b-2512",
+  "name": "Ministral 3 3B 2512",
+  "detail": "input $0.20631/M \u2192 $0.1587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/ministral-3b-2512",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/ministral-3b-2512",
+  "name": "Ministral 3 3B 2512",
+  "detail": "output $0.20631/M \u2192 $0.1587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/ministral-8b-2512",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/ministral-8b-2512",
+  "name": "Ministral 3 8B 2512",
+  "detail": "input $0.41262/M \u2192 $0.3174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/ministral-8b-2512",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/ministral-8b-2512",
+  "name": "Ministral 3 8B 2512",
+  "detail": "output $0.41262/M \u2192 $0.3174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-large",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-large",
+  "name": "Large",
+  "detail": "input $2.7508/M \u2192 $2.116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-large",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-large",
+  "name": "Large",
+  "detail": "output $8.2524/M \u2192 $6.348/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-large-2407",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-large-2407",
+  "name": "Large 2407",
+  "detail": "input $2.7508/M \u2192 $2.116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-large-2407",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-large-2407",
+  "name": "Large 2407",
+  "detail": "output $8.2524/M \u2192 $6.348/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-medium-3",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-medium-3",
+  "name": "Medium 3",
+  "detail": "input $0.55016/M \u2192 $0.4232/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-medium-3",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-medium-3",
+  "name": "Medium 3",
+  "detail": "output $2.7508/M \u2192 $2.116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-medium-3-5",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-medium-3-5",
+  "name": "Medium 3.5",
+  "detail": "input $2.0631/M \u2192 $1.587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-medium-3-5",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-medium-3-5",
+  "name": "Medium 3.5",
+  "detail": "output $10.3155/M \u2192 $7.935/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-medium-3.1",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-medium-3.1",
+  "name": "Medium 3.1",
+  "detail": "input $0.55016/M \u2192 $0.4232/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-medium-3.1",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-medium-3.1",
+  "name": "Medium 3.1",
+  "detail": "output $2.7508/M \u2192 $2.116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-nemo",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-nemo",
+  "name": "Mistral NeMo",
+  "detail": "input $0.20631/M \u2192 $0.1587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-nemo",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-nemo",
+  "name": "Mistral NeMo",
+  "detail": "output $0.233818/M \u2192 $0.17986/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-saba",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-saba",
+  "name": "Saba",
+  "detail": "input $0.27508/M \u2192 $0.2116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-saba",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-saba",
+  "name": "Saba",
+  "detail": "output $0.82524/M \u2192 $0.6348/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-small-24b-instruct-2501",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-small-24b-instruct-2501",
+  "name": "Small 3",
+  "detail": "input $0.06877/M \u2192 $0.0529/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-small-24b-instruct-2501",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-small-24b-instruct-2501",
+  "name": "Small 3",
+  "detail": "output $0.110032/M \u2192 $0.08464/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-small-2603",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-small-2603",
+  "name": "Small 4",
+  "detail": "input $0.257888/M \u2192 $0.198375/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-small-2603",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-small-2603",
+  "name": "Small 4",
+  "detail": "output $1.03155/M \u2192 $0.7935/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-small-3.1-24b-instruct",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-small-3.1-24b-instruct",
+  "name": "Small 3.1 24B",
+  "detail": "input $0.482765/M \u2192 $0.371358/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-small-3.1-24b-instruct",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-small-3.1-24b-instruct",
+  "name": "Small 3.1 24B",
+  "detail": "output $0.763347/M \u2192 $0.58719/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-small-3.2-24b-instruct",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-small-3.2-24b-instruct",
+  "name": "Small 3.2 24B",
+  "detail": "input $0.103155/M \u2192 $0.07935/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mistral-small-3.2-24b-instruct",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mistral-small-3.2-24b-instruct",
+  "name": "Small 3.2 24B",
+  "detail": "output $0.27508/M \u2192 $0.2116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mixtral-8x22b-instruct",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mixtral-8x22b-instruct",
+  "name": "Mixtral 8x22B Instruct",
+  "detail": "input $2.7508/M \u2192 $2.116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/mixtral-8x22b-instruct",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/mixtral-8x22b-instruct",
+  "name": "Mixtral 8x22B Instruct",
+  "detail": "output $8.2524/M \u2192 $6.348/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/voxtral-small-24b-2507",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/voxtral-small-24b-2507",
+  "name": "Voxtral Small 24B 2507",
+  "detail": "input $0.13754/M \u2192 $0.1058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/mistralai/voxtral-small-24b-2507",
+  "source": "models.dev",
+  "model": "aimlapi/mistralai/voxtral-small-24b-2507",
+  "name": "Voxtral Small 24B 2507",
+  "detail": "output $0.41262/M \u2192 $0.3174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/moonshot/kimi-k3",
+  "source": "models.dev",
+  "model": "aimlapi/moonshot/kimi-k3",
+  "name": "Kimi K3",
+  "detail": "input $3.9/M \u2192 $3/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/moonshot/kimi-k3",
+  "source": "models.dev",
+  "model": "aimlapi/moonshot/kimi-k3",
+  "name": "Kimi K3",
+  "detail": "output $19.5/M \u2192 $15/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/moonshotai/kimi-k2",
+  "source": "models.dev",
+  "model": "aimlapi/moonshotai/kimi-k2",
+  "name": "Kimi K2 0711",
+  "detail": "input $0.783978/M \u2192 $0.60306/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/moonshotai/kimi-k2",
+  "source": "models.dev",
+  "model": "aimlapi/moonshotai/kimi-k2",
+  "name": "Kimi K2 0711",
+  "detail": "output $3.16342/M \u2192 $2.4334/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/moonshotai/kimi-k2-0905",
+  "source": "models.dev",
+  "model": "aimlapi/moonshotai/kimi-k2-0905",
+  "name": "Kimi K2 0905",
+  "detail": "input $1.3754/M \u2192 $1.058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/moonshotai/kimi-k2-0905",
+  "source": "models.dev",
+  "model": "aimlapi/moonshotai/kimi-k2-0905",
+  "name": "Kimi K2 0905",
+  "detail": "output $4.1262/M \u2192 $3.174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/moonshotai/kimi-k2-thinking",
+  "source": "models.dev",
+  "model": "aimlapi/moonshotai/kimi-k2-thinking",
+  "name": "Kimi K2 Thinking",
+  "detail": "input $0.82524/M \u2192 $0.6348/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/moonshotai/kimi-k2-thinking",
+  "source": "models.dev",
+  "model": "aimlapi/moonshotai/kimi-k2-thinking",
+  "name": "Kimi K2 Thinking",
+  "detail": "output $3.4385/M \u2192 $2.645/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/morph/morph-v3-fast",
+  "source": "models.dev",
+  "model": "aimlapi/morph/morph-v3-fast",
+  "name": "V3 Fast",
+  "detail": "input $1.10032/M \u2192 $0.8464/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/morph/morph-v3-fast",
+  "source": "models.dev",
+  "model": "aimlapi/morph/morph-v3-fast",
+  "name": "V3 Fast",
+  "detail": "output $1.65048/M \u2192 $1.2696/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/morph/morph-v3-large",
+  "source": "models.dev",
+  "model": "aimlapi/morph/morph-v3-large",
+  "name": "V3 Large",
+  "detail": "input $1.23786/M \u2192 $0.9522/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/morph/morph-v3-large",
+  "source": "models.dev",
+  "model": "aimlapi/morph/morph-v3-large",
+  "name": "V3 Large",
+  "detail": "output $2.61326/M \u2192 $2.0102/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/nousresearch/hermes-3-llama-3.1-405b",
+  "source": "models.dev",
+  "model": "aimlapi/nousresearch/hermes-3-llama-3.1-405b",
+  "name": "Hermes 3 405B Instruct",
+  "detail": "input $1.3754/M \u2192 $1.058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/nousresearch/hermes-3-llama-3.1-405b",
+  "source": "models.dev",
+  "model": "aimlapi/nousresearch/hermes-3-llama-3.1-405b",
+  "name": "Hermes 3 405B Instruct",
+  "detail": "output $1.3754/M \u2192 $1.058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/nousresearch/hermes-3-llama-3.1-70b",
+  "source": "models.dev",
+  "model": "aimlapi/nousresearch/hermes-3-llama-3.1-70b",
+  "name": "Hermes 3 70B Instruct",
+  "detail": "input $0.96278/M \u2192 $0.7406/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/nousresearch/hermes-3-llama-3.1-70b",
+  "source": "models.dev",
+  "model": "aimlapi/nousresearch/hermes-3-llama-3.1-70b",
+  "name": "Hermes 3 70B Instruct",
+  "detail": "output $0.96278/M \u2192 $0.7406/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-3.5-turbo",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-3.5-turbo",
+  "name": "GPT-3.5 Turbo",
+  "detail": "input $0.65/M \u2192 $0.5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-3.5-turbo",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-3.5-turbo",
+  "name": "GPT-3.5 Turbo",
+  "detail": "output $1.95/M \u2192 $1.5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4",
+  "name": "GPT-4",
+  "detail": "input $39/M \u2192 $30/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4",
+  "name": "GPT-4",
+  "detail": "output $78/M \u2192 $60/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4-turbo",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4-turbo",
+  "name": "GPT-4 Turbo",
+  "detail": "input $13/M \u2192 $10/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4-turbo",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4-turbo",
+  "name": "GPT-4 Turbo",
+  "detail": "output $39/M \u2192 $30/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4.1",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4.1",
+  "name": "GPT-4.1",
+  "detail": "input $2.6/M \u2192 $2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4.1",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4.1",
+  "name": "GPT-4.1",
+  "detail": "output $10.4/M \u2192 $8/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4.1-mini",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4.1-mini",
+  "name": "GPT-4.1 Mini",
+  "detail": "input $0.52/M \u2192 $0.4/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4.1-mini",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4.1-mini",
+  "name": "GPT-4.1 Mini",
+  "detail": "output $2.08/M \u2192 $1.6/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4.1-nano",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4.1-nano",
+  "name": "GPT-4.1 Nano",
+  "detail": "input $0.13/M \u2192 $0.1/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4.1-nano",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4.1-nano",
+  "name": "GPT-4.1 Nano",
+  "detail": "output $0.52/M \u2192 $0.4/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4o",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4o",
+  "name": "GPT-4o",
+  "detail": "input $3.25/M \u2192 $2.5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4o",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4o",
+  "name": "GPT-4o",
+  "detail": "output $13/M \u2192 $10/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4o-2024-05-13",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4o-2024-05-13",
+  "name": "GPT-4o",
+  "detail": "input $6.5/M \u2192 $5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4o-2024-05-13",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4o-2024-05-13",
+  "name": "GPT-4o",
+  "detail": "output $19.5/M \u2192 $15/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4o-2024-08-06",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4o-2024-08-06",
+  "name": "GPT-4o",
+  "detail": "input $3.25/M \u2192 $2.5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4o-2024-08-06",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4o-2024-08-06",
+  "name": "GPT-4o",
+  "detail": "output $13/M \u2192 $10/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4o-2024-11-20",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4o-2024-11-20",
+  "name": "GPT-4o",
+  "detail": "input $3.25/M \u2192 $2.5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4o-2024-11-20",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4o-2024-11-20",
+  "name": "GPT-4o",
+  "detail": "output $13/M \u2192 $10/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4o-mini",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4o-mini",
+  "name": "GPT-4o Mini",
+  "detail": "input $0.195/M \u2192 $0.15/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-4o-mini",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-4o-mini",
+  "name": "GPT-4o Mini",
+  "detail": "output $0.78/M \u2192 $0.6/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5",
+  "name": "GPT-5",
+  "detail": "input $1.625/M \u2192 $1.25/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5",
+  "name": "GPT-5",
+  "detail": "output $13/M \u2192 $10/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5-1",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5-1",
+  "name": "GPT-5.1",
+  "detail": "input $1.625/M \u2192 $1.25/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5-1",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5-1",
+  "name": "GPT-5.1",
+  "detail": "output $13/M \u2192 $10/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5-2",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5-2",
+  "name": "GPT-5.2",
+  "detail": "input $2.275/M \u2192 $1.75/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5-2",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5-2",
+  "name": "GPT-5.2",
+  "detail": "output $18.2/M \u2192 $14/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5-4",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5-4",
+  "name": "GPT-5.4",
+  "detail": "input $3.25/M \u2192 $2.5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5-4",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5-4",
+  "name": "GPT-5.4",
+  "detail": "output $19.5/M \u2192 $15/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5-5",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5-5",
+  "name": "GPT-5.5",
+  "detail": "input $6.5/M \u2192 $5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5-5",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5-5",
+  "name": "GPT-5.5",
+  "detail": "output $39/M \u2192 $30/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5-mini",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5-mini",
+  "name": "GPT-5 Mini",
+  "detail": "input $0.325/M \u2192 $0.25/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5-mini",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5-mini",
+  "name": "GPT-5 Mini",
+  "detail": "output $2.6/M \u2192 $2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5-nano",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5-nano",
+  "name": "GPT-5 Nano",
+  "detail": "input $0.065/M \u2192 $0.05/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5-nano",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5-nano",
+  "name": "GPT-5 Nano",
+  "detail": "output $0.52/M \u2192 $0.4/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5-pro",
+  "name": "GPT-5 Pro",
+  "detail": "input $20.631/M \u2192 $15.87/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5-pro",
+  "name": "GPT-5 Pro",
+  "detail": "output $165.048/M \u2192 $126.96/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.1-codex-max",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.1-codex-max",
+  "name": "GPT-5.1-Codex-Max",
+  "detail": "input $3.4385/M \u2192 $2.645/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.1-codex-max",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.1-codex-max",
+  "name": "GPT-5.1-Codex-Max",
+  "detail": "output $27.508/M \u2192 $21.16/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.2-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.2-pro",
+  "name": "GPT-5.2 Pro",
+  "detail": "input $28.8834/M \u2192 $22.218/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.2-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.2-pro",
+  "name": "GPT-5.2 Pro",
+  "detail": "output $231.0672/M \u2192 $177.744/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.3-codex",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.3-codex",
+  "name": "GPT-5.3 Codex",
+  "detail": "input $4.8139/M \u2192 $3.703/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.3-codex",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.3-codex",
+  "name": "GPT-5.3 Codex",
+  "detail": "output $38.5112/M \u2192 $29.624/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.4-image-2",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.4-image-2",
+  "name": "GPT-5.4 Image 2",
+  "detail": "input $11.0032/M \u2192 $8.464/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.4-image-2",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.4-image-2",
+  "name": "GPT-5.4 Image 2",
+  "detail": "output $20.631/M \u2192 $15.87/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.4-mini",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.4-mini",
+  "name": "GPT-5.4 Mini",
+  "detail": "input $2.0631/M \u2192 $1.587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.4-mini",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.4-mini",
+  "name": "GPT-5.4 Mini",
+  "detail": "output $12.3786/M \u2192 $9.522/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.4-nano",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.4-nano",
+  "name": "GPT-5.4 Nano",
+  "detail": "input $0.27508/M \u2192 $0.2116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.4-nano",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.4-nano",
+  "name": "GPT-5.4 Nano",
+  "detail": "output $1.71925/M \u2192 $1.3225/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.4-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.4-pro",
+  "name": "GPT-5.4 Pro",
+  "detail": "input $41.262/M \u2192 $31.74/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.4-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.4-pro",
+  "name": "GPT-5.4 Pro",
+  "detail": "output $247.572/M \u2192 $190.44/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.5-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.5-pro",
+  "name": "GPT-5.5 Pro",
+  "detail": "input $41.262/M \u2192 $31.74/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.5-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.5-pro",
+  "name": "GPT-5.5 Pro",
+  "detail": "output $247.572/M \u2192 $190.44/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.6-luna",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.6-luna",
+  "name": "GPT-5.6 Luna",
+  "detail": "input $0.26/M \u2192 $0.2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.6-luna",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.6-luna",
+  "name": "GPT-5.6 Luna",
+  "detail": "output $1.56/M \u2192 $1.2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.6-luna-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.6-luna-pro",
+  "name": "GPT-5.6 Luna Pro",
+  "detail": "input $0.27508/M \u2192 $0.2116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.6-luna-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.6-luna-pro",
+  "name": "GPT-5.6 Luna Pro",
+  "detail": "output $1.65048/M \u2192 $1.2696/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.6-sol",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.6-sol",
+  "name": "GPT-5.6 Sol",
+  "detail": "input $5.2/M \u2192 $4/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.6-sol",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.6-sol",
+  "name": "GPT-5.6 Sol",
+  "detail": "output $26/M \u2192 $20/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.6-sol-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.6-sol-pro",
+  "name": "GPT-5.6 Sol Pro",
+  "detail": "input $5.5016/M \u2192 $4.232/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.6-sol-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.6-sol-pro",
+  "name": "GPT-5.6 Sol Pro",
+  "detail": "output $27.508/M \u2192 $21.16/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.6-terra",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.6-terra",
+  "name": "GPT-5.6 Terra",
+  "detail": "input $2.6/M \u2192 $2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.6-terra",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.6-terra",
+  "name": "GPT-5.6 Terra",
+  "detail": "output $15.6/M \u2192 $12/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.6-terra-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.6-terra-pro",
+  "name": "GPT-5.6 Terra Pro",
+  "detail": "input $2.7508/M \u2192 $2.116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-5.6-terra-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-5.6-terra-pro",
+  "name": "GPT-5.6 Terra Pro",
+  "detail": "output $16.5048/M \u2192 $12.696/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-6-astra",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-6-astra",
+  "name": "GPT-6 Astra",
+  "detail": "input $13/M \u2192 $10/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-6-astra",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-6-astra",
+  "name": "GPT-6 Astra",
+  "detail": "output $65/M \u2192 $50/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-6-luna",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-6-luna",
+  "name": "GPT-6 Luna",
+  "detail": "input $0.13/M \u2192 $0.1/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-6-luna",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-6-luna",
+  "name": "GPT-6 Luna",
+  "detail": "output $0.65/M \u2192 $0.5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-6-sol",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-6-sol",
+  "name": "GPT-6 Sol",
+  "detail": "input $2.6/M \u2192 $2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-6-sol",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-6-sol",
+  "name": "GPT-6 Sol",
+  "detail": "output $13/M \u2192 $10/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-6.1-sol",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-6.1-sol",
+  "name": "GPT-6.1 Sol",
+  "detail": "input $2.6/M \u2192 $2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-6.1-sol",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-6.1-sol",
+  "name": "GPT-6.1 Sol",
+  "detail": "output $13/M \u2192 $10/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-oss-120b",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-oss-120b",
+  "name": "GPT OSS 120B",
+  "detail": "input $0.48139/M \u2192 $0.3703/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-oss-120b",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-oss-120b",
+  "name": "GPT OSS 120B",
+  "detail": "output $1.30663/M \u2192 $1.0051/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-oss-20b",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-oss-20b",
+  "name": "GPT OSS 20B",
+  "detail": "input $0.103155/M \u2192 $0.07935/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-oss-20b",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-oss-20b",
+  "name": "GPT OSS 20B",
+  "detail": "output $0.41262/M \u2192 $0.3174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-oss-safeguard-20b",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-oss-safeguard-20b",
+  "name": "gpt-oss-safeguard-20b",
+  "detail": "input $0.103155/M \u2192 $0.07935/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/gpt-oss-safeguard-20b",
+  "source": "models.dev",
+  "model": "aimlapi/openai/gpt-oss-safeguard-20b",
+  "name": "gpt-oss-safeguard-20b",
+  "detail": "output $0.41262/M \u2192 $0.3174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/o1",
+  "source": "models.dev",
+  "model": "aimlapi/openai/o1",
+  "name": "o1",
+  "detail": "input $19.5/M \u2192 $15/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/o1",
+  "source": "models.dev",
+  "model": "aimlapi/openai/o1",
+  "name": "o1",
+  "detail": "output $78/M \u2192 $60/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/o1-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/o1-pro",
+  "name": "o1-pro",
+  "detail": "input $206.31/M \u2192 $158.7/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/o1-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/o1-pro",
+  "name": "o1-pro",
+  "detail": "output $825.24/M \u2192 $634.8/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/o3-mini",
+  "source": "models.dev",
+  "model": "aimlapi/openai/o3-mini",
+  "name": "o3 Mini",
+  "detail": "input $1.43/M \u2192 $1.1/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/o3-mini",
+  "source": "models.dev",
+  "model": "aimlapi/openai/o3-mini",
+  "name": "o3 Mini",
+  "detail": "output $5.72/M \u2192 $4.4/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/o3-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/o3-pro",
+  "name": "o3 Pro",
+  "detail": "input $27.508/M \u2192 $21.16/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/openai/o3-pro",
+  "source": "models.dev",
+  "model": "aimlapi/openai/o3-pro",
+  "name": "o3 Pro",
+  "detail": "output $110.032/M \u2192 $84.64/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/perplexity/sonar",
+  "source": "models.dev",
+  "model": "aimlapi/perplexity/sonar",
+  "name": "Sonar",
+  "detail": "input $1.3/M \u2192 $1/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/perplexity/sonar",
+  "source": "models.dev",
+  "model": "aimlapi/perplexity/sonar",
+  "name": "Sonar",
+  "detail": "output $1.3/M \u2192 $1/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/perplexity/sonar-pro",
+  "source": "models.dev",
+  "model": "aimlapi/perplexity/sonar-pro",
+  "name": "Sonar Pro",
+  "detail": "input $3.9/M \u2192 $3/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/perplexity/sonar-pro",
+  "source": "models.dev",
+  "model": "aimlapi/perplexity/sonar-pro",
+  "name": "Sonar Pro",
+  "detail": "output $19.5/M \u2192 $15/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/rekaai/reka-edge",
+  "source": "models.dev",
+  "model": "aimlapi/rekaai/reka-edge",
+  "name": "Reka Edge",
+  "detail": "input $0.13754/M \u2192 $0.1058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/rekaai/reka-edge",
+  "source": "models.dev",
+  "model": "aimlapi/rekaai/reka-edge",
+  "name": "Reka Edge",
+  "detail": "output $0.13754/M \u2192 $0.1058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/relace/relace-apply-3",
+  "source": "models.dev",
+  "model": "aimlapi/relace/relace-apply-3",
+  "name": "Apply 3",
+  "detail": "input $1.16909/M \u2192 $0.8993/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/relace/relace-apply-3",
+  "source": "models.dev",
+  "model": "aimlapi/relace/relace-apply-3",
+  "name": "Apply 3",
+  "detail": "output $1.71925/M \u2192 $1.3225/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/relace/relace-search",
+  "source": "models.dev",
+  "model": "aimlapi/relace/relace-search",
+  "name": "Search",
+  "detail": "input $1.3754/M \u2192 $1.058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/relace/relace-search",
+  "source": "models.dev",
+  "model": "aimlapi/relace/relace-search",
+  "name": "Search",
+  "detail": "output $4.1262/M \u2192 $3.174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/sakana/fugu-max",
+  "source": "models.dev",
+  "model": "aimlapi/sakana/fugu-max",
+  "name": "Fugu Max",
+  "detail": "input $2.7508/M \u2192 $2.116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/sakana/fugu-max",
+  "source": "models.dev",
+  "model": "aimlapi/sakana/fugu-max",
+  "name": "Fugu Max",
+  "detail": "output $8.2524/M \u2192 $6.348/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/sakana/fugu-ultra",
+  "source": "models.dev",
+  "model": "aimlapi/sakana/fugu-ultra",
+  "name": "Fugu Ultra",
+  "detail": "input $6.877/M \u2192 $5.29/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/sakana/fugu-ultra",
+  "source": "models.dev",
+  "model": "aimlapi/sakana/fugu-ultra",
+  "name": "Fugu Ultra",
+  "detail": "output $41.262/M \u2192 $31.74/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/sakana/fugu-ultra-v2",
+  "source": "models.dev",
+  "model": "aimlapi/sakana/fugu-ultra-v2",
+  "name": "Fugu Ultra v2",
+  "detail": "input $6.877/M \u2192 $5.29/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/sakana/fugu-ultra-v2",
+  "source": "models.dev",
+  "model": "aimlapi/sakana/fugu-ultra-v2",
+  "name": "Fugu Ultra v2",
+  "detail": "output $41.262/M \u2192 $31.74/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/sao10k/l3-lunaris-8b",
+  "source": "models.dev",
+  "model": "aimlapi/sao10k/l3-lunaris-8b",
+  "name": "Llama 3 8B Lunaris",
+  "detail": "input $0.06877/M \u2192 $0.0529/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/sao10k/l3-lunaris-8b",
+  "source": "models.dev",
+  "model": "aimlapi/sao10k/l3-lunaris-8b",
+  "name": "Llama 3 8B Lunaris",
+  "detail": "output $0.06877/M \u2192 $0.0529/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/sao10k/l3.1-euryale-70b",
+  "source": "models.dev",
+  "model": "aimlapi/sao10k/l3.1-euryale-70b",
+  "name": "Llama 3.1 Euryale 70B v2.2",
+  "detail": "input $1.99488/M \u2192 $1.534523/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/sao10k/l3.1-euryale-70b",
+  "source": "models.dev",
+  "model": "aimlapi/sao10k/l3.1-euryale-70b",
+  "name": "Llama 3.1 Euryale 70B v2.2",
+  "detail": "output $1.99488/M \u2192 $1.534523/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/sao10k/l3.3-euryale-70b",
+  "source": "models.dev",
+  "model": "aimlapi/sao10k/l3.3-euryale-70b",
+  "name": "Llama 3.3 Euryale 70B",
+  "detail": "input $0.89401/M \u2192 $0.6877/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/sao10k/l3.3-euryale-70b",
+  "source": "models.dev",
+  "model": "aimlapi/sao10k/l3.3-euryale-70b",
+  "name": "Llama 3.3 Euryale 70B",
+  "detail": "output $1.03155/M \u2192 $0.7935/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/stepfun/step-5-preview",
+  "source": "models.dev",
+  "model": "aimlapi/stepfun/step-5-preview",
+  "name": "Step 5 Preview",
+  "detail": "input $1.3754/M \u2192 $1.058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/stepfun/step-5-preview",
+  "source": "models.dev",
+  "model": "aimlapi/stepfun/step-5-preview",
+  "name": "Step 5 Preview",
+  "detail": "output $3.71358/M \u2192 $2.8566/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/tencent/hy-mt2-1.8b",
+  "source": "models.dev",
+  "model": "aimlapi/tencent/hy-mt2-1.8b",
+  "name": "Hy-MT2-1.8B",
+  "detail": "input $0.060518/M \u2192 $0.046552/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/tencent/hy-mt2-1.8b",
+  "source": "models.dev",
+  "model": "aimlapi/tencent/hy-mt2-1.8b",
+  "name": "Hy-MT2-1.8B",
+  "detail": "output $0.243446/M \u2192 $0.187266/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/tencent/hy-mt2-30b-a3b",
+  "source": "models.dev",
+  "model": "aimlapi/tencent/hy-mt2-30b-a3b",
+  "name": "Hy-MT2-30B-A3B",
+  "detail": "input $0.10178/M \u2192 $0.078292/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/tencent/hy-mt2-30b-a3b",
+  "source": "models.dev",
+  "model": "aimlapi/tencent/hy-mt2-30b-a3b",
+  "name": "Hy-MT2-30B-A3B",
+  "detail": "output $0.405743/M \u2192 $0.31211/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/tencent/hy-mt2-7b",
+  "source": "models.dev",
+  "model": "aimlapi/tencent/hy-mt2-7b",
+  "name": "Hy-MT2-7B",
+  "detail": "input $0.10178/M \u2192 $0.078292/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/tencent/hy-mt2-7b",
+  "source": "models.dev",
+  "model": "aimlapi/tencent/hy-mt2-7b",
+  "name": "Hy-MT2-7B",
+  "detail": "output $0.405743/M \u2192 $0.31211/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/tencent/hy3",
+  "source": "models.dev",
+  "model": "aimlapi/tencent/hy3",
+  "name": "Hy3",
+  "detail": "input $0.27508/M \u2192 $0.2116/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/tencent/hy3",
+  "source": "models.dev",
+  "model": "aimlapi/tencent/hy3",
+  "name": "Hy3",
+  "detail": "output $1.10032/M \u2192 $0.8464/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/tencent/hy4-preview",
+  "source": "models.dev",
+  "model": "aimlapi/tencent/hy4-preview",
+  "name": "Hy4 preview",
+  "detail": "input $1.147084/M \u2192 $0.882372/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/tencent/hy4-preview",
+  "source": "models.dev",
+  "model": "aimlapi/tencent/hy4-preview",
+  "name": "Hy4 preview",
+  "detail": "output $3.439875/M \u2192 $2.646058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/thedrummer/cydonia-24b-v4.1",
+  "source": "models.dev",
+  "model": "aimlapi/thedrummer/cydonia-24b-v4.1",
+  "name": "Cydonia 24B V4.1",
+  "detail": "input $0.41262/M \u2192 $0.3174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/thedrummer/cydonia-24b-v4.1",
+  "source": "models.dev",
+  "model": "aimlapi/thedrummer/cydonia-24b-v4.1",
+  "name": "Cydonia 24B V4.1",
+  "detail": "output $0.6877/M \u2192 $0.529/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/thedrummer/skyfall-36b-v2",
+  "source": "models.dev",
+  "model": "aimlapi/thedrummer/skyfall-36b-v2",
+  "name": "Skyfall 36B V2",
+  "detail": "input $0.75647/M \u2192 $0.5819/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/thedrummer/skyfall-36b-v2",
+  "source": "models.dev",
+  "model": "aimlapi/thedrummer/skyfall-36b-v2",
+  "name": "Skyfall 36B V2",
+  "detail": "output $1.10032/M \u2192 $0.8464/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/thedrummer/unslopnemo-12b",
+  "source": "models.dev",
+  "model": "aimlapi/thedrummer/unslopnemo-12b",
+  "name": "UnslopNemo 12B",
+  "detail": "input $0.55016/M \u2192 $0.4232/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/thedrummer/unslopnemo-12b",
+  "source": "models.dev",
+  "model": "aimlapi/thedrummer/unslopnemo-12b",
+  "name": "UnslopNemo 12B",
+  "detail": "output $0.55016/M \u2192 $0.4232/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/thinkingmachines/inkling",
+  "source": "models.dev",
+  "model": "aimlapi/thinkingmachines/inkling",
+  "name": "Inkling",
+  "detail": "input $1.3754/M \u2192 $1.058/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/thinkingmachines/inkling",
+  "source": "models.dev",
+  "model": "aimlapi/thinkingmachines/inkling",
+  "name": "Inkling",
+  "detail": "output $5.57037/M \u2192 $4.2849/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/thinkingmachines/inkling-small",
+  "source": "models.dev",
+  "model": "aimlapi/thinkingmachines/inkling-small",
+  "name": "Inkling Small",
+  "detail": "input $0.797732/M \u2192 $0.61364/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/thinkingmachines/inkling-small",
+  "source": "models.dev",
+  "model": "aimlapi/thinkingmachines/inkling-small",
+  "name": "Inkling Small",
+  "detail": "output $1.980576/M \u2192 $1.52352/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/unbiased/pareto",
+  "source": "models.dev",
+  "model": "aimlapi/unbiased/pareto",
+  "name": "Pareto",
+  "detail": "input $3.4385/M \u2192 $2.645/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/unbiased/pareto",
+  "source": "models.dev",
+  "model": "aimlapi/unbiased/pareto",
+  "name": "Pareto",
+  "detail": "output $10.3155/M \u2192 $7.935/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/undi95/remm-slerp-l2-13b",
+  "source": "models.dev",
+  "model": "aimlapi/undi95/remm-slerp-l2-13b",
+  "name": "ReMM SLERP 13B",
+  "detail": "input $0.6877/M \u2192 $0.529/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/undi95/remm-slerp-l2-13b",
+  "source": "models.dev",
+  "model": "aimlapi/undi95/remm-slerp-l2-13b",
+  "name": "ReMM SLERP 13B",
+  "detail": "output $1.03155/M \u2192 $0.7935/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/upstage/solar-pro-3",
+  "source": "models.dev",
+  "model": "aimlapi/upstage/solar-pro-3",
+  "name": "Solar Pro 3",
+  "detail": "input $0.20631/M \u2192 $0.1587/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/upstage/solar-pro-3",
+  "source": "models.dev",
+  "model": "aimlapi/upstage/solar-pro-3",
+  "name": "Solar Pro 3",
+  "detail": "output $0.82524/M \u2192 $0.6348/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/upstage/solar-pro4",
+  "source": "models.dev",
+  "model": "aimlapi/upstage/solar-pro4",
+  "name": "Solar Pro 4",
+  "detail": "input $0.041262/M \u2192 $0.03174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/upstage/solar-pro4",
+  "source": "models.dev",
+  "model": "aimlapi/upstage/solar-pro4",
+  "name": "Solar Pro 4",
+  "detail": "output $0.165048/M \u2192 $0.12696/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/x-ai/grok-4-20-0309-non-reasoning",
+  "source": "models.dev",
+  "model": "aimlapi/x-ai/grok-4-20-0309-non-reasoning",
+  "name": "Grok 4.20 Non-Reasoning",
+  "detail": "input $1.625/M \u2192 $1.25/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/x-ai/grok-4-20-0309-non-reasoning",
+  "source": "models.dev",
+  "model": "aimlapi/x-ai/grok-4-20-0309-non-reasoning",
+  "name": "Grok 4.20 Non-Reasoning",
+  "detail": "output $3.25/M \u2192 $2.5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/x-ai/grok-4-fast-non-reasoning",
+  "source": "models.dev",
+  "model": "aimlapi/x-ai/grok-4-fast-non-reasoning",
+  "name": "Grok 4 Fast Non-Reasoning",
+  "detail": "input $1.625/M \u2192 $1.25/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/x-ai/grok-4-fast-non-reasoning",
+  "source": "models.dev",
+  "model": "aimlapi/x-ai/grok-4-fast-non-reasoning",
+  "name": "Grok 4 Fast Non-Reasoning",
+  "detail": "output $3.25/M \u2192 $2.5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/xiaomi/mimo-v2.5",
+  "source": "models.dev",
+  "model": "aimlapi/xiaomi/mimo-v2.5",
+  "name": "MiMo V2.5",
+  "detail": "input $0.192556/M \u2192 $0.14812/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/xiaomi/mimo-v2.5",
+  "source": "models.dev",
+  "model": "aimlapi/xiaomi/mimo-v2.5",
+  "name": "MiMo V2.5",
+  "detail": "output $0.385112/M \u2192 $0.29624/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/xiaomi/mimo-v2.5-pro",
+  "source": "models.dev",
+  "model": "aimlapi/xiaomi/mimo-v2.5-pro",
+  "name": "MiMo V2.5 Pro",
+  "detail": "input $0.598299/M \u2192 $0.46023/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/xiaomi/mimo-v2.5-pro",
+  "source": "models.dev",
+  "model": "aimlapi/xiaomi/mimo-v2.5-pro",
+  "name": "MiMo V2.5 Pro",
+  "detail": "output $1.196598/M \u2192 $0.92046/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/z-ai/glm-4.5v",
+  "source": "models.dev",
+  "model": "aimlapi/z-ai/glm-4.5v",
+  "name": "GLM 4.5V",
+  "detail": "input $0.82524/M \u2192 $0.6348/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/z-ai/glm-4.5v",
+  "source": "models.dev",
+  "model": "aimlapi/z-ai/glm-4.5v",
+  "name": "GLM 4.5V",
+  "detail": "output $2.47572/M \u2192 $1.9044/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/z-ai/glm-4.6v",
+  "source": "models.dev",
+  "model": "aimlapi/z-ai/glm-4.6v",
+  "name": "GLM 4.6V",
+  "detail": "input $0.41262/M \u2192 $0.3174/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/z-ai/glm-4.6v",
+  "source": "models.dev",
+  "model": "aimlapi/z-ai/glm-4.6v",
+  "name": "GLM 4.6V",
+  "detail": "output $1.23786/M \u2192 $0.9522/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/z-ai/glm-4.7-flash",
+  "source": "models.dev",
+  "model": "aimlapi/z-ai/glm-4.7-flash",
+  "name": "GLM 4.7 Flash",
+  "detail": "input $0.171925/M \u2192 $0.13225/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/z-ai/glm-4.7-flash",
+  "source": "models.dev",
+  "model": "aimlapi/z-ai/glm-4.7-flash",
+  "name": "GLM 4.7 Flash",
+  "detail": "output $0.6877/M \u2192 $0.529/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/z-ai/glm-5-turbo",
+  "source": "models.dev",
+  "model": "aimlapi/z-ai/glm-5-turbo",
+  "name": "GLM 5 Turbo",
+  "detail": "input $1.56/M \u2192 $1.2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/z-ai/glm-5-turbo",
+  "source": "models.dev",
+  "model": "aimlapi/z-ai/glm-5-turbo",
+  "name": "GLM 5 Turbo",
+  "detail": "output $5.2/M \u2192 $4/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/z-ai/glm-5.3-flash",
+  "source": "models.dev",
+  "model": "aimlapi/z-ai/glm-5.3-flash",
+  "name": "GLM 5.3 Flash",
+  "detail": "input $0.195/M \u2192 $0.15/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/z-ai/glm-5.3-flash",
+  "source": "models.dev",
+  "model": "aimlapi/z-ai/glm-5.3-flash",
+  "name": "GLM 5.3 Flash",
+  "detail": "output $0.65/M \u2192 $0.5/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/z-ai/glm-5v-turbo",
+  "source": "models.dev",
+  "model": "aimlapi/z-ai/glm-5v-turbo",
+  "name": "GLM 5V Turbo",
+  "detail": "input $1.56/M \u2192 $1.2/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/z-ai/glm-5v-turbo",
+  "source": "models.dev",
+  "model": "aimlapi/z-ai/glm-5v-turbo",
+  "name": "GLM 5V Turbo",
+  "detail": "output $5.2/M \u2192 $4/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/zhipu/glm-5.2",
+  "source": "models.dev",
+  "model": "aimlapi/zhipu/glm-5.2",
+  "name": "GLM 5.2",
+  "detail": "input $1.82/M \u2192 $1.4/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/zhipu/glm-5.2",
+  "source": "models.dev",
+  "model": "aimlapi/zhipu/glm-5.2",
+  "name": "GLM 5.2",
+  "detail": "output $5.72/M \u2192 $4.4/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/zhipu/glm-5.3",
+  "source": "models.dev",
+  "model": "aimlapi/zhipu/glm-5.3",
+  "name": "GLM 5.3",
+  "detail": "input $1.82/M \u2192 $1.4/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:aimlapi/zhipu/glm-5.3",
+  "source": "models.dev",
+  "model": "aimlapi/zhipu/glm-5.3",
+  "name": "GLM 5.3",
+  "detail": "output $5.72/M \u2192 $4.4/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:engy/deepseek-v4.1-flash",
+  "source": "models.dev",
+  "model": "engy/deepseek-v4.1-flash",
+  "name": "DeepSeek V4.1 Flash",
+  "detail": "input $0.04/M \u2192 $0.03/M (-25%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:engy/deepseek-v4.1-flash",
+  "source": "models.dev",
+  "model": "engy/deepseek-v4.1-flash",
+  "name": "DeepSeek V4.1 Flash",
+  "detail": "output $0.08/M \u2192 $0.12/M (+50%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:engy/deepseek-v4.1-flash-1017",
+  "source": "models.dev",
+  "model": "engy/deepseek-v4.1-flash-1017",
+  "name": "DeepSeek V4.1 Flash 1017",
+  "detail": "input $0.04/M \u2192 $0.03/M (-25%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:engy/deepseek-v4.1-flash-1017",
+  "source": "models.dev",
+  "model": "engy/deepseek-v4.1-flash-1017",
+  "name": "DeepSeek V4.1 Flash 1017",
+  "detail": "output $0.08/M \u2192 $0.12/M (+50%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:fastrouter/google/gemma-4-31b-it",
+  "source": "models.dev",
+  "model": "fastrouter/google/gemma-4-31b-it",
+  "name": "Gemma 4 31B IT",
+  "detail": "input $0.13/M \u2192 $0.1/M (-23%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:fastrouter/google/gemma-4-31b-it",
+  "source": "models.dev",
+  "model": "fastrouter/google/gemma-4-31b-it",
+  "name": "Gemma 4 31B IT",
+  "detail": "output $0.38/M \u2192 $0.3/M (-21%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:fastrouter/openai/gpt-oss-120b",
+  "source": "models.dev",
+  "model": "fastrouter/openai/gpt-oss-120b",
+  "name": "GPT OSS 120B",
+  "detail": "input $0.15/M \u2192 $0.09/M (-40%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:fastrouter/openai/gpt-oss-120b",
+  "source": "models.dev",
+  "model": "fastrouter/openai/gpt-oss-120b",
+  "name": "GPT OSS 120B",
+  "detail": "output $0.6/M \u2192 $0.36/M (-40%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:fastrouter/openai/gpt-oss-20b",
+  "source": "models.dev",
+  "model": "fastrouter/openai/gpt-oss-20b",
+  "name": "GPT OSS 20B",
+  "detail": "input $0.05/M \u2192 $0.07/M (+40%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:fastrouter/openai/gpt-oss-20b",
+  "source": "models.dev",
+  "model": "fastrouter/openai/gpt-oss-20b",
+  "name": "GPT OSS 20B",
+  "detail": "output $0.2/M \u2192 $0.25/M (+25%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:fastrouter/z-ai/glm-5",
+  "source": "models.dev",
+  "model": "fastrouter/z-ai/glm-5",
+  "name": "GLM-5",
+  "detail": "input $0.95/M \u2192 $0.6/M (-37%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:fastrouter/z-ai/glm-5",
+  "source": "models.dev",
+  "model": "fastrouter/z-ai/glm-5",
+  "name": "GLM-5",
+  "detail": "output $3.15/M \u2192 $2.08/M (-34%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:inceptron/deepseek-ai/DeepSeek-V4-Flash-0731",
+  "source": "models.dev",
+  "model": "inceptron/deepseek-ai/DeepSeek-V4-Flash-0731",
+  "name": "DeepSeek V4 Flash 0731",
+  "detail": "input $0.13/M \u2192 $0.11/M (-15%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:inceptron/deepseek-ai/DeepSeek-V4-Flash-0731",
+  "source": "models.dev",
+  "model": "inceptron/deepseek-ai/DeepSeek-V4-Flash-0731",
+  "name": "DeepSeek V4 Flash 0731",
+  "detail": "output $0.28/M \u2192 $0.3666/M (+31%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:inceptron/moonshotai/Kimi-K2.6",
+  "source": "models.dev",
+  "model": "inceptron/moonshotai/Kimi-K2.6",
+  "name": "Kimi K2.6",
+  "detail": "input $0.53/M \u2192 $0.5621/M (+6%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:inceptron/moonshotai/Kimi-K2.6",
+  "source": "models.dev",
+  "model": "inceptron/moonshotai/Kimi-K2.6",
+  "name": "Kimi K2.6",
+  "detail": "output $3.39/M \u2192 $3.2/M (-6%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:inceptron/zai-org/GLM-5.2",
+  "source": "models.dev",
+  "model": "inceptron/zai-org/GLM-5.2",
+  "name": "GLM 5.2",
+  "detail": "input $0.71/M \u2192 $0.62/M (-13%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:inceptron/zai-org/GLM-5.2",
+  "source": "models.dev",
+  "model": "inceptron/zai-org/GLM-5.2",
+  "name": "GLM 5.2",
+  "detail": "output $2.35/M \u2192 $1.188/M (-49%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/minimax/minimax-m2.5",
+  "source": "models.dev",
+  "model": "kilo/minimax/minimax-m2.5",
+  "name": "MiniMax-M2.5",
+  "detail": "input $0.3/M \u2192 $0.27/M (-10%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/minimax/minimax-m2.5",
+  "source": "models.dev",
+  "model": "kilo/minimax/minimax-m2.5",
+  "name": "MiniMax-M2.5",
+  "detail": "output $1.2/M \u2192 $0.95/M (-21%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/minimax/minimax-m3",
+  "source": "models.dev",
+  "model": "kilo/minimax/minimax-m3",
+  "name": "MiniMax-M3",
+  "detail": "input $0.3/M \u2192 $0.224/M (-25%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/minimax/minimax-m3",
+  "source": "models.dev",
+  "model": "kilo/minimax/minimax-m3",
+  "name": "MiniMax-M3",
+  "detail": "output $1.2/M \u2192 $0.88/M (-27%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/thinkingmachines/inkling",
+  "source": "models.dev",
+  "model": "kilo/thinkingmachines/inkling",
+  "name": "Inkling",
+  "detail": "input $0.95/M \u2192 $1/M (+5%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/~deepseek/deepseek-flash-latest",
+  "source": "models.dev",
+  "model": "kilo/~deepseek/deepseek-flash-latest",
+  "name": "DeepSeek: DeepSeek Flash Latest",
+  "detail": "input $0.049/M \u2192 $0.07/M (+43%) \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/~deepseek/deepseek-flash-latest",
+  "source": "models.dev",
+  "model": "kilo/~deepseek/deepseek-flash-latest",
+  "name": "DeepSeek: DeepSeek Flash Latest",
+  "detail": "output $0.375/M \u2192 $0.5/M (+33%) \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/~moonshotai/kimi-latest",
+  "source": "models.dev",
+  "model": "kilo/~moonshotai/kimi-latest",
+  "name": "MoonshotAI: Kimi Latest",
+  "detail": "output $24/M \u2192 $16/M (-33%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/~z-ai/glm-flash-latest",
+  "source": "models.dev",
+  "model": "kilo/~z-ai/glm-flash-latest",
+  "name": "Z.ai: GLM Flash Latest",
+  "detail": "input $0.041191/M \u2192 $0.0052/M (-87%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:kilo/~z-ai/glm-flash-latest",
+  "source": "models.dev",
+  "model": "kilo/~z-ai/glm-flash-latest",
+  "name": "Z.ai: GLM Flash Latest",
+  "detail": "output $0.12/M \u2192 $0.1985/M (+65%) \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/glm-4.5-air",
+  "source": "models.dev",
+  "model": "llmgateway/glm-4.5-air",
+  "name": "GLM-4.5-Air",
+  "detail": "input $0.13/M \u2192 $0.2/M (+54%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/glm-4.5-air",
+  "source": "models.dev",
+  "model": "llmgateway/glm-4.5-air",
+  "name": "GLM-4.5-Air",
+  "detail": "output $0.85/M \u2192 $1.1/M (+29%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/glm-4.7",
+  "source": "models.dev",
+  "model": "llmgateway/glm-4.7",
+  "name": "GLM-4.7",
+  "detail": "input $0.38/M \u2192 $0.45/M (+18%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/glm-5",
+  "source": "models.dev",
+  "model": "llmgateway/glm-5",
+  "name": "GLM-5",
+  "detail": "input $0.72/M \u2192 $0.573/M (-20%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/glm-5",
+  "source": "models.dev",
+  "model": "llmgateway/glm-5",
+  "name": "GLM-5",
+  "detail": "output $2.3/M \u2192 $2.58/M (+12%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/glm-5.1",
+  "source": "models.dev",
+  "model": "llmgateway/glm-5.1",
+  "name": "GLM-5.1",
+  "detail": "input $0.931/M \u2192 $1.38/M (+48%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/glm-5.1",
+  "source": "models.dev",
+  "model": "llmgateway/glm-5.1",
+  "name": "GLM-5.1",
+  "detail": "output $2.93/M \u2192 $4.4/M (+50%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/kimi-k2.5",
+  "source": "models.dev",
+  "model": "llmgateway/kimi-k2.5",
+  "name": "Kimi K2.5",
+  "detail": "input $0.405/M \u2192 $0.574/M (+42%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/kimi-k2.5",
+  "source": "models.dev",
+  "model": "llmgateway/kimi-k2.5",
+  "name": "Kimi K2.5",
+  "detail": "output $1.98/M \u2192 $3.011/M (+52%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/mimo-v2.5",
+  "source": "models.dev",
+  "model": "llmgateway/mimo-v2.5",
+  "name": "MiMo-V2.5",
+  "detail": "input $0.168/M \u2192 $0.14/M (-17%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/mimo-v2.5",
+  "source": "models.dev",
+  "model": "llmgateway/mimo-v2.5",
+  "name": "MiMo-V2.5",
+  "detail": "output $0.336/M \u2192 $0.28/M (-17%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/mimo-v2.5-pro",
+  "source": "models.dev",
+  "model": "llmgateway/mimo-v2.5-pro",
+  "name": "MiMo-V2.5-Pro",
+  "detail": "input $0.522/M \u2192 $0.435/M (-17%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:llmgateway/mimo-v2.5-pro",
+  "source": "models.dev",
+  "model": "llmgateway/mimo-v2.5-pro",
+  "name": "MiMo-V2.5-Pro",
+  "detail": "output $1.044/M \u2192 $0.87/M (-17%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:mistral/mistral-large-4",
+  "source": "models.dev",
+  "model": "mistral/mistral-large-4",
+  "name": "Mistral Large 4",
+  "detail": "input $0.68/M \u2192 $1.36/M (+100%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:mistral/mistral-large-4",
+  "source": "models.dev",
+  "model": "mistral/mistral-large-4",
+  "name": "Mistral Large 4",
+  "detail": "output $2.09/M \u2192 $4.18/M (+100%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/deepseek/deepseek-latest",
+  "source": "models.dev",
+  "model": "nano-gpt/deepseek/deepseek-latest",
+  "name": "DeepSeek Latest",
+  "detail": "input $0.66/M \u2192 $0.1452/M (-78%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/deepseek/deepseek-latest",
+  "source": "models.dev",
+  "model": "nano-gpt/deepseek/deepseek-latest",
+  "name": "DeepSeek Latest",
+  "detail": "output $1.98/M \u2192 $0.4356/M (-78%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/deepseek/deepseek-v4-flash-0731",
+  "source": "models.dev",
+  "model": "nano-gpt/deepseek/deepseek-v4-flash-0731",
+  "name": "DeepSeek V4 Flash 0731",
+  "detail": "input $0.05/M \u2192 $0.04444/M (-11%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/deepseek/deepseek-v4-flash-0731",
+  "source": "models.dev",
+  "model": "nano-gpt/deepseek/deepseek-v4-flash-0731",
+  "name": "DeepSeek V4 Flash 0731",
+  "detail": "output $0.16/M \u2192 $0.13332/M (-17%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/deepseek/deepseek-v4-flash-0731:thinking",
+  "source": "models.dev",
+  "model": "nano-gpt/deepseek/deepseek-v4-flash-0731:thinking",
+  "name": "DeepSeek V4 Flash 0731 (Thinking)",
+  "detail": "input $0.05/M \u2192 $0.04444/M (-11%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/deepseek/deepseek-v4-flash-0731:thinking",
+  "source": "models.dev",
+  "model": "nano-gpt/deepseek/deepseek-v4-flash-0731:thinking",
+  "name": "DeepSeek V4 Flash 0731 (Thinking)",
+  "detail": "output $0.16/M \u2192 $0.13332/M (-17%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/deepseek/deepseek-v4-pro-0813",
+  "source": "models.dev",
+  "model": "nano-gpt/deepseek/deepseek-v4-pro-0813",
+  "name": "DeepSeek V4 Pro 0813",
+  "detail": "input $0.66/M \u2192 $0.1452/M (-78%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/deepseek/deepseek-v4-pro-0813",
+  "source": "models.dev",
+  "model": "nano-gpt/deepseek/deepseek-v4-pro-0813",
+  "name": "DeepSeek V4 Pro 0813",
+  "detail": "output $1.98/M \u2192 $0.4356/M (-78%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/deepseek/deepseek-v4-pro-0813:thinking",
+  "source": "models.dev",
+  "model": "nano-gpt/deepseek/deepseek-v4-pro-0813:thinking",
+  "name": "DeepSeek V4 Pro 0813 Thinking",
+  "detail": "input $0.66/M \u2192 $0.1452/M (-78%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/deepseek/deepseek-v4-pro-0813:thinking",
+  "source": "models.dev",
+  "model": "nano-gpt/deepseek/deepseek-v4-pro-0813:thinking",
+  "name": "DeepSeek V4 Pro 0813 Thinking",
+  "detail": "output $1.98/M \u2192 $0.4356/M (-78%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/deepseek/deepseek-v4.1-flash",
+  "source": "models.dev",
+  "model": "nano-gpt/deepseek/deepseek-v4.1-flash",
+  "name": "DeepSeek V4.1 Flash",
+  "detail": "input $0.14/M \u2192 $0.09/M (-36%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/deepseek/deepseek-v4.1-flash",
+  "source": "models.dev",
+  "model": "nano-gpt/deepseek/deepseek-v4.1-flash",
+  "name": "DeepSeek V4.1 Flash",
+  "detail": "output $0.42/M \u2192 $0.25/M (-40%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/deepseek/deepseek-v4.1-flash:thinking",
+  "source": "models.dev",
+  "model": "nano-gpt/deepseek/deepseek-v4.1-flash:thinking",
+  "name": "DeepSeek V4.1 Flash Thinking",
+  "detail": "input $0.14/M \u2192 $0.09/M (-36%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/deepseek/deepseek-v4.1-flash:thinking",
+  "source": "models.dev",
+  "model": "nano-gpt/deepseek/deepseek-v4.1-flash:thinking",
+  "name": "DeepSeek V4.1 Flash Thinking",
+  "detail": "output $0.42/M \u2192 $0.25/M (-40%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/google/gemma-4-26b-a4b-it",
+  "source": "models.dev",
+  "model": "nano-gpt/google/gemma-4-26b-a4b-it",
+  "name": "Gemma 4 26B A4B",
+  "detail": "input $0.0765/M \u2192 $0.09/M (+18%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/google/gemma-4-26b-a4b-it",
+  "source": "models.dev",
+  "model": "nano-gpt/google/gemma-4-26b-a4b-it",
+  "name": "Gemma 4 26B A4B",
+  "detail": "output $0.255/M \u2192 $0.3/M (+18%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/google/gemma-4-26b-a4b-it:thinking",
+  "source": "models.dev",
+  "model": "nano-gpt/google/gemma-4-26b-a4b-it:thinking",
+  "name": "Gemma 4 26B A4B Thinking",
+  "detail": "input $0.0765/M \u2192 $0.09/M (+18%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/google/gemma-4-26b-a4b-it:thinking",
+  "source": "models.dev",
+  "model": "nano-gpt/google/gemma-4-26b-a4b-it:thinking",
+  "name": "Gemma 4 26B A4B Thinking",
+  "detail": "output $0.255/M \u2192 $0.3/M (+18%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/moonshotai/kimi-k2.6",
+  "source": "models.dev",
+  "model": "nano-gpt/moonshotai/kimi-k2.6",
+  "name": "Kimi K2.6",
+  "detail": "output $1.95/M \u2192 $1.892/M (-3%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/moonshotai/kimi-k2.6:thinking",
+  "source": "models.dev",
+  "model": "nano-gpt/moonshotai/kimi-k2.6:thinking",
+  "name": "Kimi K2.6 Thinking",
+  "detail": "output $1.95/M \u2192 $1.892/M (-3%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/thinkingmachines/inkling:thinking",
+  "source": "models.dev",
+  "model": "nano-gpt/thinkingmachines/inkling:thinking",
+  "name": "Inkling Thinking",
+  "detail": "input $0.95/M \u2192 $1/M (+5%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/z-ai/glm-5.2",
+  "source": "models.dev",
+  "model": "nano-gpt/z-ai/glm-5.2",
+  "name": "GLM 5.2",
+  "detail": "input $0.42/M \u2192 $0.189/M (-55%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/z-ai/glm-5.2",
+  "source": "models.dev",
+  "model": "nano-gpt/z-ai/glm-5.2",
+  "name": "GLM 5.2",
+  "detail": "output $1.32/M \u2192 $0.594/M (-55%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/z-ai/glm-5.2:thinking",
+  "source": "models.dev",
+  "model": "nano-gpt/z-ai/glm-5.2:thinking",
+  "name": "GLM 5.2 Thinking",
+  "detail": "input $0.42/M \u2192 $0.189/M (-55%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:nano-gpt/z-ai/glm-5.2:thinking",
+  "source": "models.dev",
+  "model": "nano-gpt/z-ai/glm-5.2:thinking",
+  "name": "GLM 5.2 Thinking",
+  "detail": "output $1.32/M \u2192 $0.594/M (-55%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/deepseek/deepseek-v4-pro",
+  "source": "models.dev",
+  "model": "openrouter/deepseek/deepseek-v4-pro",
+  "name": "DeepSeek V4 Pro",
+  "detail": "input $0.427518/M \u2192 $0.442656/M (+4%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/deepseek/deepseek-v4-pro",
+  "source": "models.dev",
+  "model": "openrouter/deepseek/deepseek-v4-pro",
+  "name": "DeepSeek V4 Pro",
+  "detail": "output $0.855036/M \u2192 $0.885312/M (+4%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/deepseek/deepseek-v4.1-flash",
+  "source": "models.dev",
+  "model": "openrouter/deepseek/deepseek-v4.1-flash",
+  "name": "DeepSeek V4.1 Flash",
+  "detail": "input $0.02394/M \u2192 $0.3/M (+1153%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/deepseek/deepseek-v4.1-flash",
+  "source": "models.dev",
+  "model": "openrouter/deepseek/deepseek-v4.1-flash",
+  "name": "DeepSeek V4.1 Flash",
+  "detail": "output $0.375/M \u2192 $1.2/M (+220%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/nvidia/nemotron-3-super-120b-a12b",
+  "source": "models.dev",
+  "model": "openrouter/nvidia/nemotron-3-super-120b-a12b",
+  "name": "Nemotron 3 Super 120B A12B",
+  "detail": "input $0.08/M \u2192 $0.3/M (+275%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/nvidia/nemotron-3-super-120b-a12b",
+  "source": "models.dev",
+  "model": "openrouter/nvidia/nemotron-3-super-120b-a12b",
+  "name": "Nemotron 3 Super 120B A12B",
+  "detail": "output $0.45/M \u2192 $2.4/M (+433%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/qwen/qwen3.5-397b-a17b",
+  "source": "models.dev",
+  "model": "openrouter/qwen/qwen3.5-397b-a17b",
+  "name": "Qwen3.5 397B-A17B",
+  "detail": "input $0.39/M \u2192 $0.5/M (+28%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/qwen/qwen3.5-397b-a17b",
+  "source": "models.dev",
+  "model": "openrouter/qwen/qwen3.5-397b-a17b",
+  "name": "Qwen3.5 397B-A17B",
+  "detail": "output $2.34/M \u2192 $3.6/M (+54%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/reflection/beam-1.0-501b-a23b",
+  "source": "models.dev",
+  "model": "openrouter/reflection/beam-1.0-501b-a23b",
+  "name": "Beam 1.0 501B A23B",
+  "detail": "input $0.3/M \u2192 $0.25/M (-17%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/z-ai/glm-5.3",
+  "source": "models.dev",
+  "model": "openrouter/z-ai/glm-5.3",
+  "name": "GLM-5.3",
+  "detail": "input $0.079/M \u2192 $0.7/M (+786%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/z-ai/glm-5.3",
+  "source": "models.dev",
+  "model": "openrouter/z-ai/glm-5.3",
+  "name": "GLM-5.3",
+  "detail": "output $1.4/M \u2192 $2.2/M (+57%) \u2014 also on 1 other listing"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/z-ai/glm-5.3-flash",
+  "source": "models.dev",
+  "model": "openrouter/z-ai/glm-5.3-flash",
+  "name": "GLM-5.3-Flash",
+  "detail": "input $0.041191/M \u2192 $0.0052/M (-87%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:openrouter/z-ai/glm-5.3-flash",
+  "source": "models.dev",
+  "model": "openrouter/z-ai/glm-5.3-flash",
+  "name": "GLM-5.3-Flash",
+  "detail": "output $0.12/M \u2192 $0.1985/M (+65%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:venice/inkling",
+  "source": "models.dev",
+  "model": "venice/inkling",
+  "name": "Inkling",
+  "detail": "input $1.25/M \u2192 $0.5625/M (-55%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "modelsdev:venice/inkling",
+  "source": "models.dev",
+  "model": "venice/inkling",
+  "name": "Inkling",
+  "detail": "output $5.0625/M \u2192 $1.5/M (-70%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:deepseek/deepseek-v4-pro",
+  "source": "openrouter",
+  "model": "deepseek/deepseek-v4-pro",
+  "name": "DeepSeek: DeepSeek V4 Pro 0423",
+  "detail": "input $0.422472/M \u2192 $0.442656/M (+5%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:deepseek/deepseek-v4-pro",
+  "source": "openrouter",
+  "model": "deepseek/deepseek-v4-pro",
+  "name": "DeepSeek: DeepSeek V4 Pro 0423",
+  "detail": "output $0.844944/M \u2192 $0.885312/M (+5%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:qwen/qwen3.5-122b-a10b",
+  "source": "openrouter",
+  "model": "qwen/qwen3.5-122b-a10b",
+  "name": "Qwen: Qwen3.5-122B-A10B",
+  "detail": "input $0.26/M \u2192 $0.4/M (+54%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:qwen/qwen3.5-122b-a10b",
+  "source": "openrouter",
+  "model": "qwen/qwen3.5-122b-a10b",
+  "name": "Qwen: Qwen3.5-122B-A10B",
+  "detail": "output $2.08/M \u2192 $3.2/M (+54%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:z-ai/glm-5.3-flash",
+  "source": "openrouter",
+  "model": "z-ai/glm-5.3-flash",
+  "name": "Z.ai: GLM 5.3 Flash",
+  "detail": "input $0.15/M \u2192 $0.0052/M (-97%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:z-ai/glm-5.3-flash",
+  "source": "openrouter",
+  "model": "z-ai/glm-5.3-flash",
+  "name": "Z.ai: GLM 5.3 Flash",
+  "detail": "output $0.5/M \u2192 $0.1985/M (-60%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:~moonshotai/kimi-latest",
+  "source": "openrouter",
+  "model": "~moonshotai/kimi-latest",
+  "name": "MoonshotAI: Kimi Latest",
+  "detail": "output $24.0/M \u2192 $16.0/M (-33%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "price_change",
+  "weight": 2,
+  "key": "openrouter:~z-ai/glm-flash-latest",
+  "source": "openrouter",
+  "model": "~z-ai/glm-flash-latest",
+  "name": "Z.ai: GLM Flash Latest",
+  "detail": "input $0.051691/M \u2192 $0.0052/M (-90%)"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:cortecs/kolibri-1",
+  "source": "models.dev",
+  "model": "cortecs/kolibri-1",
+  "name": "kolibri-1",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:edenai/flexai/DeepSeek-V4.1-Flash-1017",
+  "source": "models.dev",
+  "model": "edenai/flexai/DeepSeek-V4.1-Flash-1017",
+  "name": "DeepSeek V4.1 Flash 1017 (FlexAI)",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:edenai/sference/deepseek-ai/DeepSeek-V4-Flash-0731",
+  "source": "models.dev",
+  "model": "edenai/sference/deepseek-ai/DeepSeek-V4-Flash-0731",
+  "name": "DeepSeek V4 Flash 0731 (Sference)",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:edenai/sference/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "source": "models.dev",
+  "model": "edenai/sference/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "name": "DeepSeek V4.1 Flash 1017 (Sference)",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:fireworks-ai/accounts/fireworks/routers/deepseek-v4p1-flash-spot",
+  "source": "models.dev",
+  "model": "fireworks-ai/accounts/fireworks/routers/deepseek-v4p1-flash-spot",
+  "name": "DeepSeek V4.1 Flash Spot",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:fireworks-ai/accounts/fireworks/routers/glm-5p3-spot",
+  "source": "models.dev",
+  "model": "fireworks-ai/accounts/fireworks/routers/glm-5p3-spot",
+  "name": "GLM 5.3 Spot",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:inceptron/zai-org/GLM-5.3",
+  "source": "models.dev",
+  "model": "inceptron/zai-org/GLM-5.3",
+  "name": "GLM 5.3",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:inceptron/zai-org/GLM-5.3-Flash",
+  "source": "models.dev",
+  "model": "inceptron/zai-org/GLM-5.3-Flash",
+  "name": "GLM 5.3 Flash",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:kilo/minimax/minimax-m3.1-flash",
+  "source": "models.dev",
+  "model": "kilo/minimax/minimax-m3.1-flash",
+  "name": "MiniMax: MiniMax M3.1 Flash",
+  "detail": "appeared in the catalog \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:kilo/recursive/flint-v1.0:free",
+  "source": "models.dev",
+  "model": "kilo/recursive/flint-v1.0:free",
+  "name": "Recursive: Flint (free)",
+  "detail": "appeared in the catalog (free) \u2014 also on 2 other listings"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:llmgateway-providers/reka-ai/deepseek-v4.1-flash",
+  "source": "models.dev",
+  "model": "llmgateway-providers/reka-ai/deepseek-v4.1-flash",
+  "name": "DeepSeek V4.1 Flash (reka-ai)",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:llmgateway-providers/reka-ai/deepseek-v4.1-flash-1017",
+  "source": "models.dev",
+  "model": "llmgateway-providers/reka-ai/deepseek-v4.1-flash-1017",
+  "name": "DeepSeek V4.1 Flash 1017 (reka-ai)",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:llmgateway-providers/reka-ai/glm-5.3-flash",
+  "source": "models.dev",
+  "model": "llmgateway-providers/reka-ai/glm-5.3-flash",
+  "name": "GLM-5.3 Flash (reka-ai)",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:nano-gpt/TheDrummer/skyfall-31b-v4.2",
+  "source": "models.dev",
+  "model": "nano-gpt/TheDrummer/skyfall-31b-v4.2",
+  "name": "TheDrummer Skyfall 31B v4.2",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:nano-gpt/ateron/gemma-4-dark-thoughts-v2-31b",
+  "source": "models.dev",
+  "model": "nano-gpt/ateron/gemma-4-dark-thoughts-v2-31b",
+  "name": "Gemma 4 Dark Thoughts V2 31B",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:nano-gpt/nbeerbower/gemma4-gutenberg-31b",
+  "source": "models.dev",
+  "model": "nano-gpt/nbeerbower/gemma4-gutenberg-31b",
+  "name": "Gemma 4 Gutenberg 31B",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:nano-gpt/nimbz/gemma-4-giftige-blume-31b-v2",
+  "source": "models.dev",
+  "model": "nano-gpt/nimbz/gemma-4-giftige-blume-31b-v2",
+  "name": "Gemma 4 Giftige-Blume V2 31B",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:nano-gpt/nimbz/schattenblume-31b",
+  "source": "models.dev",
+  "model": "nano-gpt/nimbz/schattenblume-31b",
+  "name": "Schattenblume 31B",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:nano-gpt/ornith-ai/ornith-1.5-122b",
+  "source": "models.dev",
+  "model": "nano-gpt/ornith-ai/ornith-1.5-122b",
+  "name": "Ornith 1.5 122B",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:opencode-go/minimax-m3.1-flash",
+  "source": "models.dev",
+  "model": "opencode-go/minimax-m3.1-flash",
+  "name": "MiniMax M3.1 Flash",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:scaleway/lightonocr-3-0.8b",
+  "source": "models.dev",
+  "model": "scaleway/lightonocr-3-0.8b",
+  "name": "LightOnOCR-3 0.8B",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:vercel/cohere/rerank-v5-fast",
+  "source": "models.dev",
+  "model": "vercel/cohere/rerank-v5-fast",
+  "name": "Cohere Rerank 5 Fast",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "added",
+  "weight": 1,
+  "key": "modelsdev:vercel/cohere/rerank-v5-pro",
+  "source": "models.dev",
+  "model": "vercel/cohere/rerank-v5-pro",
+  "name": "Cohere Rerank 5 Pro",
+  "detail": "appeared in the catalog"
+ },
+ {
+  "date": "2026-10-23",
+  "kind": "context_change",
+  "weight": 1,
+  "key": "modelsdev:pioneer/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+  "source": "models.dev",
+  "model": "pioneer/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+  "name": "Nemotron 3.5 Lightning 30B A3B",
+  "detail": "context 8,192 \u2192 65,536 tokens"
+ }
+]
